@@ -1,0 +1,609 @@
+is_closed,name,price,rating,review_count,categories,id
+False,Hoodwinked Escape,,4.5,72,"[{'alias': 'escapegames', 'title': 'Escape Games'}]",EWI4AuNQ39-qzppUCfYeGA
+False,Larry's Freewheeling,$$,4.5,108,"[{'alias': 'bike_repair_maintenance', 'title': 'Bike Repair/Maintenance'}, {'alias': 'bikerentals', 'title': 'Bike Rentals'}, {'alias': 'bikes', 'title': 'Bikes'}]",00rrqw4O0Flfatd0VV6QAg
+False,West Side Taekwondo,,5.0,15,"[{'alias': 'taekwondo', 'title': 'Taekwondo'}]",Oq6s22QK14dCzjGRhHxivA
+False,iLoveKickboxing.com,,3.5,43,"[{'alias': 'gyms', 'title': 'Gyms'}, {'alias': 'kickboxing', 'title': 'Kickboxing'}]",CnY_KPqSuKIFCZHsQDRG6g
+False,Blink Fitness,,3.0,58,"[{'alias': 'gyms', 'title': 'Gyms'}]",v1oSEKjF7EQGLQHR-zVPtw
+False,Dekhana Wellness,,5.0,10,"[{'alias': 'healthtrainers', 'title': 'Trainers'}, {'alias': 'nutritionists', 'title': 'Nutritionists'}]",wI-L5F6xYAoZshzEbkml_w
+False,Groovefit,,5.0,5,"[{'alias': 'dancestudio', 'title': 'Dance Studios'}, {'alias': 'theater', 'title': 'Performing Arts'}, {'alias': 'dance_schools', 'title': 'Dance Schools'}]",NUXdi_-IW-82POp0GSyk8Q
+False,New York Sports Clubs,,3.0,48,"[{'alias': 'gyms', 'title': 'Gyms'}, {'alias': 'healthtrainers', 'title': 'Trainers'}]",G3Pi--DpJcsV5xS4HWp8Qw
+False,enduranceWERX,,5.0,3,"[{'alias': 'cyclingclasses', 'title': 'Cycling Classes'}]",FynVmv0uXctU4hw-vx_PKA
+False,Land Yoga,,4.0,14,"[{'alias': 'yoga', 'title': 'Yoga'}]",ryhxaXvnYvDJiNYQqLKFTQ
+False,Splash Fit Swimming,,5.0,11,"[{'alias': 'swimminglessons', 'title': 'Swimming Lessons/Schools'}]",TW4yB-pC4vy6RSJrloL7VA
+False,Charles A. Dana Discovery Center,,4.5,4,"[{'alias': 'parks', 'title': 'Parks'}]",JA8vReW-Tquw_gH380znuA
+False,The Bridge Golf Learning Center,,5.0,2,"[{'alias': 'golflessons', 'title': 'Golf Lessons'}, {'alias': 'golf', 'title': 'Golf'}]",hl2Wn-g6cq_0ok2cst9gMA
+False,CityFly,,5.0,1,"[{'alias': 'fishing', 'title': 'Fishing'}]",dxbChBpoHDeQTy7wyCeTfg
+False,Harlem Tae Kwon Do,,5.0,3,"[{'alias': 'taekwondo', 'title': 'Taekwondo'}]",YuFtIWEQXVfzUgbE7hDrVA
+False,StreetSquash,,4.5,2,"[{'alias': 'sports_clubs', 'title': 'Sports Clubs'}, {'alias': 'squash', 'title': 'Squash'}]",BjxsssJ9n0vwmwsakrtM-A
+False,JCC Harlem,,5.0,1,"[{'alias': 'kids_activities', 'title': 'Kids Activities'}]",wYAlemmZFk74V0atVoccnA
+False,The Center Studio,,5.0,3,"[{'alias': 'pilates', 'title': 'Pilates'}]",42RRzPBVj_-jzvRGIF8MkQ
+False,Mindful Harlem,,5.0,1,"[{'alias': 'meditationcenters', 'title': 'Meditation Centers'}]",ZKeIGumlfLE-z2d4Zql27Q
+False,Full Spectrum Fitness and Performance,,5.0,1,"[{'alias': 'healthtrainers', 'title': 'Trainers'}]",xc-XKsrfhx8TuFPPdnvTYw
+False,Helen B Atkinson Health Center,,2.0,5,"[{'alias': 'healthtrainers', 'title': 'Trainers'}]",OjwIp52dS3cHsdBOdkFYOg
+False,Superior Fitness Lab,,5.0,1,"[{'alias': 'healthtrainers', 'title': 'Trainers'}]",Dg0Ya0KQtQEGiJIjxFG2Og
+False,Minton's Playhouse,$$$,3.5,156,"[{'alias': 'jazzandblues', 'title': 'Jazz & Blues'}, {'alias': 'tradamerican', 'title': 'American (Traditional)'}, {'alias': 'bars', 'title': 'Bars'}]",sJPayLq6EqepJbPGLlFfHw
+False,The Winery,$$,4.0,84,"[{'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}, {'alias': 'wineries', 'title': 'Wineries'}]",lxHFVi4iZZRuNtbVW-ysQQ
+False,Paris Blues,$$,4.0,84,"[{'alias': 'divebars', 'title': 'Dive Bars'}, {'alias': 'jazzandblues', 'title': 'Jazz & Blues'}]",ClHBe70in3w1o3xWTzOrpw
+False,Harlem Heritage Tours,,4.0,23,"[{'alias': 'tours', 'title': 'Tours'}, {'alias': 'arts', 'title': 'Arts & Entertainment'}]",-xk2XBOvUCiJ2mL0t-KiGA
+False,Painting Lounge,,5.0,12,"[{'alias': 'paintandsip', 'title': 'Paint & Sip'}, {'alias': 'artclasses', 'title': 'Art Classes'}]",otAYXKwYJ4MI4_c0O-Nalw
+False,Groovefit,,5.0,5,"[{'alias': 'dancestudio', 'title': 'Dance Studios'}, {'alias': 'theater', 'title': 'Performing Arts'}, {'alias': 'dance_schools', 'title': 'Dance Schools'}]",NUXdi_-IW-82POp0GSyk8Q
+False,The Univited Awakening,,3.5,3,"[{'alias': 'hauntedhouses', 'title': 'Haunted Houses'}]",yK0crPH46yKhX2VJhVOT9g
+False,Four Seasons Ensemble,,5.0,1,"[{'alias': 'musicians', 'title': 'Musicians'}, {'alias': 'theater', 'title': 'Performing Arts'}]",dyLTc9VEdmlKaAIbrGuqNA
+False,Theatre Reels Plus,,5.0,4,"[{'alias': 'videofilmproductions', 'title': 'Video/Film Production'}, {'alias': 'theater', 'title': 'Performing Arts'}, {'alias': 'videographers', 'title': 'Videographers'}]",BIGuXhSNBIVTJPmsyKWjgw
+False,Harlem Eat Up,,5.0,1,"[{'alias': 'festivals', 'title': 'Festivals'}]",XykOPtl8YctqVEVFe1YocA
+False,Reginald Rousseau Working Art Studio,,4.0,1,"[{'alias': 'galleries', 'title': 'Art Galleries'}]",Os_c3Puo6tqLdo8FK8BBpg
+False,Serign - Spiritual Reader,,5.0,1,"[{'alias': 'psychic_astrology', 'title': 'Supernatural Readings'}]",uOQGbNJvNWGxao0_l1QxWg
+False,Prelude Productions,,5.0,1,"[{'alias': 'musicians', 'title': 'Musicians'}, {'alias': 'jazzandblues', 'title': 'Jazz & Blues'}, {'alias': 'theater', 'title': 'Performing Arts'}]",gx7b4DNs_k0vYvNumR1nUQ
+False,Prestige Auto Repair NYC,,4.5,121,"[{'alias': 'autorepair', 'title': 'Auto Repair'}, {'alias': 'towing', 'title': 'Towing'}, {'alias': 'bodyshops', 'title': 'Body Shops'}]",kgs2gD1gBF0AqQ3auywCgA
+False,Jireh Tire,,5.0,7,"[{'alias': 'tires', 'title': 'Tires'}]",_c_n_hzkymPpmftLQSJ2ig
+False,Fix My Wheelchair,,5.0,4,"[{'alias': 'mobilityequipment', 'title': 'Mobility Equipment Sales & Services'}]",3UptN6gQ7iSWT1jGNKwdXw
+False,Harl Parking Corporation,,5.0,2,"[{'alias': 'parking', 'title': 'Parking'}]",ZJzltKW0wVTLbIrvzvO34Q
+False,Champion Parking 113,,4.5,2,"[{'alias': 'parking', 'title': 'Parking'}]",dpKMvxQ9Ph0eiW9EWXGI0w
+False,City Towing NYC,,3.0,2,"[{'alias': 'towing', 'title': 'Towing'}]",WJa0lWQyMRGrVaktjcZ8pw
+False,Cibao Auto Repair,,3.0,4,"[{'alias': 'autorepair', 'title': 'Auto Repair'}]",fZS8oe6bnDjmZdF1OsXHcA
+False,Shell Gas Station,,4.0,1,"[{'alias': 'servicestations', 'title': 'Gas Stations'}]",IRrJTg1yCb-eiOIR_4R7Pg
+False,Quik Park W. 116Th,,1.0,3,"[{'alias': 'parking', 'title': 'Parking'}]",fALhxlKH8OpFfHcbsxpzWA
+False,GMC Parking West 122nd Street Garage,,2.0,4,"[{'alias': 'parking', 'title': 'Parking'}]",fg_ZETndcx4GphVR5FtGqw
+False,E & B Operating Corporation Parking Garage,,1.5,7,"[{'alias': 'parking', 'title': 'Parking'}]",81A-T4e519No4Ni8GD9_Zw
+False,Imperial Parking Systems,,1.0,1,"[{'alias': 'parking', 'title': 'Parking'}]",SPuXA3ehX6gRVoSTXe98zw
+False,125th Street Garage,,2.0,1,"[{'alias': 'parking', 'title': 'Parking'}]",LXa7kLuh4TAestDP5TGr5Q
+False,Easy Cross Parking,,1.0,1,"[{'alias': 'parking', 'title': 'Parking'}]",Ay9cHzbIhQmpwX4gTee90w
+False,Uptown Parking,,1.0,1,"[{'alias': 'parking', 'title': 'Parking'}]",47kYmkwr9ujJZ9jAkmgmnw
+False,ProPark,,1.5,2,"[{'alias': 'parking', 'title': 'Parking'}]",t-0OY5sQjWHj3AYn-9Krew
+False,Merit Parking,,1.5,2,"[{'alias': 'parking', 'title': 'Parking'}]",EGt83L3NoFAXrjbQpFUKCg
+False,Standard Parking,,1.0,1,"[{'alias': 'parking', 'title': 'Parking'}]",p0TpGsCVaK3f35euGQwXKg
+False,Tow Truck NYC,,1.0,1,"[{'alias': 'autorepair', 'title': 'Auto Repair'}, {'alias': 'towing', 'title': 'Towing'}]",UX5JzgIzR1vTfFvZQqm1XA
+False,Harlem Skin & Laser Clinic,$$,4.0,210,"[{'alias': 'skincare', 'title': 'Skin Care'}, {'alias': 'laser_hair_removal', 'title': 'Laser Hair Removal'}, {'alias': 'waxing', 'title': 'Waxing'}]",Y5JkvLfBFDxxTKqr5WugFA
+False,Honey Salon,$$,4.0,154,"[{'alias': 'hair', 'title': 'Hair Salons'}]",uC9M9YlhgqqT5E-bRgCzKA
+False,Fumic Jewelry Nail,$$$,4.5,54,"[{'alias': 'othersalons', 'title': 'Nail Salons'}]",Vi7hKFtLt6jMVyhi5m-72g
+False,"Real Beauty Threading, Facial & Waxing Center",$,5.0,61,"[{'alias': 'threadingservices', 'title': 'Threading Services'}, {'alias': 'skincare', 'title': 'Skin Care'}, {'alias': 'sugaring', 'title': 'Sugaring'}]",n-r0LS2jOwjhihSkjVPrxA
+False,Coco Young Nail Salon,$$,4.0,92,"[{'alias': 'othersalons', 'title': 'Nail Salons'}]",uehLIM4VXnrqL1iqinjukg
+False,Perfect Eyebrows Threading Salon,$,4.5,30,"[{'alias': 'threadingservices', 'title': 'Threading Services'}, {'alias': 'eyebrowservices', 'title': 'Eyebrow Services'}]",g7ErqRz8IqApl4G0Z9PnwQ
+False,Lilac Nail & Spa,$$,3.5,158,"[{'alias': 'othersalons', 'title': 'Nail Salons'}, {'alias': 'spas', 'title': 'Day Spas'}, {'alias': 'waxing', 'title': 'Waxing'}]",mBr6BUNc6rEUcp9BJcJMCg
+False,Chic Spa & Nail,$$,3.0,91,"[{'alias': 'othersalons', 'title': 'Nail Salons'}, {'alias': 'spas', 'title': 'Day Spas'}]",E0AraR2gwD59hf7QwI5FWw
+False,Megan Reilly,$$$,4.5,15,"[{'alias': 'hairstylists', 'title': 'Hair Stylists'}, {'alias': 'blowoutservices', 'title': 'Blow Dry/Out Services'}]",CpNIeDKAqzkaK9B-8ZEChw
+False,Jireh Nails Plus,$$,3.5,36,"[{'alias': 'othersalons', 'title': 'Nail Salons'}]",P0kIb32CXjedhhFeWsRFGQ
+False,Brazilian Keratin NYC,$$,5.0,15,"[{'alias': 'hair', 'title': 'Hair Salons'}]",ZhP8H2attf8eow8X7hS2ZA
+False,Dorée Nails & Spa,$$,3.0,58,"[{'alias': 'othersalons', 'title': 'Nail Salons'}, {'alias': 'spas', 'title': 'Day Spas'}]",o2bNOYQabQ9fhHyUJoa5rg
+False,Bibi Salon,$$$,4.0,29,"[{'alias': 'hair', 'title': 'Hair Salons'}, {'alias': 'eyelashservice', 'title': 'Eyelash Service'}, {'alias': 'cosmetics', 'title': 'Cosmetics & Beauty Supply'}]",xXUT3AEaclBliFLlT884NA
+False,Cay Spa,$$$,4.0,15,"[{'alias': 'spas', 'title': 'Day Spas'}]",b9nN15bMLsqgN_wTVzm7Dg
+False,Naturally Healthy and Beautiful,$$$,5.0,8,"[{'alias': 'hair', 'title': 'Hair Salons'}]",YJx5vjZoWkZ-FtwgmmpzTg
+False,Ethereal Aromatherapy and Skin Care,$$$,5.0,4,"[{'alias': 'skincare', 'title': 'Skin Care'}, {'alias': 'waxing', 'title': 'Waxing'}, {'alias': 'cosmetics', 'title': 'Cosmetics & Beauty Supply'}]",NDI0jqz1I_NgdZatylfgwQ
+False,Salon Gill,$$,5.0,11,"[{'alias': 'hair', 'title': 'Hair Salons'}]",LX8cVPRsS8DLsyOqbFw9QA
+False,Agape Beauty Salon,$$,4.0,12,"[{'alias': 'hair', 'title': 'Hair Salons'}]",FY9iJbbS61pWW84ayl9wgA
+False,Fracassi Lashes,$$,3.0,27,"[{'alias': 'eyelashservice', 'title': 'Eyelash Service'}]",JNu6hZQPgyG1OsZ8_SjD6A
+False,Gina Nicora,,5.0,8,"[{'alias': 'makeupartists', 'title': 'Makeup Artists'}]",KGTmPidvSbvzMRFQx1d9MQ
+False,Billy Jean,$$,2.5,26,"[{'alias': 'hair', 'title': 'Hair Salons'}]",6DnswLs9FFCFgPuKf1Ay2w
+False,Kendra Beauty Salon,$,5.0,4,"[{'alias': 'hair', 'title': 'Hair Salons'}]",wxwvhBOvlj_8njG8Q2n9Cg
+False,Hair By Simona,$$,4.0,14,"[{'alias': 'hairstylists', 'title': 'Hair Stylists'}]",FLeOY9aWbHxPDJocrfhV3Q
+False,Clara Beauty Salon,$$,3.5,16,"[{'alias': 'hair', 'title': 'Hair Salons'}]",KQiJtTrw89E4uQG4LLsa4Q
+False,Maritza House of Beauty,$$,3.5,12,"[{'alias': 'hair', 'title': 'Hair Salons'}]",2LwINgxjk_9DzbHSnAo7iQ
+False,The Salon For Natural Hair,$$$,2.5,18,"[{'alias': 'hair_extensions', 'title': 'Hair Extensions'}, {'alias': 'hairstylists', 'title': 'Hair Stylists'}, {'alias': 'blowoutservices', 'title': 'Blow Dry/Out Services'}]",M4LGnLRCpPd0QSyMTy3JvA
+False,Yiska Obadia-Gedal,,5.0,3,"[{'alias': 'acupuncture', 'title': 'Acupuncture'}, {'alias': 'massage', 'title': 'Massage'}, {'alias': 'massage_therapy', 'title': 'Massage Therapy'}]",YD1n3JpgrDukAWgKfFWW-w
+False,Fantasy Nails,$$$$,3.5,3,"[{'alias': 'othersalons', 'title': 'Nail Salons'}]",wFZK5TxWkO3PGAGSpTpuFw
+False,Vivian Hair and Nails Beauty Salon,,4.0,1,"[{'alias': 'hair', 'title': 'Hair Salons'}, {'alias': 'othersalons', 'title': 'Nail Salons'}]",XPqlUGGAw9ra8YOLjkRtbw
+False,Obayanna Mane,$$,5.0,1,"[{'alias': 'hairstylists', 'title': 'Hair Stylists'}]",wjzc21o_RESvofYHM4xerQ
+False,Loretta Grant,,5.0,3,"[{'alias': 'hair_extensions', 'title': 'Hair Extensions'}, {'alias': 'blowoutservices', 'title': 'Blow Dry/Out Services'}]",KOmCLxh1QXwWipWpsz1W5w
+False,Organic Beauty Salon NYC,$$,5.0,4,"[{'alias': 'hair', 'title': 'Hair Salons'}]",gqvQ2RDuCBF8XHoNrQNH2Q
+False,Lourdes Salon,$$,2.0,5,"[{'alias': 'hair', 'title': 'Hair Salons'}]",cRixblA0K9aowVpk69h_CQ
+False,Styles By C.Smith,$$,5.0,1,"[{'alias': 'hairstylists', 'title': 'Hair Stylists'}, {'alias': 'hair_extensions', 'title': 'Hair Extensions'}, {'alias': 'blowoutservices', 'title': 'Blow Dry/Out Services'}]",ZoNJNmo5675NMCQt1Twa8Q
+False,Hair Design by Oumou,$,2.0,4,"[{'alias': 'hairstylists', 'title': 'Hair Stylists'}, {'alias': 'hair_extensions', 'title': 'Hair Extensions'}]",ETSjfv_fH8UKJEIddlfn3A
+False,Cutzbymoe,$,5.0,1,"[{'alias': 'barbers', 'title': 'Barbers'}]",nEEJOUi6DrZGWH7Cp-O8lw
+False,Ms. P's Hair Studio,$$,3.0,4,"[{'alias': 'hair', 'title': 'Hair Salons'}]",SwBCRfWCeeAz917-DHxj7w
+False,Queens Choice Laser Hair Removal,$$,5.0,3,"[{'alias': 'laser_hair_removal', 'title': 'Laser Hair Removal'}]",PgvEFvp9s0XmShb2kdcmcg
+False,D'clenis Unisex,,4.0,1,"[{'alias': 'hair_extensions', 'title': 'Hair Extensions'}]",ZqMEIyKZxC-QYCL_9Hwqng
+False,Max Beauty,,2.0,2,"[{'alias': 'cosmetics', 'title': 'Cosmetics & Beauty Supply'}]",DXcPT_yJ3n8upNhbMzXo_w
+False,D's Girls Hair Studio,$$,2.0,1,"[{'alias': 'hair', 'title': 'Hair Salons'}]",wCa-gUlRiSWEUnkozlOTwA
+False,Lourdes Santa Beauty Salon,,2.0,1,"[{'alias': 'cosmetics', 'title': 'Cosmetics & Beauty Supply'}]",DzEleue07e70wRh_pSgSXw
+False,Wow African Hair Braiding,,1.0,1,"[{'alias': 'hairstylists', 'title': 'Hair Stylists'}]",_NFyDb1GIxv4jxLOkGLFjA
+False,CM Beauty,$$,5.0,3,"[{'alias': 'makeupartists', 'title': 'Makeup Artists'}]",KMLHqF3x-EOiiVTvAaXSaQ
+False,New Harlem Unisex,$$$$,5.0,1,"[{'alias': 'barbers', 'title': 'Barbers'}]",cTuzI0mAiBmOZWgAtVricw
+False,Timite & Sons Beauty Supply,$$$,5.0,1,"[{'alias': 'cosmetics', 'title': 'Cosmetics & Beauty Supply'}, {'alias': 'musicvideo', 'title': 'Music & DVDs'}]",UTSnIm4Ir4fFLUFLGthteg
+False,"Jaeger D Lawrence, MD",,1.0,1,"[{'alias': 'dermatology', 'title': 'Dermatologists'}, {'alias': 'skincare', 'title': 'Skin Care'}]",_mvotYp_-stLOv8sfE_rIA
+False,HKS Harlem's Finest Unisex Beauty Salon,$,5.0,1,"[{'alias': 'hairstylists', 'title': 'Hair Stylists'}, {'alias': 'wigs', 'title': 'Wigs'}]",yhLxsggARyCTlW-iqY_SnA
+False,Painting Lounge,,5.0,12,"[{'alias': 'paintandsip', 'title': 'Paint & Sip'}, {'alias': 'artclasses', 'title': 'Art Classes'}]",otAYXKwYJ4MI4_c0O-Nalw
+False,Honor Nature Birth Services,,5.0,9,"[{'alias': 'doulas', 'title': 'Doulas'}, {'alias': 'lactationservices', 'title': 'Lactation Services'}, {'alias': 'childbirthedu', 'title': 'Childbirth Education'}]",7J74A5-sRwYAxLgO5UppcA
+False,Groovefit,,5.0,5,"[{'alias': 'dancestudio', 'title': 'Dance Studios'}, {'alias': 'theater', 'title': 'Performing Arts'}, {'alias': 'dance_schools', 'title': 'Dance Schools'}]",NUXdi_-IW-82POp0GSyk8Q
+False,Splash Fit Swimming,,5.0,11,"[{'alias': 'swimminglessons', 'title': 'Swimming Lessons/Schools'}]",TW4yB-pC4vy6RSJrloL7VA
+False,Harlem Hebrew Language Academy Charter School,,4.5,4,"[{'alias': 'elementaryschools', 'title': 'Elementary Schools'}]",1Op-r52lxVCoh0yuCIeLXQ
+False,Peartree Preschool,,4.0,4,"[{'alias': 'preschools', 'title': 'Preschools'}]",IIBPbCaW6lmTA81dYuY-wA
+False,Bravo Zulu,,4.5,2,"[{'alias': 'firstaidclasses', 'title': 'First Aid Classes'}, {'alias': 'safetyequipment', 'title': 'Safety Equipment'}, {'alias': 'cprclasses', 'title': 'CPR Classes'}]",ydHRZD1TfiQGL1_8eGxV3g
+False,A B Sea Group Family Day Care,,5.0,6,"[{'alias': 'preschools', 'title': 'Preschools'}, {'alias': 'childcare', 'title': 'Child Care & Day Care'}]",LGQA2n0c1X6AHwGT4-_9oA
+False,Sunshine Daycare of East Harlem LLC,,4.0,3,"[{'alias': 'childcare', 'title': 'Child Care & Day Care'}, {'alias': 'preschools', 'title': 'Preschools'}]",Cc6rwo4Sv4JSH8z9HOfZKQ
+False,Harlem Success,,5.0,1,"[{'alias': 'elementaryschools', 'title': 'Elementary Schools'}]",VWUkbGVMcQAchhgeB4MRXQ
+False,City Seminary Of New York,,4.0,1,"[{'alias': 'religiousschools', 'title': 'Religious Schools'}]",LeMaYs7WUs2CzsFHiPAnRQ
+False,Mid-Manhattan Adult Learning Center,,2.0,5,"[{'alias': 'adultedu', 'title': 'Adult Education'}]",M3QVVhsWuz2HWp-nwgn2wA
+False,Harlem Academy,,2.0,1,"[{'alias': 'elementaryschools', 'title': 'Elementary Schools'}, {'alias': 'highschools', 'title': 'Middle Schools & High Schools'}]",mwmBNHP-iP-g8nDrNMKVTw
+False,The Restaurant at MIST,$$,3.5,64,"[{'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",LW_t_KO6SybdAHMtNilAEA
+False,New Day Photography Studio,,5.0,7,"[{'alias': 'sessionphotography', 'title': 'Session Photography'}]",xQBEf56QPUNR-QekZuwfnQ
+False,NiLu Gift Shop,$$,4.0,9,"[{'alias': 'giftshops', 'title': 'Gift Shops'}, {'alias': 'stationery', 'title': 'Cards & Stationery'}]",FGK3UUu2nZg4KK7XrctEZg
+False,Suite 116,,5.0,6,"[{'alias': 'venues', 'title': 'Venues & Event Spaces'}, {'alias': 'eventplanning', 'title': 'Party & Event Planning'}]",BMqJ-WhM1GWsNUO0LbqqAQ
+False,Gregory Beltre Photography,,5.0,3,"[{'alias': 'eventphotography', 'title': 'Event Photography'}, {'alias': 'sessionphotography', 'title': 'Session Photography'}]",cC8Q4VTfDgeWWncYGutWFg
+False,Quintessencia,,5.0,3,"[{'alias': 'catering', 'title': 'Caterers'}, {'alias': 'personalchefs', 'title': 'Personal Chefs'}, {'alias': 'cookingclasses', 'title': 'Cooking Classes'}]",ZMeIWbjQWKUoVrElH6ZNPA
+False,Faculty House,,4.5,8,"[{'alias': 'venues', 'title': 'Venues & Event Spaces'}]",U1EXpD3qBDhtTuS7mIkD2A
+False,Floral Design,,5.0,2,"[{'alias': 'wedding_planning', 'title': 'Wedding Planning'}, {'alias': 'eventplanning', 'title': 'Party & Event Planning'}]",SN-A6qOyfeYEwgRTDy-GiQ
+False,Ronald Stewart Photography,,5.0,2,"[{'alias': 'eventphotography', 'title': 'Event Photography'}, {'alias': 'sessionphotography', 'title': 'Session Photography'}, {'alias': 'photographystores', 'title': 'Photography Stores & Services'}]",wyCLhSW6FQWM7AuxWQslhw
+False,Four Seasons Ensemble,,5.0,1,"[{'alias': 'musicians', 'title': 'Musicians'}, {'alias': 'theater', 'title': 'Performing Arts'}]",dyLTc9VEdmlKaAIbrGuqNA
+False,Theatre Reels Plus,,5.0,4,"[{'alias': 'videofilmproductions', 'title': 'Video/Film Production'}, {'alias': 'theater', 'title': 'Performing Arts'}, {'alias': 'videographers', 'title': 'Videographers'}]",BIGuXhSNBIVTJPmsyKWjgw
+False,New Ebony Hotel,$,2.0,8,"[{'alias': 'hotels', 'title': 'Hotels'}]",OKppbz70awi56NTSBhiR7w
+False,102 Brownstone,,3.0,1,"[{'alias': 'hotels', 'title': 'Hotels'}]",4NZv4ntY8k-stkRPfxOwzA
+False,FALLIER FOOD,,5.0,8,"[{'alias': 'catering', 'title': 'Caterers'}]",rsyYZFhujf0ge491F6Aqrg
+False,O & G Party Palace,,3.0,2,"[{'alias': 'partysupplies', 'title': 'Party Supplies'}, {'alias': 'partyequipmentrentals', 'title': 'Party Equipment Rentals'}, {'alias': 'eventplanning', 'title': 'Party & Event Planning'}]",2_RMO3Wf_BaG6HHBZs67FQ
+False,Tony's Place Bed & Breakfast,$$,1.0,3,"[{'alias': 'hotels', 'title': 'Hotels'}, {'alias': 'bedbreakfast', 'title': 'Bed & Breakfast'}]",A_0okz0EXGIdSGX0Wx6QGg
+False,Prelude Productions,,5.0,1,"[{'alias': 'musicians', 'title': 'Musicians'}, {'alias': 'jazzandblues', 'title': 'Jazz & Blues'}, {'alias': 'theater', 'title': 'Performing Arts'}]",gx7b4DNs_k0vYvNumR1nUQ
+False,All Access Studio,,5.0,1,"[{'alias': 'eventservices', 'title': 'Event Planning & Services'}]",Xh-ztbq5nVgtSpCE-iRE2g
+False,Sarah Cassar Photography,,5.0,1,"[{'alias': 'sessionphotography', 'title': 'Session Photography'}, {'alias': 'eventphotography', 'title': 'Event Photography'}]",zap7lMSJkvfAo72KzP466w
+False,Burgos Design,,5.0,3,"[{'alias': 'floraldesigners', 'title': 'Floral Designers'}, {'alias': 'wedding_planning', 'title': 'Wedding Planning'}, {'alias': 'eventplanning', 'title': 'Party & Event Planning'}]",BT0cz06czXIBJrC0kCQw6Q
+False,Wells Fargo Bank,,3.5,9,"[{'alias': 'banks', 'title': 'Banks & Credit Unions'}]",ea-XNwyV0-CyIZMHgbTDag
+False,Jackson Hewitt Tax Service,,3.5,3,"[{'alias': 'taxservices', 'title': 'Tax Services'}]",0Ma1QIEBpt3XJiU2iiVonw
+False,Chase Bank,,3.0,5,"[{'alias': 'banks', 'title': 'Banks & Credit Unions'}]",T7UMjJwENjlF1kswldlUvQ
+False,HSBC,,2.5,3,"[{'alias': 'banks', 'title': 'Banks & Credit Unions'}]",6jI9WDWWEbMfI13xaFEt7w
+False,Linda Burchett - State Farm Insurance Agent,,2.0,5,"[{'alias': 'homeinsurance', 'title': 'Home & Rental Insurance'}, {'alias': 'autoinsurance', 'title': 'Auto Insurance'}, {'alias': 'lifeinsurance', 'title': 'Life Insurance'}]",xekDk_wd2xnKxeTxbNKN4A
+False,Elite Tax Preparation,,4.0,1,"[{'alias': 'taxservices', 'title': 'Tax Services'}]",uR4aRZ27NBLbzQWJyamVwQ
+False,Levain Bakery,$$,4.5,579,"[{'alias': 'bakeries', 'title': 'Bakeries'}]",QHYqNQhQ8NVK0RX68Y4PuQ
+False,BO's Bagels,$,4.5,138,"[{'alias': 'bagels', 'title': 'Bagels'}]",Fx_zqaXVgc8BzwIfcbEKkw
+False,Harlem Shambles,$$,4.5,95,"[{'alias': 'butcher', 'title': 'Butcher'}, {'alias': 'meats', 'title': 'Meat Shops'}]",D2SN1HiPSMrRHo9WxWVbTg
+False,Lee Lee's Baked Goods,$,4.5,121,"[{'alias': 'bakeries', 'title': 'Bakeries'}, {'alias': 'desserts', 'title': 'Desserts'}]",YNgBR2pGWmMZAYFQbByODA
+False,Double Dutch Espresso,$$,4.0,180,"[{'alias': 'bagels', 'title': 'Bagels'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}, {'alias': 'internetcafe', 'title': 'Internet Cafes'}]",-AixNVwQogQlGjWKttuw5w
+False,Juke Box Juice & Salad,$$,4.5,46,"[{'alias': 'juicebars', 'title': 'Juice Bars & Smoothies'}]",MgCjEMZf8RWuSlJk-CQY8Q
+False,The Winery,$$,4.0,84,"[{'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}, {'alias': 'wineries', 'title': 'Wineries'}]",lxHFVi4iZZRuNtbVW-ysQQ
+False,Harlem Food Bar,$$,3.5,191,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}]",OZtXG5DUsJZrtMFWodCNnA
+False,RDV Rendezvous,$$,4.0,98,"[{'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'french', 'title': 'French'}, {'alias': 'desserts', 'title': 'Desserts'}]",6nnhmOgTeI6QmQS1LhMD9Q
+False,Best Market,$$,3.5,233,"[{'alias': 'grocery', 'title': 'Grocery'}, {'alias': 'markets', 'title': 'Fruits & Veggies'}, {'alias': 'organic_stores', 'title': 'Organic Stores'}]",3dyxUo0nT31VTwEaOp2CYA
+False,Silvana,$$,3.5,203,"[{'alias': 'mideastern', 'title': 'Middle Eastern'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}]",rrxcBTWS827bJ4oBr5a_ww
+False,Little Bean Coffee,$,4.5,43,"[{'alias': 'coffee', 'title': 'Coffee & Tea'}]",QDSUr46BlJP2_vhUI5nZtg
+False,Caféine,$$,4.0,59,"[{'alias': 'coffee', 'title': 'Coffee & Tea'}]",D1u3iqdd03wBBUXd-gEVwQ
+False,Harlem Coffee,$,4.0,84,"[{'alias': 'cafes', 'title': 'Cafes'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}, {'alias': 'desserts', 'title': 'Desserts'}]",OWOp7H1kLIz5kMtn0qKoLQ
+False,Sugar Hill Creamery,$$,4.5,69,"[{'alias': 'icecream', 'title': 'Ice Cream & Frozen Yogurt'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}, {'alias': 'desserts', 'title': 'Desserts'}]",KfPqpZb7dCRlgao5fQXrcA
+False,Il Caffe Latte,$$,3.5,248,"[{'alias': 'coffee', 'title': 'Coffee & Tea'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}]",N9cTbhwpTIcex_Je9Vx7lQ
+False,Patisserie Des Ambassades,$$,3.0,265,"[{'alias': 'bakeries', 'title': 'Bakeries'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'cakeshop', 'title': 'Patisserie/Cake Shop'}]",QUNchfxuTOOmjAXkHivYdQ
+False,Elma's,$,4.5,20,"[{'alias': 'caribbean', 'title': 'Caribbean'}, {'alias': 'soulfood', 'title': 'Soul Food'}, {'alias': 'juicebars', 'title': 'Juice Bars & Smoothies'}]",lpoam-7-1cS_tekd_uc8HQ
+False,L.a. SweetsNY,$$,4.5,29,"[{'alias': 'cupcakes', 'title': 'Cupcakes'}, {'alias': 'customcakes', 'title': 'Custom Cakes'}]",VomdK5tJhjPzSmN002zcVw
+False,Crepe Master,$$,5.0,7,"[{'alias': 'creperies', 'title': 'Creperies'}, {'alias': 'juicebars', 'title': 'Juice Bars & Smoothies'}]",CsncRlAhRbWDfluMeg1pzw
+False,Harlem Burger Co,$$,3.0,143,"[{'alias': 'burgers', 'title': 'Burgers'}, {'alias': 'juicebars', 'title': 'Juice Bars & Smoothies'}, {'alias': 'hotdogs', 'title': 'Fast Food'}]",lzevOsRjUiip3tSZA0KUng
+False,Hit Your V Spot,,5.0,8,"[{'alias': 'foodtrucks', 'title': 'Food Trucks'}]",2BJlKMmN-Wnslw0wWcv4lA
+False,Sea and Sea,$$,3.5,26,"[{'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'seafoodmarkets', 'title': 'Seafood Markets'}]",OvCHIeKj6hHdYmet-8NaTA
+False,Harmony,$$,3.0,47,"[{'alias': 'salad', 'title': 'Salad'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}, {'alias': 'bubbletea', 'title': 'Bubble Tea'}]",xKscjvRpp05aAJkPP507cw
+False,Mist Harlem,$$,2.5,72,"[{'alias': 'coffee', 'title': 'Coffee & Tea'}, {'alias': 'cafes', 'title': 'Cafes'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}]",l1n_KhFcFJs5YAxudRDNFg
+False,Empire,$,3.5,19,"[{'alias': 'chinese', 'title': 'Chinese'}, {'alias': 'importedfood', 'title': 'Imported Food'}]",Wezt_3dALzHmfXjHOPG4GQ
+False,Fine Fare,$$,2.5,43,"[{'alias': 'grocery', 'title': 'Grocery'}]",CxtDN4C205bLXXNXYMHZ8w
+False,Starbucks,$$,3.0,30,"[{'alias': 'coffee', 'title': 'Coffee & Tea'}]",AFmUWfMm7I8BitnbheGx4A
+False,Fine Fare Supermarket,$$,2.5,19,"[{'alias': 'grocery', 'title': 'Grocery'}]",So72WWqnzMW9wqzHqNoyQQ
+False,Cathedral Wine & Liquor,$$,3.5,9,"[{'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}]",frxebT3YHWcOgARHkhr0fw
+False,Johnny Kaks International,,5.0,3,"[{'alias': 'foodtrucks', 'title': 'Food Trucks'}]",7QYovzzrv0EeasEXXAF2BA
+False,Reena Treats,$,5.0,5,"[{'alias': 'desserts', 'title': 'Desserts'}, {'alias': 'cupcakes', 'title': 'Cupcakes'}, {'alias': 'customcakes', 'title': 'Custom Cakes'}]",9R_EZvDTfc32mNiCum0h8Q
+False,Freeland Wine and Liquor,$$,4.0,5,"[{'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}]",mTiDT-qbgr1yrzZe08V5nA
+False,Fred's Wine & Liquors,$,3.5,5,"[{'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}]",684KKXKTbhMde6ailQCYGA
+False,Starbucks,$$,2.5,26,"[{'alias': 'coffee', 'title': 'Coffee & Tea'}]",pFRzWyJEFlJvPczRn49kRQ
+False,Dunkin' Donuts,$,2.5,10,"[{'alias': 'donuts', 'title': 'Donuts'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}]",Lqsf4Toe1qJxDJEJldwNeQ
+False,Dunkin' Donuts,$,3.0,9,"[{'alias': 'donuts', 'title': 'Donuts'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}]",9QPkvxKwnA5Xik9oeFYdbw
+False,Rite Aid,$$,2.0,37,"[{'alias': 'drugstores', 'title': 'Drugstores'}, {'alias': 'convenience', 'title': 'Convenience Stores'}]",xDcDKPVDO5wSZ-dU8HDbQg
+False,Dunkin' Donuts,$,2.5,8,"[{'alias': 'donuts', 'title': 'Donuts'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}]",xjyosf0dH5EE8eRlDGAmTA
+False,Raw Luv Bar,$$,5.0,1,"[{'alias': 'gourmet', 'title': 'Specialty Food'}]",hDDXmHmYRhSCR1TqEueHsA
+False,CTown Supermarkets,$$,3.0,7,"[{'alias': 'grocery', 'title': 'Grocery'}]",fkRke4pb7F3DPCrL5yjRJQ
+False,City Cookhouse,$$,3.5,5,"[{'alias': 'diyfood', 'title': 'Do-It-Yourself Food'}]",htzLSrpOsGL99OaNgy6Ccw
+False,Adja Khady Food Distributors,$,5.0,1,"[{'alias': 'grocery', 'title': 'Grocery'}]",8DJvRWortrTCeKkuEnKz7g
+False,Baskin-Robbins,$$,3.5,3,"[{'alias': 'icecream', 'title': 'Ice Cream & Frozen Yogurt'}]",IPWr04nQEloIcNKsGvNUBA
+False,Mansour's Coffee Cart,,5.0,1,"[{'alias': 'coffee', 'title': 'Coffee & Tea'}]",KFwKPX7nXIg-_h7IB3FO9w
+False,American Meat Market & Grocery,,4.0,2,"[{'alias': 'grocery', 'title': 'Grocery'}]",KDRDn48heM03I-XVBrNU2g
+False,ANF Gourmet Deli and Grocery,,3.5,3,"[{'alias': 'grocery', 'title': 'Grocery'}, {'alias': 'delis', 'title': 'Delis'}]",uk5BfVmlgcdHdGy0P5yHNw
+False,Hitham Supermarket,$,5.0,1,"[{'alias': 'grocery', 'title': 'Grocery'}]",JaOq2m_AuJyOkFIhOvEtQg
+False,Harlem Retail Wine & Liquor Store,$$,3.0,1,"[{'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}]",s7s6_-LXLko5arR4iaqjGg
+False,Shop Fair,$$,2.5,3,"[{'alias': 'grocery', 'title': 'Grocery'}]",L_TWxHbSPElJ8gW9zz9kcA
+False,Dunkin' Donuts,$,3.0,4,"[{'alias': 'coffee', 'title': 'Coffee & Tea'}, {'alias': 'donuts', 'title': 'Donuts'}]",eI5OBjbWbj4GhbTHq5jZNw
+False,Mt Morris Historic District Farmer's Market,,4.0,1,"[{'alias': 'farmersmarket', 'title': 'Farmers Market'}]",Kiv83blahzhP19cL23hnLg
+False,Central Park Deli Market,$$$$,3.0,3,"[{'alias': 'convenience', 'title': 'Convenience Stores'}]",XkqS6lZSRUsy576e0uMk4Q
+False,Deli Grocery,$,1.0,1,"[{'alias': 'grocery', 'title': 'Grocery'}]",zbv1UGRdiCHePQ9iMH8aOw
+False,7-Eleven,,2.0,1,"[{'alias': 'convenience', 'title': 'Convenience Stores'}]",rGGbWY3gib3AGS_JlpjKHw
+False,Shuteye Coffee,$,5.0,8,"[{'alias': 'donuts', 'title': 'Donuts'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}]",K8jxwX2nxPC5Smq6A0MFnw
+False,Halal Meat,$$,3.0,2,"[{'alias': 'meats', 'title': 'Meat Shops'}]",cNNYqVaNdlD-yMiaw2f7gQ
+False,Open Bright Pediatric Dentistry,,4.5,28,"[{'alias': 'pediatric_dentists', 'title': 'Pediatric Dentists'}]",ymXYSn_OfRr6uyKH2E5itQ
+False,Central Park North Orthodontics,,4.5,12,"[{'alias': 'orthodontists', 'title': 'Orthodontists'}]",VErwoRxRAaLfWmW1bSrtXw
+False,Mount Morris Park Dental,,5.0,16,"[{'alias': 'generaldentistry', 'title': 'General Dentistry'}]",v-HgKHyNKEd22VLuGHuS1A
+False,Honor Nature Birth Services,,5.0,9,"[{'alias': 'doulas', 'title': 'Doulas'}, {'alias': 'lactationservices', 'title': 'Lactation Services'}, {'alias': 'childbirthedu', 'title': 'Childbirth Education'}]",7J74A5-sRwYAxLgO5UppcA
+False,Dekhana Wellness,,5.0,10,"[{'alias': 'healthtrainers', 'title': 'Trainers'}, {'alias': 'nutritionists', 'title': 'Nutritionists'}]",wI-L5F6xYAoZshzEbkml_w
+False,Park North Physical Therapy,,5.0,13,"[{'alias': 'physicaltherapy', 'title': 'Physical Therapy'}]",At3EOBoK0uY5SKOkIEeecQ
+False,SoHa Pediatrics,,4.0,19,"[{'alias': 'pediatricians', 'title': 'Pediatricians'}]",EXJ27gUZg7YdqK_UqBlohQ
+False,Amla Healing Arts,,5.0,4,"[{'alias': 'massage_therapy', 'title': 'Massage Therapy'}, {'alias': 'acupuncture', 'title': 'Acupuncture'}, {'alias': 'tcm', 'title': 'Traditional Chinese Medicine'}]",ggKgb37U25i6WCmC64DzLQ
+False,Yiska Obadia-Gedal,,5.0,3,"[{'alias': 'acupuncture', 'title': 'Acupuncture'}, {'alias': 'massage', 'title': 'Massage'}, {'alias': 'massage_therapy', 'title': 'Massage Therapy'}]",YD1n3JpgrDukAWgKfFWW-w
+False,Trinity Medical Care NY,,4.0,9,"[{'alias': 'obgyn', 'title': 'Obstetricians & Gynecologists'}]",GtwD0q7iY4u347NsnZt0QA
+False,Wynn Optics,,3.0,18,"[{'alias': 'optometrists', 'title': 'Optometrists'}]",Vx22qUpGKahr1HLY38cARQ
+False,Tribeca Pediatrics,,5.0,2,"[{'alias': 'pediatricians', 'title': 'Pediatricians'}]",AMVmiGPXJyEUu5EeLy4v_A
+False,Drug Shoppe,,3.5,5,"[{'alias': 'pharmacy', 'title': 'Pharmacy'}]",bKXyytVuPm8LYutAalf8AQ
+False,Apollo Chiropractic,,5.0,2,"[{'alias': 'chiropractors', 'title': 'Chiropractors'}]",X4A874kppFTuM0eD_7lowg
+False,Jacobo Amarilis,,3.5,6,"[{'alias': 'generaldentistry', 'title': 'General Dentistry'}]",sHE5A65EkeM3Ucp9TqU64A
+False,Benjamin Optical,,2.0,19,"[{'alias': 'optometrists', 'title': 'Optometrists'}]",zChBOCMrUaznPHoH1Wj9Gw
+False,Uptown Dental Group,,2.5,13,"[{'alias': 'pediatric_dentists', 'title': 'Pediatric Dentists'}, {'alias': 'periodontists', 'title': 'Periodontists'}, {'alias': 'cosmeticdentists', 'title': 'Cosmetic Dentists'}]",H6G3S8S27mmXintxKSA32Q
+False,"Psychobiology, Hypnotherapy & Regression New York",,5.0,1,"[{'alias': 'hypnosis', 'title': 'Hypnosis/Hypnotherapy'}]",zbFUZaFPI0VU7Us-6ya7mQ
+False,Soham Wellness NYC,,5.0,4,"[{'alias': 'weightlosscenters', 'title': 'Weight Loss Centers'}, {'alias': 'c_and_mh', 'title': 'Counseling & Mental Health'}, {'alias': 'nutritionists', 'title': 'Nutritionists'}]",lB76mdTLWgn_almMDps4Eg
+False,"Diego Ponieman, MD",,3.0,3,"[{'alias': 'internalmed', 'title': 'Internal Medicine'}, {'alias': 'familydr', 'title': 'Family Practice'}]",xZFf8fQXGHZlAzczbHLRdg
+False,Syoum Yohannes DDS,,5.0,1,"[{'alias': 'generaldentistry', 'title': 'General Dentistry'}]",lCXv1nnX7aIEc_7HE3EKLQ
+False,Melamed Samuel MD,,3.0,4,"[{'alias': 'physicians', 'title': 'Doctors'}]",M2DSryos21WYxGW6LyVJ3A
+False,Shapiro Irene MD,,2.5,4,"[{'alias': 'physicians', 'title': 'Doctors'}]",-HkNzz9pX1qBI6EHNFtflg
+False,Apollo Physical Therapy,,4.0,5,"[{'alias': 'physicaltherapy', 'title': 'Physical Therapy'}, {'alias': 'sportsmed', 'title': 'Sports Medicine'}, {'alias': 'rehabilitation_center', 'title': 'Rehabilitation Center'}]",Wf0xxWY7vcZdemakkGaSiw
+False,iSleep Program,,1.0,1,"[{'alias': 'laboratorytesting', 'title': 'Laboratory Testing'}, {'alias': 'sleepspecialists', 'title': 'Sleep Specialists'}]",vA25Mb_s209S0uJQ0NuMMA
+False,"Arthur R Dove, MD",,1.0,2,"[{'alias': 'internalmed', 'title': 'Internal Medicine'}]",y-qELRzwmqN215vCyTb6lA
+False,J'valld Medical Center,,5.0,1,"[{'alias': 'medcenters', 'title': 'Medical Centers'}]",CGxr7Qducqn0DbxkX3UDlA
+False,Homeopathic Services,,2.5,3,"[{'alias': 'naturopathic', 'title': 'Naturopathic/Holistic'}]",nP8PNj5uDHKS6sRlCuK1gg
+False,Community Healthcare Network,,3.0,1,"[{'alias': 'medcenters', 'title': 'Medical Centers'}]",7EUV60VF__0bCsxPNDKv7g
+False,Holistic Manhattan Acupuncture,,5.0,1,"[{'alias': 'acupuncture', 'title': 'Acupuncture'}]",YsdnQmnxY7hz-rQ2C4eYfg
+False,"Jaeger D Lawrence, MD",,1.0,1,"[{'alias': 'dermatology', 'title': 'Dermatologists'}, {'alias': 'skincare', 'title': 'Skin Care'}]",_mvotYp_-stLOv8sfE_rIA
+False,Physical Therapy of Harlem,,3.0,2,"[{'alias': 'physicaltherapy', 'title': 'Physical Therapy'}]",eeL2wCbLEJwNSDJBIVALLQ
+False,Taskmaster,,5.0,67,"[{'alias': 'handyman', 'title': 'Handyman'}]",aZaf2qkNOpFQiFy2SmFIlw
+False,Bohemia Realty Group,,4.5,276,"[{'alias': 'realestatesvcs', 'title': 'Real Estate Services'}, {'alias': 'propertymgmt', 'title': 'Property Management'}]",6RLUQ9SwIFJN8hVWrrnmJQ
+False,Wizard of Homes,,5.0,422,"[{'alias': 'homecleaning', 'title': 'Home Cleaning'}, {'alias': 'home_organization', 'title': 'Home Organization'}]",5lsFCfGKsmNZBfmKACi2MA
+False,Pat's Moving & Storage,,5.0,44,"[{'alias': 'movers', 'title': 'Movers'}, {'alias': 'selfstorage', 'title': 'Self Storage'}]",lq4IXhCKNy_dDnaoTS3pRA
+False,NYC Handyman,,5.0,311,"[{'alias': 'handyman', 'title': 'Handyman'}, {'alias': 'furnitureassembly', 'title': 'Furniture Assembly'}, {'alias': 'tvmounting', 'title': 'TV Mounting'}]",MsigguC6fKwz9nIuA2yqJA
+False,OctoMovers,,5.0,25,"[{'alias': 'movers', 'title': 'Movers'}]",XLpcdP0ZnsD0yoGFPmqWRQ
+False,Harlem Handyman,,5.0,18,"[{'alias': 'handyman', 'title': 'Handyman'}]",KhAl1N4I5AAhH5HhoRbKoA
+False,Harlem Locksmith,,5.0,11,"[{'alias': 'locksmiths', 'title': 'Keys & Locksmiths'}, {'alias': 'securitysystems', 'title': 'Security Systems'}]",SXXVdjmmheyRYf9imbUngg
+False,Harlem Properties Team at Compass,,5.0,21,"[{'alias': 'realestatesvcs', 'title': 'Real Estate Services'}, {'alias': 'commercialrealestate', 'title': 'Commercial Real Estate'}, {'alias': 'propertymgmt', 'title': 'Property Management'}]",z6lzLS1A897-b88-lXx_tA
+False,Sky Locksmith,$$,4.5,44,"[{'alias': 'locksmiths', 'title': 'Keys & Locksmiths'}, {'alias': 'hardware', 'title': 'Hardware Stores'}]",jH5V-GMlEXTwOF4uNneMmg
+False,C & C Movers,,5.0,6,"[{'alias': 'movers', 'title': 'Movers'}]",Ut8yRfxChelMCSIaNOkYJA
+False,Raphael Fetta - Bohemia Realty Group,,5.0,13,"[{'alias': 'realestateagents', 'title': 'Real Estate Agents'}]",H5GGAzhga09_punqtJe3QA
+False,BA Cleaning Service,,4.0,7,"[{'alias': 'homecleaning', 'title': 'Home Cleaning'}, {'alias': 'officecleaning', 'title': 'Office Cleaning'}]",IO2ZQ2AKWLic-17aa0C_5A
+False,Sofia Corradini At Keller Williams,,5.0,5,"[{'alias': 'realestateagents', 'title': 'Real Estate Agents'}]",uMVEohLu82vF0sPxuusNbw
+False,Beth Gittleman - Bohemia Realty Group,,5.0,9,"[{'alias': 'realestateagents', 'title': 'Real Estate Agents'}]",2WxPudNKeXeFA7YCrosGjQ
+False,CheapMoves NYC,,4.5,3,"[{'alias': 'movers', 'title': 'Movers'}]",3JWPJQXS6xU_lIEjGmCjIQ
+False,Mckinley Jones III - Douglas Elliman Real Estate,,5.0,8,"[{'alias': 'realestateagents', 'title': 'Real Estate Agents'}]",s7RcdV2qjE6LSl6GBqcsew
+False,The Emily Ackerman & Daoud Heidami Team - Bohemia Realty Group,,5.0,4,"[{'alias': 'realestateagents', 'title': 'Real Estate Agents'}]",pviK1db9kNG3en05WF-QNA
+False,All Bright Services,,5.0,22,"[{'alias': 'pressurewashers', 'title': 'Pressure Washers'}, {'alias': 'airductcleaning', 'title': 'Air Duct Cleaning'}]",Qil4X8qaIo6nOZIfcR_o2Q
+False,David McDaniel- Compass,,5.0,14,"[{'alias': 'realestateagents', 'title': 'Real Estate Agents'}]",Sm3V6Ogvi8fky6xzltqdQA
+False,K & R Realty,,2.5,34,"[{'alias': 'apartments', 'title': 'Apartments'}]",I_0djwlONzuhDCq4HnQnJA
+False,Hakim R. Canter - McMillan - Bohemia Realty Group,,5.0,4,"[{'alias': 'realestateagents', 'title': 'Real Estate Agents'}]",f2xhE_aegpQmsdM5xNbswA
+False,Halstead Property - Harlem,,5.0,3,"[{'alias': 'realestatesvcs', 'title': 'Real Estate Services'}]",83eUa_PCTq13sCzp_zgkXg
+False,Alfa Cleaning Operations,,5.0,13,"[{'alias': 'homecleaning', 'title': 'Home Cleaning'}, {'alias': 'officecleaning', 'title': 'Office Cleaning'}, {'alias': 'home_organization', 'title': 'Home Organization'}]",VGVtlbCFTcfqTOygaQTE6Q
+False,Alex Can Help,,5.0,2,"[{'alias': 'handyman', 'title': 'Handyman'}, {'alias': 'furnitureassembly', 'title': 'Furniture Assembly'}, {'alias': 'painters', 'title': 'Painters'}]",IzXDI_HbmUTEzOXosEanfw
+False,First Tier Organizing & Cleaning,,5.0,2,"[{'alias': 'homecleaning', 'title': 'Home Cleaning'}, {'alias': 'officecleaning', 'title': 'Office Cleaning'}, {'alias': 'home_organization', 'title': 'Home Organization'}]",xLhbnq7-blWK5pSH2MUoGw
+False,Don Burroughs - Bohemia Realty Group,,4.5,3,"[{'alias': 'realestateagents', 'title': 'Real Estate Agents'}]",8d3PPXHTokREj4giHRA7dg
+False,Clear Look Cleaning,,5.0,2,"[{'alias': 'homecleaning', 'title': 'Home Cleaning'}, {'alias': 'officecleaning', 'title': 'Office Cleaning'}, {'alias': 'windowwashing', 'title': 'Window Washing'}]",o4CMjPFRW-6_z84N3PBisQ
+False,Locksmiths Center,,5.0,8,"[{'alias': 'locksmiths', 'title': 'Keys & Locksmiths'}]",8vkVMsEHMI8mGf4gqqDUcg
+False,Meg McWhorter- Bohemia Realty Group,,5.0,2,"[{'alias': 'realestateagents', 'title': 'Real Estate Agents'}]",GHgJBkdF0vXM6SiR66_rxQ
+False,Wendy Wood - Bohemia Realty Group,,5.0,2,"[{'alias': 'realestateagents', 'title': 'Real Estate Agents'}]",Ssbpe0b023r0C4GCAHiecw
+False,Lynnsey Garegnani - Bohemia Realty Group,,5.0,1,"[{'alias': 'realestateagents', 'title': 'Real Estate Agents'}]",ScN4H_cz4TiUJdOX8y47Fw
+False,Ariel Shafir - Bohemia Realty Group,,5.0,3,"[{'alias': 'realestateagents', 'title': 'Real Estate Agents'}]",mQ1KqkSEMeTglgIm3rbqXA
+False,Boaz Turgeman - I&I Real Estate,,5.0,1,"[{'alias': 'realestateagents', 'title': 'Real Estate Agents'}]",jXnkZj4y9Xg8LXSRQ3BW7w
+False,DeAnna D. Rieber,,5.0,2,"[{'alias': 'realestateagents', 'title': 'Real Estate Agents'}]",9tHKWJAwL9gUweweVAR_xw
+False,The Brian Phillips Team - Douglas Elliman Real Estate,,4.0,5,"[{'alias': 'realestatesvcs', 'title': 'Real Estate Services'}, {'alias': 'realestateagents', 'title': 'Real Estate Agents'}]",pLOBwycjioWlxrW1FlhLGw
+False,Garlia Jones-Ly - Bohemia Realty Group,,4.5,2,"[{'alias': 'realestateagents', 'title': 'Real Estate Agents'}]",YsUq8stSOOGVa8RPF0xloA
+False,Agueda Ramirez - Bohemia Realty Group,,5.0,4,"[{'alias': 'realestateagents', 'title': 'Real Estate Agents'}]",1dwzvxUx1-zWt7Oo_63xtA
+False,Mowla Home Improvement,,5.0,5,"[{'alias': 'contractors', 'title': 'Contractors'}, {'alias': 'masonry_concrete', 'title': 'Masonry/Concrete'}, {'alias': 'roofing', 'title': 'Roofing'}]",nq_fb89k9ssXCs4tAeGmPw
+False,Harlem Property Management,,4.0,4,"[{'alias': 'propertymgmt', 'title': 'Property Management'}]",wLtPtipDLfp-AyUXyt9ryg
+False,Harlem Property Re+Development,,5.0,1,"[{'alias': 'contractors', 'title': 'Contractors'}]",RdaZC7JZxexteDEtLQZI-w
+False,Jed Pavlovich - Keller Williams,,5.0,2,"[{'alias': 'realestateagents', 'title': 'Real Estate Agents'}]",2TimCSqb7iHGzwVXoMH06A
+False,Central Park North Plumbing and Heating,,1.0,1,"[{'alias': 'plumbing', 'title': 'Plumbing'}, {'alias': 'hvac', 'title': 'Heating & Air Conditioning/HVAC'}]",XNkDvp97M6TeBy4A1SoRLg
+False,Fresh Air Cleaning Services,,5.0,1,"[{'alias': 'homecleaning', 'title': 'Home Cleaning'}, {'alias': 'officecleaning', 'title': 'Office Cleaning'}]",37XCymi63nmrTsbfLRx3cw
+False,GMA Air Cooling & Heating,,3.5,3,"[{'alias': 'hvac', 'title': 'Heating & Air Conditioning/HVAC'}]",FPYM6toxexw6An-544wmsA
+False,Town Fifth Avenue,,5.0,1,"[{'alias': 'realestateagents', 'title': 'Real Estate Agents'}, {'alias': 'realestatesvcs', 'title': 'Real Estate Services'}]",yTicO5cX1HveQli-DGUZrw
+False,Affiliated Hannibal's Moving,,3.0,2,"[{'alias': 'movers', 'title': 'Movers'}]",yJd5G22241YT2H3tQVC40Q
+False,Mo's Cleaning Service,,1.0,1,"[{'alias': 'homecleaning', 'title': 'Home Cleaning'}, {'alias': 'officecleaning', 'title': 'Office Cleaning'}]",GXzjL7eTsb5FPymKfc8dGw
+False,J&R Handyman/Van Service,,5.0,3,"[{'alias': 'handyman', 'title': 'Handyman'}]",tEdptwJyij_R0kPeE7xM6g
+False,Scotties Cleaning Service,,1.0,1,"[{'alias': 'homecleaning', 'title': 'Home Cleaning'}, {'alias': 'officecleaning', 'title': 'Office Cleaning'}]",Bb5pYIpY9JzfXlc7FyWdAQ
+False,Andrick Management,,3.0,2,"[{'alias': 'propertymgmt', 'title': 'Property Management'}]",r5XrQwFqL8lq5TN1UTtH3g
+False,"Master Builder's Home Improvement, LLC",,1.0,2,"[{'alias': 'contractors', 'title': 'Contractors'}]",SROh3XCvrgEqc7f_JqC-hg
+False,Artcom Handyman,,1.0,1,"[{'alias': 'handyman', 'title': 'Handyman'}, {'alias': 'painters', 'title': 'Painters'}, {'alias': 'drywall', 'title': 'Drywall Installation & Repair'}]",fkIJsanuUWSu2PQowpEdpA
+False,Douglas Elliman Real Estate - Harlem Gallery,,1.0,1,"[{'alias': 'realestateagents', 'title': 'Real Estate Agents'}]",14AOFWGuyoWZ2PD6WR_CMw
+False,John Ruocco - Bohemia Realty Group,,5.0,1,"[{'alias': 'realestateagents', 'title': 'Real Estate Agents'}]",KRYRpmhzLCNxY5P41yBYcA
+False,Expertise Keys Locks & Security,,5.0,1,"[{'alias': 'locksmiths', 'title': 'Keys & Locksmiths'}, {'alias': 'securitysystems', 'title': 'Security Systems'}]",1TAIqAWV1JCNUiYbsSx__g
+False,Michaela Morton - Bohemia Realty Group,,5.0,1,"[{'alias': 'realestateagents', 'title': 'Real Estate Agents'}]",WrjyGLKrvOj3OEsnmetp6g
+False,Rainbow International of Fairfield,,5.0,1,"[{'alias': 'damagerestoration', 'title': 'Damage Restoration'}]",v4ewh-44dPSQyk2Y8XoQZA
+False,NYC 24/7 Handyman,,1.0,1,"[{'alias': 'flooring', 'title': 'Flooring'}, {'alias': 'plumbing', 'title': 'Plumbing'}, {'alias': 'roofing', 'title': 'Roofing'}]",VV8dI2iGzl18DoXyqcuA8A
+False,Harlem Express,,1.0,2,"[{'alias': 'movers', 'title': 'Movers'}]",JURrZsemRUOjyDrzyUO_Wg
+False,Next Cleaners,,5.0,1,"[{'alias': 'sewingalterations', 'title': 'Sewing & Alterations'}, {'alias': 'homecleaning', 'title': 'Home Cleaning'}, {'alias': 'laundryservices', 'title': 'Laundry Services'}]",ti9cFbUP-hdzk-HqmOIGPw
+False,Prestigious Blinds,,1.0,1,"[{'alias': 'interiordesign', 'title': 'Interior Design'}, {'alias': 'blinds', 'title': 'Shades & Blinds'}]",Jp3TNYIKfgcnjoaUmaNbNw
+False,Elite Glass & Mirror,,5.0,2,"[{'alias': 'glassandmirrors', 'title': 'Glass & Mirrors'}, {'alias': 'windowsinstallation', 'title': 'Windows Installation'}, {'alias': 'decksrailing', 'title': 'Decks & Railing'}]",e9FBaVT-bMga7HXOm_zNzw
+False,Harlem Heritage Tours,,4.0,23,"[{'alias': 'tours', 'title': 'Tours'}, {'alias': 'arts', 'title': 'Arts & Entertainment'}]",-xk2XBOvUCiJ2mL0t-KiGA
+False,Supreme Legacy Transports,,5.0,4,"[{'alias': 'towncarservice', 'title': 'Town Car Service'}, {'alias': 'airport_shuttles', 'title': 'Airport Shuttles'}]",IeetLjYAATq9Pn-rAIE-AA
+False,New Harlem Car Service,,3.5,20,"[{'alias': 'limos', 'title': 'Limos'}]",RsF8-hVSFKH-JuZbfv0zZw
+False,International Cozy Inn,,4.5,10,"[{'alias': 'bedbreakfast', 'title': 'Bed & Breakfast'}]",1L1sJ59bgXW1Mpqisi7gQg
+False,the wanderers inn west hostel,,4.5,3,"[{'alias': 'hostels', 'title': 'Hostels'}]",lrp0kAngbm-SAWIUqRAB3g
+False,MTA - 116th Street Subway Station,,3.5,3,"[{'alias': 'metrostations', 'title': 'Metro Stations'}]",S1rxa-RI25lgXEYkb4GbIA
+False,Mont Morris,,5.0,3,"[{'alias': 'bedbreakfast', 'title': 'Bed & Breakfast'}]",EhlmTsB3t1hHzcTXPyzuWw
+False,MTA - 110 Street Cathedral Parkway Subway Station - B/C,,4.0,2,"[{'alias': 'metrostations', 'title': 'Metro Stations'}]",vsA_f6oy6OD-NlOgWX0pQw
+False,Harlem Family Walking Tours,,5.0,1,"[{'alias': 'walkingtours', 'title': 'Walking Tours'}]",nUDl1ewdfwnsNPHD06XRmw
+False,MTA - 116th Street Subway Station,,3.5,2,"[{'alias': 'metrostations', 'title': 'Metro Stations'}]",u8MtWS15slgjxutkxbmyVg
+False,The Central Park North,,1.5,10,"[{'alias': 'bedbreakfast', 'title': 'Bed & Breakfast'}]",_PzZCkD705x5WgyU6Jkz1w
+False,New Ebony Hotel,$,2.0,8,"[{'alias': 'hotels', 'title': 'Hotels'}]",OKppbz70awi56NTSBhiR7w
+False,102 Brownstone,,3.0,1,"[{'alias': 'hotels', 'title': 'Hotels'}]",4NZv4ntY8k-stkRPfxOwzA
+False,Tony's Place Bed & Breakfast,$$,1.0,3,"[{'alias': 'hotels', 'title': 'Hotels'}, {'alias': 'bedbreakfast', 'title': 'Bed & Breakfast'}]",A_0okz0EXGIdSGX0Wx6QGg
+False,Arts and Crafts Beer Parlor - Morningside Heights,$$,4.0,48,"[{'alias': 'beerbar', 'title': 'Beer Bar'}, {'alias': 'pubs', 'title': 'Pubs'}, {'alias': 'publicart', 'title': 'Public Art'}]",4ccWWNAXWq-BESeZwZVV6A
+False,Graffiti Hall Of Fame,,4.0,11,"[{'alias': 'publicart', 'title': 'Public Art'}]",kWA58gkuP1GOTrJxkNBbhw
+False,Morningside Heights,,4.0,2,"[{'alias': 'localflavor', 'title': 'Local Flavor'}]",LrHXPFIZTya7aoEc8iwhvQ
+False,Frederick Douglass Circle,,3.5,2,"[{'alias': 'localflavor', 'title': 'Local Flavor'}]",GsG7a0IZWl7QtJ2n13_GDQ
+False,The Peace Fountain by Greg Wyatt,,5.0,1,"[{'alias': 'localflavor', 'title': 'Local Flavor'}]",YrlB4vVbVuAZS91l7z74Sg
+False,Monk's Cafe - Seinfeld Restaurant,,3.0,2,"[{'alias': 'localflavor', 'title': 'Local Flavor'}]",LSi2zTZxpG5YyCETjiX9OQ
+False,Summer Sizzles on Lenox,,3.0,1,"[{'alias': 'localflavor', 'title': 'Local Flavor'}]",EVGch8eyta_K5M6xJDmHfA
+False,Julian M Hill - Notary Public of New York,,5.0,97,"[{'alias': 'notaries', 'title': 'Notaries'}]",YuL-6xC01vSPdcWN3cM42g
+False,Larry's Freewheeling,$$,4.5,108,"[{'alias': 'bike_repair_maintenance', 'title': 'Bike Repair/Maintenance'}, {'alias': 'bikerentals', 'title': 'Bike Rentals'}, {'alias': 'bikes', 'title': 'Bikes'}]",00rrqw4O0Flfatd0VV6QAg
+False,Pat's Moving & Storage,,5.0,44,"[{'alias': 'movers', 'title': 'Movers'}, {'alias': 'selfstorage', 'title': 'Self Storage'}]",lq4IXhCKNy_dDnaoTS3pRA
+False,NYC Handyman,,5.0,311,"[{'alias': 'handyman', 'title': 'Handyman'}, {'alias': 'furnitureassembly', 'title': 'Furniture Assembly'}, {'alias': 'tvmounting', 'title': 'TV Mounting'}]",MsigguC6fKwz9nIuA2yqJA
+False,One Hour Pest Control,,5.0,42,"[{'alias': 'pest_control', 'title': 'Pest Control'}]",6bR2GHA9NUoLf6_BB54GSQ
+False,McMb Cleaners,$$,4.5,38,"[{'alias': 'laundryservices', 'title': 'Laundry Services'}]",SJddNOAktjGL6AB9tGa4uA
+False,Marcos Leather Lab 1,$$,3.5,31,"[{'alias': 'shoerepair', 'title': 'Shoe Repair'}, {'alias': 'leather', 'title': 'Leather Goods'}, {'alias': 'watch_repair', 'title': 'Watch Repair'}]",POMwv8-uf1XBvOsLl2eFsA
+False,Summersallday Mobile Notary Services,,5.0,6,"[{'alias': 'notaries', 'title': 'Notaries'}]",VCa6aOlPbUJjZsLEcP57qQ
+False,The Laundry Room,$,4.5,5,"[{'alias': 'laundryservices', 'title': 'Laundry Services'}]",HPB_4AuTkch901SThM_Abw
+False,Kiwi Scrap Metal,,4.5,5,"[{'alias': 'recyclingcenter', 'title': 'Recycling Center'}]",kBTgdg436HQWEO24mVzBOw
+False,CPN Supreme Cleaners,$$,4.5,11,"[{'alias': 'laundryservices', 'title': 'Laundry Services'}]",kuD0wk67nI89Exp5c46wrw
+False,Children's Aid Society,,4.0,5,"[{'alias': 'nonprofit', 'title': 'Community Service/Non-Profit'}]",8k6Lr13xJzRtPbBgSV8LNQ
+False,Baby Girls's Bubbles & Cleaners,$,2.5,43,"[{'alias': 'laundryservices', 'title': 'Laundry Services'}]",-AMh6SAfLWB06B0_CNRPHA
+False,Right On Pest Control,,5.0,7,"[{'alias': 'pest_control', 'title': 'Pest Control'}]",eVgumYyc5OIETALPz7Sfag
+False,All Bright Services,,5.0,22,"[{'alias': 'pressurewashers', 'title': 'Pressure Washers'}, {'alias': 'airductcleaning', 'title': 'Air Duct Cleaning'}]",Qil4X8qaIo6nOZIfcR_o2Q
+False,US Post Office,,1.5,54,"[{'alias': 'postoffices', 'title': 'Post Offices'}, {'alias': 'shipping_centers', 'title': 'Shipping Centers'}]",8YdWeqCinOWhBLJQfjq-3w
+False,Derek Laundromat,,3.0,5,"[{'alias': 'laundromat', 'title': 'Laundromat'}]",opjsz88Q8hE-64LR5tXopg
+False,Dorian Cleaners,$$,3.0,19,"[{'alias': 'sewingalterations', 'title': 'Sewing & Alterations'}, {'alias': 'dryclean', 'title': 'Dry Cleaning'}]",Q9lR_PhTic46VgMdeMmUTw
+False,Rodriguez Shoe Repair,,3.0,5,"[{'alias': 'shoerepair', 'title': 'Shoe Repair'}]",BE99pjm5FosOdX1-GnUwFw
+False,The UPS Store,,2.0,19,"[{'alias': 'shipping_centers', 'title': 'Shipping Centers'}, {'alias': 'copyshops', 'title': 'Printing Services'}, {'alias': 'mailboxcenters', 'title': 'Mailbox Centers'}]",Nv8pH453fIZlYY63IIUYbw
+False,Harlem Amenities Concierge,,5.0,1,"[{'alias': 'localservices', 'title': 'Local Services'}, {'alias': 'petservices', 'title': 'Pet Services'}]",Ch2ENE3-HmL2aiR_9RvPTQ
+False,AG Fashion,$$$,3.0,5,"[{'alias': 'sewingalterations', 'title': 'Sewing & Alterations'}, {'alias': 'accessories', 'title': 'Accessories'}]",vC9XjJAnV8pai8s0NwQ5QQ
+False,The UPS Store,,2.0,25,"[{'alias': 'shipping_centers', 'title': 'Shipping Centers'}, {'alias': 'copyshops', 'title': 'Printing Services'}, {'alias': 'mailboxcenters', 'title': 'Mailbox Centers'}]",ArvO5hcuNfOeHUI8P5AYBQ
+False,Marcel Cleaners,$$$,2.5,7,"[{'alias': 'laundryservices', 'title': 'Laundry Services'}]",Ztpv2dSPqCwR9tyjXBlovg
+False,Aphrodite Cleaners,$$$$,2.5,9,"[{'alias': 'laundryservices', 'title': 'Laundry Services'}]",wfJYufMoGcOcfGqwGLMs2w
+False,A B Sea Group Family Day Care,,5.0,6,"[{'alias': 'preschools', 'title': 'Preschools'}, {'alias': 'childcare', 'title': 'Child Care & Day Care'}]",LGQA2n0c1X6AHwGT4-_9oA
+False,Sunshine Daycare of East Harlem LLC,,4.0,3,"[{'alias': 'childcare', 'title': 'Child Care & Day Care'}, {'alias': 'preschools', 'title': 'Preschools'}]",Cc6rwo4Sv4JSH8z9HOfZKQ
+False,New Alpha Dry Cleaners,$$,2.0,11,"[{'alias': 'sewingalterations', 'title': 'Sewing & Alterations'}, {'alias': 'dryclean', 'title': 'Dry Cleaning'}]",Qw2fgcgqw-0a61tdQB2beQ
+False,Legacy Garment Care,,2.0,7,"[{'alias': 'sewingalterations', 'title': 'Sewing & Alterations'}, {'alias': 'laundryservices', 'title': 'Laundry Services'}]",DyiN2xeLk5fh2QJFSCs7Ug
+False,Epanema Laundry,$$$$,3.5,2,"[{'alias': 'laundryservices', 'title': 'Laundry Services'}]",dZPxb5XQSUtcTziqoP3X2w
+False,Community Kitchen of West Harlem,,4.0,1,"[{'alias': 'nonprofit', 'title': 'Community Service/Non-Profit'}]",rF0KnWiCVGT3Ybs9lICmEA
+False,Second Providence Bapt Church,,5.0,1,"[{'alias': 'nonprofit', 'title': 'Community Service/Non-Profit'}, {'alias': 'religiousorgs', 'title': 'Religious Organizations'}]",EorTzf6c5n_0_G_7Yq-wlw
+False,Nursery North,,4.5,3,"[{'alias': 'childcare', 'title': 'Child Care & Day Care'}]",-4IoLSPumLbEX_2VKbT81g
+False,Marcel Cleaners,$$$,2.0,10,"[{'alias': 'dryclean', 'title': 'Dry Cleaning'}, {'alias': 'sewingalterations', 'title': 'Sewing & Alterations'}]",AdUzjrcMFSUmvw9gCFF08g
+False,Harlem's Childrens Zone Baby College,,5.0,1,"[{'alias': 'nonprofit', 'title': 'Community Service/Non-Profit'}]",UwgEJccRuteojgEVVqgETA
+False,Soap Opera Laundromat,,2.0,4,"[{'alias': 'laundromat', 'title': 'Laundromat'}]",1wo-E_JoKPs98OhE_jWLcw
+False,Harlem Laundromat,$,2.0,4,"[{'alias': 'laundromat', 'title': 'Laundromat'}]",-yWO3MXEqs03atOSuiz7Wg
+False,Owens Funeral Home,,2.5,5,"[{'alias': 'funeralservices', 'title': 'Funeral Services & Cemeteries'}]",18H2Ii0xW_Qba7b_FZ9Urw
+False,Express Cleaners,$,1.0,7,"[{'alias': 'laundryservices', 'title': 'Laundry Services'}]",s2aeGfAMmAEP_JNICkPjxQ
+False,AIMS 99 Percent Store,,4.0,4,"[{'alias': 'bike_repair_maintenance', 'title': 'Bike Repair/Maintenance'}]",w_1a-NxtR3B40HQ4PjKQEw
+False,Control Exterminating Company,,5.0,5,"[{'alias': 'pest_control', 'title': 'Pest Control'}]",Hh2ioRrkTH14hUB8xMMbTw
+False,AfrikPC,,1.0,1,"[{'alias': 'telecommunications', 'title': 'Telecommunications'}]",C25u7NNpQnDqbFaeYewS0Q
+False,Green Choice Carpet of Manhattan,,5.0,3,"[{'alias': 'carpet_cleaning', 'title': 'Carpet Cleaning'}]",Kxxp-2Ll5hYIWFkP4-Y-jQ
+False,Eastmore Cleaners,$$$,1.0,1,"[{'alias': 'laundryservices', 'title': 'Laundry Services'}]",B_CDgYgvRQ3aPuZb9DaqSg
+False,Miss Bubble Laundromat,,1.0,1,"[{'alias': 'laundromat', 'title': 'Laundromat'}]",vwm_5_6k_LORMo_A6_FLbg
+False,Thorough Pest Control,,5.0,1,"[{'alias': 'pest_control', 'title': 'Pest Control'}]",scyOGKZOU1X5hL-Bd9EHKw
+False,A2Z Tech Group,,5.0,1,"[{'alias': 'itservices', 'title': 'IT Services & Computer Repair'}]",DKW5clYa4r9Rpw9BhFtv0A
+False,Hi Dry Cleaners,$$,1.0,1,"[{'alias': 'dryclean', 'title': 'Dry Cleaning'}]",zA0nFV-GhrTzsmIxRFU7Ww
+False,Next Cleaners,,5.0,1,"[{'alias': 'sewingalterations', 'title': 'Sewing & Alterations'}, {'alias': 'homecleaning', 'title': 'Home Cleaning'}, {'alias': 'laundryservices', 'title': 'Laundry Services'}]",ti9cFbUP-hdzk-HqmOIGPw
+False,WKCR 89.9 FM,,4.0,5,"[{'alias': 'radiostations', 'title': 'Radio Stations'}]",VQmCCmUps9DUS2MA9Su0yQ
+False,Ropeadope,,5.0,1,"[{'alias': 'massmedia', 'title': 'Mass Media'}, {'alias': 'arts', 'title': 'Arts & Entertainment'}]",rrpTGDNPDEW40WKPkGRxxw
+False,The Bill Cunningham Show,,4.0,1,"[{'alias': 'televisionstations', 'title': 'Television Stations'}]",3hShhG-JW-fn1gVOnkmUng
+False,T-Mobile SmarTalk Wireless,,1.0,3,"[{'alias': 'massmedia', 'title': 'Mass Media'}]",FqpUck_PMj6C9BPPHaavqQ
+False,Brandalicious,,1.0,1,"[{'alias': 'printmedia', 'title': 'Print Media'}]",qxsYgRbMXSyKVFuJTPNbvA
+False,Power 105.1 Fm-Wwpr,,3.0,1,"[{'alias': 'radiostations', 'title': 'Radio Stations'}]",-0xKwdNgIqH409NoY4gKlw
+False,Lido,$$,4.0,794,"[{'alias': 'italian', 'title': 'Italian'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",J9xVQScnr0lYWl61_mLXMA
+False,Lolo's Seafood Shack,$$,4.0,483,"[{'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'bars', 'title': 'Bars'}]",XOnspIaW6mYVmrvgqOaYSQ
+False,Harlem Tavern,$$,3.5,1013,"[{'alias': 'pubs', 'title': 'Pubs'}, {'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",uCsyRxfIfiRqQQuK_JlfZA
+False,Cantina Taqueria & Tequila Bar,$$,4.0,325,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'latin', 'title': 'Latin American'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",UH_aksIxzGPPyhWZJbTP7A
+False,67 Orange Street,$$,4.0,319,"[{'alias': 'lounges', 'title': 'Lounges'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",DzlCEhXW6OadK6ETcmJpwQ
+False,B2 Harlem,$$,4.0,146,"[{'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",Fl2z1edJw3MONc9rERWRMg
+False,Bier International,$$,3.5,299,"[{'alias': 'german', 'title': 'German'}, {'alias': 'bars', 'title': 'Bars'}]",Fk495HaokZDrGkAG8s_dlg
+False,Row House,$$,3.5,243,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'tapasmallplates', 'title': 'Tapas/Small Plates'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",dvRKiQbscruyTLaAL7q3PA
+False,L Encanto D Lola,$$,3.5,227,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'bars', 'title': 'Bars'}]",V7_IQ1ab69JilAlgrSnMXg
+False,Minton's Playhouse,$$$,3.5,156,"[{'alias': 'jazzandblues', 'title': 'Jazz & Blues'}, {'alias': 'tradamerican', 'title': 'American (Traditional)'}, {'alias': 'bars', 'title': 'Bars'}]",sJPayLq6EqepJbPGLlFfHw
+False,Mess Hall,$$,4.0,120,"[{'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'pubs', 'title': 'Pubs'}, {'alias': 'divebars', 'title': 'Dive Bars'}]",loJDInFMjhZZ0NaOgVtC7A
+False,RDV Rendezvous,$$,4.0,98,"[{'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'french', 'title': 'French'}, {'alias': 'desserts', 'title': 'Desserts'}]",6nnhmOgTeI6QmQS1LhMD9Q
+False,Barawine,$$,3.5,275,"[{'alias': 'wine_bars', 'title': 'Wine Bars'}]",wpye6v-2fIx7Z2Sz12XubA
+False,Chocolat Restaurant Lounge,$$,3.0,769,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'lounges', 'title': 'Lounges'}, {'alias': 'comfortfood', 'title': 'Comfort Food'}]",YRfDdBgWS4T80oJfKmVThA
+False,Sexy Taco/Dirty Cash,$$,3.5,236,"[{'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'mexican', 'title': 'Mexican'}]",D7w3Nk3H0oDYZSIAaRgYRA
+False,La Diagonal,$$,4.0,106,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'newmexican', 'title': 'New Mexican Cuisine'}, {'alias': 'tapas', 'title': 'Tapas Bars'}]",8p1HTzXEcC3TCbLz59xMng
+False,Kingston,$$,4.0,63,"[{'alias': 'caribbean', 'title': 'Caribbean'}, {'alias': 'bars', 'title': 'Bars'}]",CjUMkpPprcw-PuJ7gZEtTw
+False,Hop House Harlem,$$,4.0,78,"[{'alias': 'pizza', 'title': 'Pizza'}, {'alias': 'beerbar', 'title': 'Beer Bar'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}]",kz6WiG4CEiTtnSp1LQ88bw
+False,Paris Blues,$$,4.0,84,"[{'alias': 'divebars', 'title': 'Dive Bars'}, {'alias': 'jazzandblues', 'title': 'Jazz & Blues'}]",ClHBe70in3w1o3xWTzOrpw
+False,The Restaurant at MIST,$$,3.5,64,"[{'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",LW_t_KO6SybdAHMtNilAEA
+False,Moca Bar and Lounge,$$,3.0,155,"[{'alias': 'tradamerican', 'title': 'American (Traditional)'}, {'alias': 'lounges', 'title': 'Lounges'}, {'alias': 'comfortfood', 'title': 'Comfort Food'}]",IfLTw-yFMpuiqAdYRxLv8Q
+False,The Cecil Steakhouse,$$$,3.5,30,"[{'alias': 'steak', 'title': 'Steakhouses'}, {'alias': 'bars', 'title': 'Bars'}, {'alias': 'tradamerican', 'title': 'American (Traditional)'}]",twvQigBbR8xysrUjZclbtA
+False,Harlem Pub Crawl,,4.5,12,"[{'alias': 'barcrawl', 'title': 'Bar Crawl'}]",saXsPO4dN9UHYGcPssiKsA
+False,Under Bar,$$,2.5,19,"[{'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'speakeasies', 'title': 'Speakeasies'}]",rLS57Zp8Mzmuoa8Knj4aZA
+False,Seventeen Below,$$,2.0,3,"[{'alias': 'lounges', 'title': 'Lounges'}]",_xesGWYqL2BqtQaYTULvOQ
+False,Prelude Productions,,5.0,1,"[{'alias': 'musicians', 'title': 'Musicians'}, {'alias': 'jazzandblues', 'title': 'Jazz & Blues'}, {'alias': 'theater', 'title': 'Performing Arts'}]",gx7b4DNs_k0vYvNumR1nUQ
+False,The Bark Shoppe,,4.5,108,"[{'alias': 'groomer', 'title': 'Pet Groomers'}, {'alias': 'pet_training', 'title': 'Pet Training'}, {'alias': 'pet_sitting', 'title': 'Pet Sitting'}]",aK2oLf4W-Sr5-pw3Ty6w6A
+False,Harlem Animal Hospital,,5.0,107,"[{'alias': 'vet', 'title': 'Veterinarians'}]",js2dBmJHfu2CSiTNlnS6uQ
+False,Uptown Veterinary Associates,,4.0,107,"[{'alias': 'vet', 'title': 'Veterinarians'}]",1fRrL8uOb5jY09BKlc1hjg
+False,Paws Country Club,,4.5,21,"[{'alias': 'pet_sitting', 'title': 'Pet Sitting'}, {'alias': 'groomer', 'title': 'Pet Groomers'}, {'alias': 'dogwalkers', 'title': 'Dog Walkers'}]",RHThSL_PLssbDlpYHZMFKw
+False,Pack In Harmony,,5.0,7,"[{'alias': 'dogwalkers', 'title': 'Dog Walkers'}, {'alias': 'pet_training', 'title': 'Pet Training'}]",h2MUW9qcuA4hrh1Lv41hxQ
+False,Harlem's Happy Hounds,,5.0,9,"[{'alias': 'dogwalkers', 'title': 'Dog Walkers'}, {'alias': 'pet_sitting', 'title': 'Pet Sitting'}, {'alias': 'pet_training', 'title': 'Pet Training'}]",jB5pT4XiQPeRoet3Y0wTEA
+False,Petopia,,3.5,13,"[{'alias': 'petstore', 'title': 'Pet Stores'}, {'alias': 'petservices', 'title': 'Pet Services'}]",2vn7uXrkryhhR5i_PV-I2w
+False,RiversideBArk!,,5.0,13,"[{'alias': 'dogwalkers', 'title': 'Dog Walkers'}, {'alias': 'pet_sitting', 'title': 'Pet Sitting'}]",-7W7-h48jG2xjBks-lkf0Q
+False,Royal Pet Care,,3.5,11,"[{'alias': 'petstore', 'title': 'Pet Stores'}, {'alias': 'dogwalkers', 'title': 'Dog Walkers'}]",Cmg2krtMc1n2-STCzsjeiQ
+False,Petland Discounts,,4.0,6,"[{'alias': 'petstore', 'title': 'Pet Stores'}]",my7v86pKIuAxDSQzcYVHZw
+False,Animalbehaviorist,,5.0,1,"[{'alias': 'pet_training', 'title': 'Pet Training'}]",GGB_ier02sntVDnIeZRUTQ
+False,Harlem Amenities Concierge,,5.0,1,"[{'alias': 'localservices', 'title': 'Local Services'}, {'alias': 'petservices', 'title': 'Pet Services'}]",Ch2ENE3-HmL2aiR_9RvPTQ
+False,ThePampered.Pet,,4.0,5,"[{'alias': 'dogwalkers', 'title': 'Dog Walkers'}, {'alias': 'pet_sitting', 'title': 'Pet Sitting'}]",y7jkb9Z0Mm4y-ttmcqwW5A
+False,Harlem Dog Walking - Manhattan Paws Walkers,,4.5,2,"[{'alias': 'dogwalkers', 'title': 'Dog Walkers'}, {'alias': 'pet_sitting', 'title': 'Pet Sitting'}]",yUQ_rSeqXoKdbXKpGFtN9Q
+False,Opuscule,,5.0,16,"[{'alias': 'web_design', 'title': 'Web Design'}, {'alias': 'marketing', 'title': 'Marketing'}, {'alias': 'videofilmproductions', 'title': 'Video/Film Production'}]",pS8AsNVX3w7fEj8tDvalyQ
+False,The Self Tape Space,,5.0,18,"[{'alias': 'videofilmproductions', 'title': 'Video/Film Production'}]",ieYnjvXNLzX_RufymsVVNg
+False,BA Cleaning Service,,4.0,7,"[{'alias': 'homecleaning', 'title': 'Home Cleaning'}, {'alias': 'officecleaning', 'title': 'Office Cleaning'}]",IO2ZQ2AKWLic-17aa0C_5A
+False,Alfa Cleaning Operations,,5.0,13,"[{'alias': 'homecleaning', 'title': 'Home Cleaning'}, {'alias': 'officecleaning', 'title': 'Office Cleaning'}, {'alias': 'home_organization', 'title': 'Home Organization'}]",VGVtlbCFTcfqTOygaQTE6Q
+False,First Tier Organizing & Cleaning,,5.0,2,"[{'alias': 'homecleaning', 'title': 'Home Cleaning'}, {'alias': 'officecleaning', 'title': 'Office Cleaning'}, {'alias': 'home_organization', 'title': 'Home Organization'}]",xLhbnq7-blWK5pSH2MUoGw
+False,Theatre Reels Plus,,5.0,4,"[{'alias': 'videofilmproductions', 'title': 'Video/Film Production'}, {'alias': 'theater', 'title': 'Performing Arts'}, {'alias': 'videographers', 'title': 'Videographers'}]",BIGuXhSNBIVTJPmsyKWjgw
+False,Clear Look Cleaning,,5.0,2,"[{'alias': 'homecleaning', 'title': 'Home Cleaning'}, {'alias': 'officecleaning', 'title': 'Office Cleaning'}, {'alias': 'windowwashing', 'title': 'Window Washing'}]",o4CMjPFRW-6_z84N3PBisQ
+False,Giordano Law Offices,,5.0,2,"[{'alias': 'lawyers', 'title': 'Lawyers'}]",QMF8PREBpI33to_IjwUr_g
+False,Life As A Creation,,5.0,1,"[{'alias': 'lifecoach', 'title': 'Life Coach'}]",1rChFlZoXSAebbHGtG32iQ
+False,Fresh Air Cleaning Services,,5.0,1,"[{'alias': 'homecleaning', 'title': 'Home Cleaning'}, {'alias': 'officecleaning', 'title': 'Office Cleaning'}]",37XCymi63nmrTsbfLRx3cw
+False,Mo's Cleaning Service,,1.0,1,"[{'alias': 'homecleaning', 'title': 'Home Cleaning'}, {'alias': 'officecleaning', 'title': 'Office Cleaning'}]",GXzjL7eTsb5FPymKfc8dGw
+False,Scotties Cleaning Service,,1.0,1,"[{'alias': 'homecleaning', 'title': 'Home Cleaning'}, {'alias': 'officecleaning', 'title': 'Office Cleaning'}]",Bb5pYIpY9JzfXlc7FyWdAQ
+False,Algase Roger,,5.0,1,"[{'alias': 'general_litigation', 'title': 'General Litigation'}]",zIsiktLtaEAAgxuOiOMMBA
+False,Cathedral Church of St John the Divine,,4.5,143,"[{'alias': 'churches', 'title': 'Churches'}, {'alias': 'landmarks', 'title': 'Landmarks & Historical Buildings'}]",80fvd_DsoW5XhwQIMBGvtg
+False,125th Street in Harlem,,3.0,32,"[{'alias': 'landmarks', 'title': 'Landmarks & Historical Buildings'}]",dWeGjqmrjfgfTRl-zejY_g
+False,US Post Office,,1.5,54,"[{'alias': 'postoffices', 'title': 'Post Offices'}, {'alias': 'shipping_centers', 'title': 'Shipping Centers'}]",8YdWeqCinOWhBLJQfjq-3w
+False,Butler Library,,4.5,7,"[{'alias': 'libraries', 'title': 'Libraries'}]",NG_3NoVajWsbSPdz_ndLJg
+False,New York Public Library - Morningside Heights,,3.0,18,"[{'alias': 'libraries', 'title': 'Libraries'}]",x5IFNKlTXgDNTQTlQrRC6Q
+False,US Post Office,,1.5,97,"[{'alias': 'postoffices', 'title': 'Post Offices'}, {'alias': 'shipping_centers', 'title': 'Shipping Centers'}]",5-_x5_rZS8e-F17XKvaWxg
+False,US Post Office,,2.0,54,"[{'alias': 'postoffices', 'title': 'Post Offices'}, {'alias': 'shipping_centers', 'title': 'Shipping Centers'}]",Fje1a15z84NYIjMQxhOBIA
+False,US Post Office,,1.5,82,"[{'alias': 'postoffices', 'title': 'Post Offices'}, {'alias': 'shipping_centers', 'title': 'Shipping Centers'}]",TVuP5NxTCA9rZipSmAfirw
+False,Adam Clayton Powell Jr. State Office Building,,4.5,3,"[{'alias': 'landmarks', 'title': 'Landmarks & Historical Buildings'}]",wTCO_29nRlfkj9pUtH5Vfw
+False,New York Public Library - Harry Belafonte 115th Street Library,,3.0,1,"[{'alias': 'libraries', 'title': 'Libraries'}]",uTHQ9feZrf0LskDxW5epyQ
+False,New York Public Library - Aguilar Library,,2.5,9,"[{'alias': 'libraries', 'title': 'Libraries'}]",xZy3JDHwdePloztKlhCYFQ
+False,Harriet Tubman Memorial Statue,,5.0,1,"[{'alias': 'landmarks', 'title': 'Landmarks & Historical Buildings'}]",y4CfLN_-O-asEM9ZFQ_N4g
+False,The City Of New York Department Of Health,,5.0,1,"[{'alias': 'publicservicesgovt', 'title': 'Public Services & Government'}]",myDI8WnHjFJpswSWJ7lbMA
+False,Justice Center en el Barrio,,5.0,1,"[{'alias': 'communitycenters', 'title': 'Community Centers'}, {'alias': 'nonprofit', 'title': 'Community Service/Non-Profit'}, {'alias': 'arts', 'title': 'Arts & Entertainment'}]",bIfnUuwIfmmOGshmX48oYA
+False,District 10 Board of Education,,5.0,1,"[{'alias': 'education', 'title': 'Education'}, {'alias': 'publicservicesgovt', 'title': 'Public Services & Government'}]",F_CdUj3uwAozh2lfZJWU1Q
+False,Harlem Children's Zone,,5.0,1,"[{'alias': 'fitness', 'title': 'Fitness & Instruction'}, {'alias': 'communitycenters', 'title': 'Community Centers'}]",gjjbUPhp1kcefbgTlgA7UQ
+False,"J Marion Sims Monument , MD",,3.5,2,"[{'alias': 'landmarks', 'title': 'Landmarks & Historical Buildings'}]",LtzErgyZgL9K9FG5CZSyqA
+False,The Diana Center,,4.0,1,"[{'alias': 'landmarks', 'title': 'Landmarks & Historical Buildings'}]",bZsTTuN9QJxT2Zsu8uOCTA
+False,Great Hill,,4.0,1,"[{'alias': 'landmarks', 'title': 'Landmarks & Historical Buildings'}, {'alias': 'hiking', 'title': 'Hiking'}]",-yHdzKp-hTCB4c44Vrkk7w
+False,NYPD 25th Precinct,,2.5,3,"[{'alias': 'policedepartments', 'title': 'Police Departments'}]",K9KquYZtAziWUeLT3OF_9Q
+False,Office of Temporary and Disability Assistance,,3.0,1,"[{'alias': 'publicservicesgovt', 'title': 'Public Services & Government'}]",JuCUNTz0u-GnhJVcHFsUdA
+False,New York Public Library - Harlem Library,,2.5,4,"[{'alias': 'libraries', 'title': 'Libraries'}]",KoYT5oORQK4MPLIAFrGu4w
+False,Bohemia Realty Group,,4.5,276,"[{'alias': 'realestatesvcs', 'title': 'Real Estate Services'}, {'alias': 'propertymgmt', 'title': 'Property Management'}]",6RLUQ9SwIFJN8hVWrrnmJQ
+False,Harlem Properties Team at Compass,,5.0,21,"[{'alias': 'realestatesvcs', 'title': 'Real Estate Services'}, {'alias': 'commercialrealestate', 'title': 'Commercial Real Estate'}, {'alias': 'propertymgmt', 'title': 'Property Management'}]",z6lzLS1A897-b88-lXx_tA
+False,Raphael Fetta - Bohemia Realty Group,,5.0,13,"[{'alias': 'realestateagents', 'title': 'Real Estate Agents'}]",H5GGAzhga09_punqtJe3QA
+False,Sofia Corradini At Keller Williams,,5.0,5,"[{'alias': 'realestateagents', 'title': 'Real Estate Agents'}]",uMVEohLu82vF0sPxuusNbw
+False,Beth Gittleman - Bohemia Realty Group,,5.0,9,"[{'alias': 'realestateagents', 'title': 'Real Estate Agents'}]",2WxPudNKeXeFA7YCrosGjQ
+False,Mckinley Jones III - Douglas Elliman Real Estate,,5.0,8,"[{'alias': 'realestateagents', 'title': 'Real Estate Agents'}]",s7RcdV2qjE6LSl6GBqcsew
+False,The Emily Ackerman & Daoud Heidami Team - Bohemia Realty Group,,5.0,4,"[{'alias': 'realestateagents', 'title': 'Real Estate Agents'}]",pviK1db9kNG3en05WF-QNA
+False,David McDaniel- Compass,,5.0,14,"[{'alias': 'realestateagents', 'title': 'Real Estate Agents'}]",Sm3V6Ogvi8fky6xzltqdQA
+False,K & R Realty,,2.5,34,"[{'alias': 'apartments', 'title': 'Apartments'}]",I_0djwlONzuhDCq4HnQnJA
+False,Hakim R. Canter - McMillan - Bohemia Realty Group,,5.0,4,"[{'alias': 'realestateagents', 'title': 'Real Estate Agents'}]",f2xhE_aegpQmsdM5xNbswA
+False,Halstead Property - Harlem,,5.0,3,"[{'alias': 'realestatesvcs', 'title': 'Real Estate Services'}]",83eUa_PCTq13sCzp_zgkXg
+False,Don Burroughs - Bohemia Realty Group,,4.5,3,"[{'alias': 'realestateagents', 'title': 'Real Estate Agents'}]",8d3PPXHTokREj4giHRA7dg
+False,Meg McWhorter- Bohemia Realty Group,,5.0,2,"[{'alias': 'realestateagents', 'title': 'Real Estate Agents'}]",GHgJBkdF0vXM6SiR66_rxQ
+False,Wendy Wood - Bohemia Realty Group,,5.0,2,"[{'alias': 'realestateagents', 'title': 'Real Estate Agents'}]",Ssbpe0b023r0C4GCAHiecw
+False,Lynnsey Garegnani - Bohemia Realty Group,,5.0,1,"[{'alias': 'realestateagents', 'title': 'Real Estate Agents'}]",ScN4H_cz4TiUJdOX8y47Fw
+False,Ariel Shafir - Bohemia Realty Group,,5.0,3,"[{'alias': 'realestateagents', 'title': 'Real Estate Agents'}]",mQ1KqkSEMeTglgIm3rbqXA
+False,Boaz Turgeman - I&I Real Estate,,5.0,1,"[{'alias': 'realestateagents', 'title': 'Real Estate Agents'}]",jXnkZj4y9Xg8LXSRQ3BW7w
+False,DeAnna D. Rieber,,5.0,2,"[{'alias': 'realestateagents', 'title': 'Real Estate Agents'}]",9tHKWJAwL9gUweweVAR_xw
+False,The Brian Phillips Team - Douglas Elliman Real Estate,,4.0,5,"[{'alias': 'realestatesvcs', 'title': 'Real Estate Services'}, {'alias': 'realestateagents', 'title': 'Real Estate Agents'}]",pLOBwycjioWlxrW1FlhLGw
+False,Garlia Jones-Ly - Bohemia Realty Group,,4.5,2,"[{'alias': 'realestateagents', 'title': 'Real Estate Agents'}]",YsUq8stSOOGVa8RPF0xloA
+False,Agueda Ramirez - Bohemia Realty Group,,5.0,4,"[{'alias': 'realestateagents', 'title': 'Real Estate Agents'}]",1dwzvxUx1-zWt7Oo_63xtA
+False,Harlem Property Management,,4.0,4,"[{'alias': 'propertymgmt', 'title': 'Property Management'}]",wLtPtipDLfp-AyUXyt9ryg
+False,Jed Pavlovich - Keller Williams,,5.0,2,"[{'alias': 'realestateagents', 'title': 'Real Estate Agents'}]",2TimCSqb7iHGzwVXoMH06A
+False,Town Fifth Avenue,,5.0,1,"[{'alias': 'realestateagents', 'title': 'Real Estate Agents'}, {'alias': 'realestatesvcs', 'title': 'Real Estate Services'}]",yTicO5cX1HveQli-DGUZrw
+False,Andrick Management,,3.0,2,"[{'alias': 'propertymgmt', 'title': 'Property Management'}]",r5XrQwFqL8lq5TN1UTtH3g
+False,Douglas Elliman Real Estate - Harlem Gallery,,1.0,1,"[{'alias': 'realestateagents', 'title': 'Real Estate Agents'}]",14AOFWGuyoWZ2PD6WR_CMw
+False,John Ruocco - Bohemia Realty Group,,5.0,1,"[{'alias': 'realestateagents', 'title': 'Real Estate Agents'}]",KRYRpmhzLCNxY5P41yBYcA
+False,Michaela Morton - Bohemia Realty Group,,5.0,1,"[{'alias': 'realestateagents', 'title': 'Real Estate Agents'}]",WrjyGLKrvOj3OEsnmetp6g
+False,First Corinthian Baptist Church,,4.5,18,"[{'alias': 'churches', 'title': 'Churches'}]",LZnJe7tHrolLjtu9Pw4SDA
+False,Canaan Baptist Church,,3.5,5,"[{'alias': 'churches', 'title': 'Churches'}]",TJuaxLjXckDYqXiCHvhGXw
+False,Salvation & Deliverance Church,,5.0,1,"[{'alias': 'religiousorgs', 'title': 'Religious Organizations'}]",C8NKUTzKoE-JTBEGRUn-oA
+False,Second Providence Bapt Church,,5.0,1,"[{'alias': 'nonprofit', 'title': 'Community Service/Non-Profit'}, {'alias': 'religiousorgs', 'title': 'Religious Organizations'}]",EorTzf6c5n_0_G_7Yq-wlw
+False,Mount Neboh Baptist Church,,1.0,1,"[{'alias': 'churches', 'title': 'Churches'}]",nemoDyKqxcer9qcrQUst3A
+False,Ephesus Seventh-Day Adventist Church,,4.0,1,"[{'alias': 'churches', 'title': 'Churches'}]",XaAZq-vcvqZ6FPQM94mpag
+False,Aun Nur Islamic Center,,1.0,1,"[{'alias': 'mosques', 'title': 'Mosques'}]",2dL7UX24EGlWsHgsE_0GQQ
+False,Mosque of Islamic Brotherhood,,4.0,1,"[{'alias': 'mosques', 'title': 'Mosques'}]",eZaTI-UUcpK-i0aySVRosw
+False,Christ Central Church,,5.0,1,"[{'alias': 'churches', 'title': 'Churches'}]",Ayc-L3oXkl0ChtXg9_j-WA
+False,Amy Ruth's,$$,4.0,2133,"[{'alias': 'southern', 'title': 'Southern'}, {'alias': 'soulfood', 'title': 'Soul Food'}]",tsiC3VpO-hZEb98Qk3p-DQ
+False,Seasoned Vegan,$$,4.0,733,"[{'alias': 'vegan', 'title': 'Vegan'}, {'alias': 'soulfood', 'title': 'Soul Food'}, {'alias': 'kosher', 'title': 'Kosher'}]",IJg3TdXz8IzKTfcspmr8MQ
+False,Lido,$$,4.0,794,"[{'alias': 'italian', 'title': 'Italian'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",J9xVQScnr0lYWl61_mLXMA
+False,Lolo's Seafood Shack,$$,4.0,483,"[{'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'bars', 'title': 'Bars'}]",XOnspIaW6mYVmrvgqOaYSQ
+False,Melba's,$$,3.5,775,"[{'alias': 'southern', 'title': 'Southern'}, {'alias': 'tradamerican', 'title': 'American (Traditional)'}, {'alias': 'soulfood', 'title': 'Soul Food'}]",4rWJGwb3rjDoZHA0AECa5A
+False,Safari Restaurant NYC,$$,4.5,142,"[{'alias': 'african', 'title': 'African'}]",5mOzZ17qU_8ijlP54Q206Q
+False,Harlem Tavern,$$,3.5,1013,"[{'alias': 'pubs', 'title': 'Pubs'}, {'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",uCsyRxfIfiRqQQuK_JlfZA
+False,Zoma,$$,4.0,353,"[{'alias': 'ethiopian', 'title': 'Ethiopian'}]",ySzkBv-_DTNT30eONPnAkg
+False,Cantina Taqueria & Tequila Bar,$$,4.0,325,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'latin', 'title': 'Latin American'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",UH_aksIxzGPPyhWZJbTP7A
+False,BLVD Bistro,$$,4.0,541,"[{'alias': 'tradamerican', 'title': 'American (Traditional)'}, {'alias': 'soulfood', 'title': 'Soul Food'}]",Z-hDHjP4Eza6BA4G97tzVA
+False,Harlem Pizza Co,$$,4.0,127,"[{'alias': 'pizza', 'title': 'Pizza'}]",x4_5vkcFKvaxJuZAJRX_Qw
+False,VINATERÍA,$$,4.0,337,"[{'alias': 'italian', 'title': 'Italian'}, {'alias': 'spanish', 'title': 'Spanish'}, {'alias': 'seafood', 'title': 'Seafood'}]",MH08_pIRKsUSwfkVYxUE7w
+False,B2 Harlem,$$,4.0,146,"[{'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",Fl2z1edJw3MONc9rERWRMg
+False,Bier International,$$,3.5,299,"[{'alias': 'german', 'title': 'German'}, {'alias': 'bars', 'title': 'Bars'}]",Fk495HaokZDrGkAG8s_dlg
+False,Sottocasa Pizzeria - Harlem,$$,4.5,150,"[{'alias': 'pizza', 'title': 'Pizza'}, {'alias': 'italian', 'title': 'Italian'}]",NPnWsPxOpG91GHx74S27Uw
+False,Row House,$$,3.5,243,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'tapasmallplates', 'title': 'Tapas/Small Plates'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",dvRKiQbscruyTLaAL7q3PA
+False,L Encanto D Lola,$$,3.5,227,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'bars', 'title': 'Bars'}]",V7_IQ1ab69JilAlgrSnMXg
+False,Minton's Playhouse,$$$,3.5,156,"[{'alias': 'jazzandblues', 'title': 'Jazz & Blues'}, {'alias': 'tradamerican', 'title': 'American (Traditional)'}, {'alias': 'bars', 'title': 'Bars'}]",sJPayLq6EqepJbPGLlFfHw
+False,Streetbird Rotisserie,$$,3.0,553,"[{'alias': 'soulfood', 'title': 'Soul Food'}, {'alias': 'chickenshop', 'title': 'Chicken Shop'}]",01P50XjSzeLrrP3BLVccGg
+False,Harlem Food Bar,$$,3.5,191,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}]",OZtXG5DUsJZrtMFWodCNnA
+False,La Savane,$$,4.5,52,"[{'alias': 'african', 'title': 'African'}]",DgpnbYHVKWVuy_MC_5iiJA
+False,Blujeen,$$,3.5,197,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'comfortfood', 'title': 'Comfort Food'}, {'alias': 'seafood', 'title': 'Seafood'}]",6fuBkRzFEuIGexlxJx4RrA
+False,RDV Rendezvous,$$,4.0,98,"[{'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'french', 'title': 'French'}, {'alias': 'desserts', 'title': 'Desserts'}]",6nnhmOgTeI6QmQS1LhMD9Q
+False,Silvana,$$,3.5,203,"[{'alias': 'mideastern', 'title': 'Middle Eastern'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}]",rrxcBTWS827bJ4oBr5a_ww
+False,Maharaja Palace,$$,3.5,145,"[{'alias': 'indpak', 'title': 'Indian'}, {'alias': 'diners', 'title': 'Diners'}, {'alias': 'vegetarian', 'title': 'Vegetarian'}]",h0Z2RZBZbiqS-Yw22WyTaQ
+False,Cafe Frederick Harlem Parlor,$$,4.0,89,"[{'alias': 'cafes', 'title': 'Cafes'}]",iJtJ3W_o0uHtHmLkcjI3Gw
+False,Chocolat Restaurant Lounge,$$,3.0,769,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'lounges', 'title': 'Lounges'}, {'alias': 'comfortfood', 'title': 'Comfort Food'}]",YRfDdBgWS4T80oJfKmVThA
+False,Sexy Taco/Dirty Cash,$$,3.5,236,"[{'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'mexican', 'title': 'Mexican'}]",D7w3Nk3H0oDYZSIAaRgYRA
+False,Pikine - Senegalese Restaurant,$$,4.0,52,"[{'alias': 'african', 'title': 'African'}]",p0hkHX70HUbY4R_r0Xvntg
+False,La Diagonal,$$,4.0,106,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'newmexican', 'title': 'New Mexican Cuisine'}, {'alias': 'tapas', 'title': 'Tapas Bars'}]",8p1HTzXEcC3TCbLz59xMng
+False,Le Baobab Restaurants,$$,4.0,51,"[{'alias': 'senegalese', 'title': 'Senegalese'}]",fF-vC3L41maIXSUQDkbQ1w
+False,Harlem Coffee,$,4.0,84,"[{'alias': 'cafes', 'title': 'Cafes'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}, {'alias': 'desserts', 'title': 'Desserts'}]",OWOp7H1kLIz5kMtn0qKoLQ
+False,Il Caffe Latte,$$,3.5,248,"[{'alias': 'coffee', 'title': 'Coffee & Tea'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}]",N9cTbhwpTIcex_Je9Vx7lQ
+False,Kingston,$$,4.0,63,"[{'alias': 'caribbean', 'title': 'Caribbean'}, {'alias': 'bars', 'title': 'Bars'}]",CjUMkpPprcw-PuJ7gZEtTw
+False,Patisserie Des Ambassades,$$,3.0,265,"[{'alias': 'bakeries', 'title': 'Bakeries'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'cakeshop', 'title': 'Patisserie/Cake Shop'}]",QUNchfxuTOOmjAXkHivYdQ
+False,Pizza Stop,$,4.5,31,"[{'alias': 'pizza', 'title': 'Pizza'}, {'alias': 'italian', 'title': 'Italian'}]",bZZzJ2IJiL-ZAn6qen0-xA
+False,Maxwells Central Park,$$,4.0,113,"[{'alias': 'tradamerican', 'title': 'American (Traditional)'}, {'alias': 'gastropubs', 'title': 'Gastropubs'}]",8cycOQsmOt0ptlrBlOWdFA
+False,Cheri,$$,4.0,123,"[{'alias': 'french', 'title': 'French'}]",WH9GqcrmWIepu3VpFxaInw
+False,Settepani,$$,3.5,170,"[{'alias': 'italian', 'title': 'Italian'}, {'alias': 'mediterranean', 'title': 'Mediterranean'}]",q6ux26c-SfK-679y9lvVbw
+False,Cafe Amrita,$$,3.5,211,"[{'alias': 'cafes', 'title': 'Cafes'}, {'alias': 'french', 'title': 'French'}, {'alias': 'newamerican', 'title': 'American (New)'}]",bEec28P1CziowM9LrNkNsg
+False,Elma's,$,4.5,20,"[{'alias': 'caribbean', 'title': 'Caribbean'}, {'alias': 'soulfood', 'title': 'Soul Food'}, {'alias': 'juicebars', 'title': 'Juice Bars & Smoothies'}]",lpoam-7-1cS_tekd_uc8HQ
+False,Hop House Harlem,$$,4.0,78,"[{'alias': 'pizza', 'title': 'Pizza'}, {'alias': 'beerbar', 'title': 'Beer Bar'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}]",kz6WiG4CEiTtnSp1LQ88bw
+False,Moca Bar and Lounge,$$,3.0,155,"[{'alias': 'tradamerican', 'title': 'American (Traditional)'}, {'alias': 'lounges', 'title': 'Lounges'}, {'alias': 'comfortfood', 'title': 'Comfort Food'}]",IfLTw-yFMpuiqAdYRxLv8Q
+False,Crepe Master,$$,5.0,7,"[{'alias': 'creperies', 'title': 'Creperies'}, {'alias': 'juicebars', 'title': 'Juice Bars & Smoothies'}]",CsncRlAhRbWDfluMeg1pzw
+False,Harlem Burger Co,$$,3.0,143,"[{'alias': 'burgers', 'title': 'Burgers'}, {'alias': 'juicebars', 'title': 'Juice Bars & Smoothies'}, {'alias': 'hotdogs', 'title': 'Fast Food'}]",lzevOsRjUiip3tSZA0KUng
+False,Atomic Wings,$$,3.0,99,"[{'alias': 'chicken_wings', 'title': 'Chicken Wings'}]",6ivIw93SATyp6Syc-_k5Eg
+False,Sea and Sea,$$,3.5,26,"[{'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'seafoodmarkets', 'title': 'Seafood Markets'}]",OvCHIeKj6hHdYmet-8NaTA
+False,Royal Curry & Kabab,$,3.5,39,"[{'alias': 'indpak', 'title': 'Indian'}]",LQvI-JYji1jO5wySb8KZiw
+False,Popeyes Louisiana Kitchen,$,3.5,15,"[{'alias': 'chicken_wings', 'title': 'Chicken Wings'}, {'alias': 'hotdogs', 'title': 'Fast Food'}]",AcqB8vXaoKFcv_PAm4gHHQ
+False,Szechuan Garden Kitchen,$,4.0,14,"[{'alias': 'chinese', 'title': 'Chinese'}]",b2d8CP6sKQotFjzZX0Thtw
+False,Harmony,$$,3.0,47,"[{'alias': 'salad', 'title': 'Salad'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}, {'alias': 'bubbletea', 'title': 'Bubble Tea'}]",xKscjvRpp05aAJkPP507cw
+False,Mist Harlem,$$,2.5,72,"[{'alias': 'coffee', 'title': 'Coffee & Tea'}, {'alias': 'cafes', 'title': 'Cafes'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}]",l1n_KhFcFJs5YAxudRDNFg
+False,Cafe Dandy,,5.0,8,"[{'alias': 'cafes', 'title': 'Cafes'}, {'alias': 'senegalese', 'title': 'Senegalese'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",NplPq1bijGzvXdgZUCetKw
+False,Que Rico Pollo,$,3.5,21,"[{'alias': 'spanish', 'title': 'Spanish'}]",DEvNXiPDVR6_LMmN3Rl9dQ
+False,Empire,$,3.5,19,"[{'alias': 'chinese', 'title': 'Chinese'}, {'alias': 'importedfood', 'title': 'Imported Food'}]",Wezt_3dALzHmfXjHOPG4GQ
+False,Subway,$,4.0,9,"[{'alias': 'sandwiches', 'title': 'Sandwiches'}, {'alias': 'hotdogs', 'title': 'Fast Food'}]",CY6uMAtJda-WcUcXv6uDwQ
+False,Jerk to Go,$$,3.5,21,"[{'alias': 'caribbean', 'title': 'Caribbean'}]",22r743FudlzHAR7P5A_T7A
+False,Pad Thai,,3.5,24,"[{'alias': 'thai', 'title': 'Thai'}]",veeT_UTyJl_szVVZ5vq4zA
+False,Kennedy Fried Chicken,$,4.0,15,"[{'alias': 'hotdogs', 'title': 'Fast Food'}, {'alias': 'burgers', 'title': 'Burgers'}]",3ApjrjQNssic4uqzXla1lw
+False,Peking Kitchen II,$,3.5,18,"[{'alias': 'chinese', 'title': 'Chinese'}]",O2jCWIOWb-IhyZGZLTNNoA
+False,The Cecil Steakhouse,$$$,3.5,30,"[{'alias': 'steak', 'title': 'Steakhouses'}, {'alias': 'bars', 'title': 'Bars'}, {'alias': 'tradamerican', 'title': 'American (Traditional)'}]",twvQigBbR8xysrUjZclbtA
+False,Mama's Fried Chicken,$,3.0,22,"[{'alias': 'hotdogs', 'title': 'Fast Food'}]",JCPykGY64Ok0MXo1T_35Cw
+False,Jumbo's,$,3.0,15,"[{'alias': 'burgers', 'title': 'Burgers'}]",Q0DuWWI3ewpL7ybGHlt-uA
+False,Tropical Grill Restaurant,$,3.0,17,"[{'alias': 'spanish', 'title': 'Spanish'}]",n40-TVgvHEHDcTqLTBGJ3A
+False,Keur Coumba Restaurant,$$,3.5,15,"[{'alias': 'senegalese', 'title': 'Senegalese'}]",RztL8s8NIDL-TD770kRyAg
+False,Freddy's Soul Caribbean Restaurant,$$,3.0,18,"[{'alias': 'caribbean', 'title': 'Caribbean'}]",4QPKfSfhLRomEEM5160Fzg
+False,Texas Chicken & Burgers,$,3.0,7,"[{'alias': 'chicken_wings', 'title': 'Chicken Wings'}, {'alias': 'burgers', 'title': 'Burgers'}, {'alias': 'tradamerican', 'title': 'American (Traditional)'}]",kSjACWCfLQ1cyVd_o85Spg
+False,Harlem Food Court,$,4.0,8,"[{'alias': 'food_court', 'title': 'Food Court'}]",UK-gU-bkPjXYUCHfdpiyTg
+False,B&K French Cuisine,,5.0,1,"[{'alias': 'french', 'title': 'French'}]",VMd81NxA5-NeangxcDs8Iw
+False,New King Wok Restaurant,$,4.0,8,"[{'alias': 'chinese', 'title': 'Chinese'}]",vSkCDRWX6VvP4PJHHFgoDw
+False,Number 1 Chinese Restaurant,$,3.5,6,"[{'alias': 'chinese', 'title': 'Chinese'}]",siWkEWRj6ipcMMY5EGWPrQ
+False,Chef White's Five Star Grill,$,4.0,4,"[{'alias': 'foodstands', 'title': 'Food Stands'}]",PE2Ny-4ajVpNnKH-hV5BPQ
+False,Wonder Fried Chicken & Pizza,$,3.0,8,"[{'alias': 'hotdogs', 'title': 'Fast Food'}, {'alias': 'pizza', 'title': 'Pizza'}]",fTM0bi27wIUFX27zfmvbyQ
+False,Papa John's Pizza,,3.0,2,"[{'alias': 'pizza', 'title': 'Pizza'}]",Pa5QLgDlPU0AQSvMqQiItQ
+False,ANF Gourmet Deli and Grocery,,3.5,3,"[{'alias': 'grocery', 'title': 'Grocery'}, {'alias': 'delis', 'title': 'Delis'}]",uk5BfVmlgcdHdGy0P5yHNw
+False,Subway,,3.0,5,"[{'alias': 'sandwiches', 'title': 'Sandwiches'}, {'alias': 'hotdogs', 'title': 'Fast Food'}]",U2N5juV7tXzkiDgeX-4Svw
+False,Obama Chicken & Pizza,$,2.0,2,"[{'alias': 'chicken_wings', 'title': 'Chicken Wings'}, {'alias': 'pizza', 'title': 'Pizza'}]",nENPcLhvqZ3-cyeedudvZA
+False,Shun Cheong Chinese Kitchen,$,3.0,2,"[{'alias': 'chinese', 'title': 'Chinese'}]",mL43TXtc0WlFCfhlN0ziHQ
+False,Zheng's River Restaurant,$$$$,4.0,1,"[{'alias': 'chinese', 'title': 'Chinese'}]",HKjazh_40Gei5rP5ir-F2w
+False,Harlem Savour of Seafood,$$,2.0,9,"[{'alias': 'seafood', 'title': 'Seafood'}]",UWSVbdWub1ZLzRb9--4-mA
+False,US Fried Chicken,,2.0,2,"[{'alias': 'chicken_wings', 'title': 'Chicken Wings'}]",L-SXbegy9g-AbRq90YTaKw
+False,Feng Shun Chang Kitchen,,4.0,1,"[{'alias': 'chicken_wings', 'title': 'Chicken Wings'}, {'alias': 'hotdogs', 'title': 'Fast Food'}, {'alias': 'szechuan', 'title': 'Szechuan'}]",SX6WD9yIj3jG6HlyzdYzRQ
+False,Subway,$,2.0,2,"[{'alias': 'sandwiches', 'title': 'Sandwiches'}, {'alias': 'hotdogs', 'title': 'Fast Food'}]",emcgDL2PVsqQDFlmjukyng
+False,Adriana Grill and Restaurant,,2.5,2,"[{'alias': 'caribbean', 'title': 'Caribbean'}]",DVXWttBlgPlOLO86vK5cSw
+False,Atomic Wings Harlem,$$,1.0,1,"[{'alias': 'chicken_wings', 'title': 'Chicken Wings'}]",adblb2fUbkGzCaQtz4LFqg
+False,The Pizza Place,,1.0,1,"[{'alias': 'pizza', 'title': 'Pizza'}]",ShyYS_C_T2DqmToYylodkw
+False,Franz James Floral Boutique,$$,5.0,46,"[{'alias': 'florists', 'title': 'Florists'}]",JT6iuGVVyPNJunWiyp0Gqg
+False,Larry's Freewheeling,$$,4.5,108,"[{'alias': 'bike_repair_maintenance', 'title': 'Bike Repair/Maintenance'}, {'alias': 'bikerentals', 'title': 'Bike Rentals'}, {'alias': 'bikes', 'title': 'Bikes'}]",00rrqw4O0Flfatd0VV6QAg
+False,JS Cycle,$,4.5,42,"[{'alias': 'bikes', 'title': 'Bikes'}]",4LQnOyQDxvcPZqBVx5w2SA
+False,Grandma's Place,$$,5.0,23,"[{'alias': 'toys', 'title': 'Toy Stores'}, {'alias': 'bookstores', 'title': 'Bookstores'}]",U5TeVEGi9InJAiO2SsFc8Q
+False,Marcos Leather Lab 1,$$,3.5,31,"[{'alias': 'shoerepair', 'title': 'Shoe Repair'}, {'alias': 'leather', 'title': 'Leather Goods'}, {'alias': 'watch_repair', 'title': 'Watch Repair'}]",POMwv8-uf1XBvOsLl2eFsA
+False,Trunk Show Designer Consignment,$$$$,4.5,16,"[{'alias': 'personal_shopping', 'title': 'Personal Shopping'}, {'alias': 'vintage', 'title': 'Used, Vintage & Consignment'}]",vry0EIIXrlQnIZj3c3JdaQ
+False,Sky Locksmith,$$,4.5,44,"[{'alias': 'locksmiths', 'title': 'Keys & Locksmiths'}, {'alias': 'hardware', 'title': 'Hardware Stores'}]",jH5V-GMlEXTwOF4uNneMmg
+False,Malcolm Shabazz Harlem Market,$,4.0,21,"[{'alias': 'shoppingcenters', 'title': 'Shopping Centers'}]",djaxGuPoA9FKyurMoOtQoA
+False,Bibi Salon,$$$,4.0,29,"[{'alias': 'hair', 'title': 'Hair Salons'}, {'alias': 'eyelashservice', 'title': 'Eyelash Service'}, {'alias': 'cosmetics', 'title': 'Cosmetics & Beauty Supply'}]",xXUT3AEaclBliFLlT884NA
+False,Bebenoir,$$,4.0,14,"[{'alias': 'fashion', 'title': 'Fashion'}]",9LGAB5nFb4yML6Du5o7iJQ
+False,Ethereal Aromatherapy and Skin Care,$$$,5.0,4,"[{'alias': 'skincare', 'title': 'Skin Care'}, {'alias': 'waxing', 'title': 'Waxing'}, {'alias': 'cosmetics', 'title': 'Cosmetics & Beauty Supply'}]",NDI0jqz1I_NgdZatylfgwQ
+False,NiLu Gift Shop,$$,4.0,9,"[{'alias': 'giftshops', 'title': 'Gift Shops'}, {'alias': 'stationery', 'title': 'Cards & Stationery'}]",FGK3UUu2nZg4KK7XrctEZg
+False,Quintessencia,,5.0,3,"[{'alias': 'catering', 'title': 'Caterers'}, {'alias': 'personalchefs', 'title': 'Personal Chefs'}, {'alias': 'cookingclasses', 'title': 'Cooking Classes'}]",ZMeIWbjQWKUoVrElH6ZNPA
+False,Columbus Distributors,$$,4.0,11,"[{'alias': 'hardware', 'title': 'Hardware Stores'}]",083HlL0uE9hHyIi42ptn-w
+False,CVS Pharmacy,$$,2.0,29,"[{'alias': 'drugstores', 'title': 'Drugstores'}]",qIISGvg9BR1Y7j9aZjPK8g
+False,Deals,$,4.0,5,"[{'alias': 'discountstore', 'title': 'Discount Store'}]",99SrHYZgvWGEaZzVgjVJnQ
+False,Harlem Rx,$$$$,5.0,3,"[{'alias': 'drugstores', 'title': 'Drugstores'}]",fRkjklaHKOADg8vx59j8DA
+False,Dollar Tree,$,4.0,5,"[{'alias': 'discountstore', 'title': 'Discount Store'}]",k6HuEtF9ZRR1dtQnO1FBEw
+False,Ronald Stewart Photography,,5.0,2,"[{'alias': 'eventphotography', 'title': 'Event Photography'}, {'alias': 'sessionphotography', 'title': 'Session Photography'}, {'alias': 'photographystores', 'title': 'Photography Stores & Services'}]",wyCLhSW6FQWM7AuxWQslhw
+False,Rite Aid,$$,2.0,37,"[{'alias': 'drugstores', 'title': 'Drugstores'}, {'alias': 'convenience', 'title': 'Convenience Stores'}]",xDcDKPVDO5wSZ-dU8HDbQg
+False,Moe's Sneaker Spot,$$,5.0,1,"[{'alias': 'shoes', 'title': 'Shoe Stores'}]",PMSZjqz7iqhQY9iDpCKykQ
+False,United Hardware,$,3.5,9,"[{'alias': 'hardware', 'title': 'Hardware Stores'}]",PUnu6su7FrPY0vVpGXbeJw
+False,Carbon Showroom,,5.0,1,"[{'alias': 'womenscloth', 'title': ""Women's Clothing""}, {'alias': 'menscloth', 'title': ""Men's Clothing""}, {'alias': 'jewelry', 'title': 'Jewelry'}]",7ztO3EpSySiD8Jo8ppqF_g
+False,T-Mobile,$$$,2.5,5,"[{'alias': 'mobilephones', 'title': 'Mobile Phones'}]",Vlj5e-qxtdcyPsb0tlLPKA
+False,AG Fashion,$$$,3.0,5,"[{'alias': 'sewingalterations', 'title': 'Sewing & Alterations'}, {'alias': 'accessories', 'title': 'Accessories'}]",vC9XjJAnV8pai8s0NwQ5QQ
+False,Bravo Zulu,,4.5,2,"[{'alias': 'firstaidclasses', 'title': 'First Aid Classes'}, {'alias': 'safetyequipment', 'title': 'Safety Equipment'}, {'alias': 'cprclasses', 'title': 'CPR Classes'}]",ydHRZD1TfiQGL1_8eGxV3g
+False,Fallas Stores,$,2.5,3,"[{'alias': 'deptstores', 'title': 'Department Stores'}, {'alias': 'childcloth', 'title': ""Children's Clothing""}, {'alias': 'womenscloth', 'title': ""Women's Clothing""}]",TbAGvY8LAu_G7UtAEUPztg
+False,FlynnO'Hara Uniforms,,5.0,2,"[{'alias': 'uniforms', 'title': 'Uniforms'}]",8XPaqEbif8JrsGI-h5LzlA
+False,Malcolm Pharmacy,,5.0,1,"[{'alias': 'drugstores', 'title': 'Drugstores'}]",9iBvA8wNmZVdODadQ45evA
+False,Josh Maxey Guitar Lessons,,5.0,1,"[{'alias': 'musicalinstrumentsandteachers', 'title': 'Musical Instruments & Teachers'}]",vNZCzqse95hh-CCOnkaJqw
+False,Harlem Haberdashery,$$$,3.0,5,"[{'alias': 'accessories', 'title': 'Accessories'}, {'alias': 'menscloth', 'title': ""Men's Clothing""}, {'alias': 'bespoke', 'title': 'Bespoke Clothing'}]",aV2K9-POzd5YFk6U6zYVcA
+False,Ashley Stewart,,3.5,2,"[{'alias': 'womenscloth', 'title': ""Women's Clothing""}]",fqiDHA8xcky0XnozZrY8UA
+False,Metro PCS Merto Connect Wireless,,2.0,2,"[{'alias': 'mobilephones', 'title': 'Mobile Phones'}]",n14My75zpHB0tlJfwGao4A
+False,Max Beauty,,2.0,2,"[{'alias': 'cosmetics', 'title': 'Cosmetics & Beauty Supply'}]",DXcPT_yJ3n8upNhbMzXo_w
+False,Lourdes Santa Beauty Salon,,2.0,1,"[{'alias': 'cosmetics', 'title': 'Cosmetics & Beauty Supply'}]",DzEleue07e70wRh_pSgSXw
+False,Flowers By AB,$$$$,3.0,2,"[{'alias': 'florists', 'title': 'Florists'}]",ea0wcnN3mNQvgMTSsiyk1g
+False,City Furniture Decor,,1.0,3,"[{'alias': 'furniture', 'title': 'Furniture Stores'}]",lsQfw7a0koiqTMVgvf3IRw
+False,Reginald Rousseau Working Art Studio,,4.0,1,"[{'alias': 'galleries', 'title': 'Art Galleries'}]",Os_c3Puo6tqLdo8FK8BBpg
+False,Mathlaboul Fawzaini Electronics,,1.0,1,"[{'alias': 'electronics', 'title': 'Electronics'}]",MRjzOj3INj4XVrGGOIpmjg
+False,Timite & Sons Beauty Supply,$$$,5.0,1,"[{'alias': 'cosmetics', 'title': 'Cosmetics & Beauty Supply'}, {'alias': 'musicvideo', 'title': 'Music & DVDs'}]",UTSnIm4Ir4fFLUFLGthteg
+False,HKS Harlem's Finest Unisex Beauty Salon,$,5.0,1,"[{'alias': 'hairstylists', 'title': 'Hair Stylists'}, {'alias': 'wigs', 'title': 'Wigs'}]",yhLxsggARyCTlW-iqY_SnA
