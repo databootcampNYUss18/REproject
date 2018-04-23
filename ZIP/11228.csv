@@ -1,0 +1,808 @@
+is_closed,name,price,rating,review_count,id,alias_list,ZIP_code
+False,Dyker Beach Golf Course,,4.0,92,M27FS1S4ez_EPkLsqzFicw,"['venues', 'golf', 'wedding_planning']",11228
+False,Ultimate Champion's Tae Kwon Do,,4.5,14,nkeeNRKHpilN_8uhaSCX8Q,['taekwondo'],11228
+False,Ocean Horizons Scuba,,5.0,32,OUfJn6Q_7Cinvzuj_Zndeg,['scuba'],11228
+False,Brooklyn Brazilian Jiu Jitsu,,3.5,13,IYWTcpAUIbLqcrl0oEltqw,['martialarts'],11228
+False,Dyker Beach Park Dog Run,,3.5,18,oXBOywJ4sib7O2pXPrh4nw,['dog_parks'],11228
+False,Danceworks Dance Center,,5.0,3,WQjpAGBdqURujxEMGkiY8Q,['dancestudio'],11228
+False,Dyker Beach Park,,3.5,13,I2V_ibV5jXwZzMF3hds5HA,['dog_parks'],11228
+False,Funtastic World,,5.0,5,B5Ld8tgkLAYQUvbtU-5NEg,"['venues', 'kids_activities']",11228
+False,McKinley Park,,4.5,7,mhiQ2vPtj1Ga5UBOye7ZNA,['parks'],11228
+False,Dynamic  Dance  Academy,,3.5,4,UbIu7wwltSKv3vHvY_w_BQ,"['theater', 'dancestudio']",11228
+False,Hoteikan Dojo,,4.0,4,tuSEDXb9JHtEtryurN9auw,"['martialarts', 'dancestudio', 'healthtrainers']",11228
+False,Champions Tae Kwondo,,5.0,2,Qdkb5mpOxKFtAdF_1QTEvw,['martialarts'],11228
+False,P S 176 Playground,,5.0,1,PcJyGZK_fA80rj9ZKkRkmQ,"['basketballcourts', 'playgrounds']",11228
+False,Dan Ross Playground,,4.0,1,sfAdtM853TGclyyLIOBhLg,"['parks', 'playgrounds']",11228
+False,Lt. Joseph Petrosino Park,,3.0,1,zYc0A6vokfSv8xjKQl7evQ,['parks'],11228
+False,Yoga Nidra Studio,,5.0,2,Q0Qa-TfeseBJrdf6vqHrAg,"['yoga', 'reiki']",11228
+False,Ultimate Champions Taekwondo 86th St,,1.0,1,nXoQYDVj_EvxjkwZA0Om-w,['taekwondo'],11228
+False,Make It Fun NYC,,5.0,2,sSiChxDt-j-B_Rzq1_gqpA,['healthtrainers'],11228
+False,Music Box School of Music,,5.0,1,KvASnt-RZEXUTiE2tYS1Nw,"['musicalinstrumentsandteachers', 'vocalcoach', 'summer_camps']",11228
+False,Acting Out!,$$,5.0,19,CSfvyj-QFVfkQe7g-3XwUg,"['theater', 'musicalinstrumentsandteachers']",11228
+False,Pinot's Palette - Dyker Heights,,4.0,13,YIcWh8lxUylRFYbtkI9D3g,"['paintandsip', 'artclasses', 'eventplanning']",11228
+False,Dynamic  Dance  Academy,,3.5,4,UbIu7wwltSKv3vHvY_w_BQ,"['theater', 'dancestudio']",11228
+False,Knights of Columbus,$$$$,3.0,6,DHfa_wiPkF_nt-DELw81DQ,['musicvenues'],11228
+False,Sheridan Council Knights of Columbus,,5.0,1,SDNAaTZ-STXVGH282BLDgg,['social_clubs'],11228
+False,Evgeni Ninov Piano Studio,,5.0,4,z9oA9wmddI78MUlheAwc8w,"['musicalinstrumentsandteachers', 'theater']",11228
+False,Front Line Dance Center,,1.0,1,jVZzORIPivseNJH2SdmoIw,['theater'],11228
+False,Triple Essence Dance Studio,,5.0,1,MndPU1nxSWF2lsLpPvCP-w,['theater'],11228
+False,A Work of Art,,5.0,1,7mwFoUUy5LV4G5plusWSXA,['galleries'],11228
+False,Bay Ridge Towing,,5.0,7,hnVbkQ6bv81lMfSjb0jKZg,['towing'],11228
+False,One Stop Shell,,4.5,17,osLUrnh-2a4IzSp0xMsWTg,"['servicestations', 'towing']",11228
+False,Empire Auto NY Leasing & Sales,,4.5,5,KdbJJuDKIoGrPGVOBdNxDg,['carbrokers'],11228
+False,Ralph & John's Auto Repairs,,5.0,7,N5aINFt7NeWKGpEVL-d9GA,['autorepair'],11228
+False,Bay Ridge Ford,,2.5,35,Q_4eGmdCKJocHOr_PCrsFg,"['car_dealers', 'autopartssupplies', 'autorepair']",11228
+False,AutoZone,,2.5,20,DWRA1CvcfgrKlVYBxW_GYA,['autopartssupplies'],11228
+False,My Way Car Service,,3.0,9,6Tcb8sddDfxi3IXFwVL39Q,['autorepair'],11228
+False,Atlantic Auto Body Corporation,,5.0,3,1zm4l9TbNImEkrhX0t3vjw,['bodyshops'],11228
+False,86th Street Quick Lube,,2.0,26,baVn4iw5WzhFi3uCjUZ_7Q,"['oilchange', 'transmissionrepair', 'autorepair']",11228
+False,R & D Auto Center,,5.0,5,IIjFVDdvz3JnwmyEDUxQEQ,['autorepair'],11228
+False,Sun Power Auto Repair,,3.5,7,TpUxF7znkcGz8VSDIDKZsg,['autorepair'],11228
+False,J C Tire,,5.0,2,hPZ8SndWTJnklavEMcWmOw,['tires'],11228
+False,U-Haul Moving & Storage of Bensonhurst,,2.5,18,Nu9WFDw_VwQhJEmIFi509A,"['selfstorage', 'truck_rental', 'trailerrental']",11228
+False,"Brooklyn's Finest Motors, LLC",,2.5,11,UWFK2PK4sGKB1RsrYJ6zaQ,['car_dealers'],11228
+False,Tip Top Car Wash,,3.0,5,Nck1UsAU_AznTn9jJae8Ow,['carwash'],11228
+False,Iacona Custom Cycles,,3.0,2,6rW5QQzcBTZbDxQAOaqjyQ,"['motorcyclerepair', 'autocustomization', 'autopartssupplies']",11228
+False,Ralph & Johns Auto Body Corporation,,3.5,5,rPA3wWauzgIAMTeSd_prPw,['bodyshops'],11228
+False,Ferrara Bros Svce Sta,,2.5,3,22Tf-Y-JNL2lCudHIj7f-w,['servicestations'],11228
+False,Ferrari Auto Collision,,5.0,1,X6KnKbyn1jzIQL1SQxiKQg,['autorepair'],11228
+False,Fortune Wash,,2.5,2,tR32GedNBY4Kv_JcXGJbqw,['carwash'],11228
+False,Color Signs,,5.0,1,dkwYi4fVvSJ_76FANlROzw,"['signmaking', 'screen_printing_tshirt_printing', 'vehiclewraps']",11228
+False,Worldwide Diagnostics,,4.5,2,qM9AX3WBIQkKC3YlslvE5w,['servicestations'],11228
+False,Hi Tech Super Wash Center,,4.0,1,j5XHby44yANrFMPBNR-Vlg,"['carwash', 'laundryservices']",11228
+False,S & J Auto Service Center,,3.0,4,ZCckkogDl4S758rGyGlxiQ,['autorepair'],11228
+False,11 Ave Tire Shop,,3.0,4,J9gfH7FyYV4gYOnGZ9JuZQ,['tires'],11228
+False,Class M Towing & Recovery,,1.5,12,VOH1TKRJ5ElqbwE5ZNMIQQ,"['towing', 'roadsideassist']",11228
+False,AP Oil,,3.0,1,a_o3zf7_wqVxgwLDXx8cHw,['servicestations'],11228
+False,76 Street Auto Repair,,1.0,2,3ZgkROo6u3zZv35HXjFr1w,['autorepair'],11228
+False,Sky Motorwerks,,3.0,2,oRC0FGrvY_tuD9TA0ts-7g,"['autopartssupplies', 'autorepair', 'stereo_installation']",11228
+False,Gulf Gasoline Station,,1.0,1,4qekJhnJrKuy4v_DCaLY5Q,['servicestations'],11228
+False,Shell Gas Station,,3.0,2,km2kFNKN_DW8mZd8lZddew,"['autorepair', 'servicestations']",11228
+False,J & C Towing,,2.0,5,blLctnasDZc4CCvtEjEx6w,"['towing', 'roadsideassist', 'tires']",11228
+False,Martoni Fuel Oil,,3.0,2,QSI_1f20qGdRL1qH5XAN2g,['servicestations'],11228
+False,Max Vehicle Wraps,,5.0,1,a3oDGhG5Pp9HgxNjLX3A_Q,['vehiclewraps'],11228
+False,ON Auto Sales,,5.0,1,pDZaM2Zlf_PGSwpOoOTIDQ,['car_dealers'],11228
+False,The Wax Room,$$,4.5,42,SaUEx7cwZ5pCiK8Ea7PdsQ,['waxing'],11228
+False,Canaan Beauty Nail & Spa,$$,4.5,40,NyQFAlonG_hpdCTvJKiApQ,"['othersalons', 'skincare']",11228
+False,New Skin Esthetics,$$,4.5,22,jS894Cx6CANHCbZxaBla2g,"['laser_hair_removal', 'skincare', 'massage']",11228
+False,Salvo Capelli Salon,$$,5.0,28,Gpd8-ExhOKJpiY0ZehQQRg,['hair'],11228
+False,La Vayage,$$,5.0,8,-kYRg5zyw7-K9Ha9GXmXxw,['hairstylists'],11228
+False,Skin Beauty Laser Center,$,4.5,17,hLa_7TvGRtmfDMV19Q2Cag,"['laser_hair_removal', 'skincare', 'medicalspa']",11228
+False,Fashion Nail & Spa,$,4.5,36,nuZA3HoAxHYP_n3pgrerbw,['othersalons'],11228
+False,Meow Miao Nail Spa,$$,3.5,57,wY5owWgMD6YoTwV5tPqXkQ,['othersalons'],11228
+False,Nail Lab,$$,4.5,15,Kv9HDNvmIafHdpk3LAOuXw,['othersalons'],11228
+False,In So Nails,$$,4.0,11,NolYZefl2ULr4whqLtOOoA,['othersalons'],11228
+False,Salon Gio & Day Spa,$$$,4.0,24,BPwKaHPuUiy3rwtZ7ZEC9w,"['hair', 'spas']",11228
+False,Argana Day Spa,$$,3.5,20,euVTN2wpbCNZrrtFET_nWg,"['skincare', 'massage', 'spas']",11228
+False,Sunshine Beauty Spa,$$,4.5,10,tehROQZ7cA8MkCGoKz06-w,"['spas', 'massage', 'skincare']",11228
+False,Opi Nail Spa,$$$,3.5,28,1XnlUlKTHW9Op23uQe-_9A,['othersalons'],11228
+False,Fanny Nails,$,3.5,21,4O-vNlMKUclHJxryn4tAyA,['othersalons'],11228
+False,Barbershop,$,5.0,9,5RdIXpzSiQ5z0TfXXOpx2A,['barbers'],11228
+False,Jen Reve Nail,$$,4.0,30,rBcfULUjNMtH3ZVb1QwA7A,"['othersalons', 'waxing', 'skincare']",11228
+False,LADY LAIR by AVM,$$$,5.0,7,_27KjBxhXNi7aMIdHN4xhA,"['hair', 'othersalons', 'cosmetics']",11228
+False,Manny's Barbershop,$$,4.0,6,Ahz4YL9I_sO1GVgaG1uZcw,['barbers'],11228
+False,Stars Nail Shop,$$,4.0,21,BO_fPG78bK8qesBjyxA85w,['othersalons'],11228
+False,Kane Ink Tattoos,$$,5.0,6,PiMA4kdoZtvE58ZnxQ8PzA,['tattoo'],11228
+False,Bellalaser,$$,3.5,16,8bnets9IwNsOQiK4DTaVAA,['hairremoval'],11228
+False,Bella Nail Spa,$,3.0,15,ng8PwZlCtaDyL12pyc3qGw,['othersalons'],11228
+False,Salon Malave,$$,4.0,9,IXNJo_F6BxLXmcU86Km85A,['hair'],11228
+False,Faded Barber Shop,$,5.0,3,EmcWNl0kgp4kpgf4HQj_Xg,['barbers'],11228
+False,Main Attraction Hair Studio,$$,5.0,5,Lc2LOFhefZ7UQSIgZAGyNg,"['hair', 'eyebrowservices', 'waxing']",11228
+False,Young Beauty Parlor,$$,4.0,10,tgXSK05QP6jUA0iw0fb4rA,"['skincare', 'eyelashservice', 'waxing']",11228
+False,Betty Nail Salon,$,2.0,17,IKP5cHJiz7PbqUln574V3g,['othersalons'],11228
+False,Polish Me Nail Spa Salon,$,4.0,9,4JwD-HcfIhCPXu1EjVYBVA,['othersalons'],11228
+False,Blood Sweat & Tattoos,,5.0,2,bFp8incV0NGmOp8Kdli3bg,"['tattoo', 'piercing']",11228
+False,Walgreens,$$,4.0,10,EKz-V-6fpqQzj3oxsmmDOA,"['drugstores', 'cosmetics', 'convenience']",11228
+False,Walgreens,$,3.0,5,envrFZvdj5bkA1zjS6WuIg,"['cosmetics', 'drugstores', 'grocery']",11228
+False,Pierluca,$$,3.5,3,C4-Aun8ecE6eZghkA4Zz6Q,['hair'],11228
+False,Li & U Nails Inc,$$,4.5,4,JqWPljEj5WTFc643eQOysw,['othersalons'],11228
+False,Patty's Nails & Beauty Spa,$,2.5,7,ulf_cRBwTLbWhi9ixr1rUQ,['othersalons'],11228
+False,Shear Bliss,$$$,3.5,6,GIWLftP0sSBHBCCAEpnrOg,['othersalons'],11228
+False,Aa Hair& Nail Salon,,5.0,2,OwbTKz0ta8OfdZrQCMiJ5g,['othersalons'],11228
+False,Sal's Hair Stylist Unisex Salon,$$,4.0,5,ODpMYJnAcM3lEHE5LCqayw,['barbers'],11228
+False,Bay Ridge Masters Barber Shop,$,5.0,6,aH-DHB0zQP7GXgLJCESm9w,['barbers'],11228
+False,A & S Hair Salon Barber Shop,$,5.0,1,5HUHsHOJhf_Jv3X6lhqyZw,['hair_extensions'],11228
+False,Dyker Crystal Nails,$$,3.0,2,86iZLYKIcIC1je0ERTkmpw,"['othersalons', 'waxing']",11228
+False,Pink Nails,$$,5.0,1,cztIy4L-0xP37Ptn-5SzKw,"['othersalons', 'hairremoval']",11228
+False,Beauty by Archana,,5.0,1,dA79W7cQbOpw_47csxOcSQ,['makeupartists'],11228
+False,Sunflower Spa,$$,3.0,1,t_eiqc3Jzh0EVHdy3qo_aQ,['massage'],11228
+False,In Hair & Nail Salon,$,2.5,3,iLCgC-6_xksvqeE0ktdL6Q,"['hair', 'othersalons']",11228
+False,"Trendy Hair & Nail Spa I, Inc.",$$,2.5,6,ck3YeFg3xsOsp1tPccxMqg,"['hair', 'othersalons']",11228
+False,Josephine's Hair and Nail,$,4.0,3,IRz4lSQHduF4DaIqiJXPJA,['hair'],11228
+False,Green Beauty Center,$$,3.5,3,Tmwj6JR3-5GWO0OyiLgKRA,['cosmetics'],11228
+False,Cutting Edge Barbershop,$$,5.0,1,qUxqwXo6KUAZ9eAtOsJVwQ,['barbers'],11228
+False,Cutting Edge Barbershop,,5.0,1,CTROg2QwZG0yIQkjoWrumg,['barbers'],11228
+False,Green Tea Spa Inc,,3.0,2,HjrtunPpcOZSAFolihNlCg,"['othersalons', 'spas']",11228
+False,Kary Nails Spa,$$,2.5,3,CQJ9mWLVLx_GZZFaM-uOWQ,['othersalons'],11228
+False,Perfect 61 Hair Salon,$,4.0,1,BGyrPtN9LPKX37JlboQMmA,['hair'],11228
+False,Green Apple Beauty Spa,,4.0,1,lzNhQgPEy_wx3QrcUqhdzQ,"['massage', 'spas']",11228
+False,Bklyn Ink Works,$$,3.0,4,BMMvyOsLe9PoNFchu3hxHw,['tattoo'],11228
+False,Green Tea Spa,$$$,3.0,5,yvZkcWYhEs3ZnYhIhADDUg,['othersalons'],11228
+False,Infinity Arts Salon,$,1.0,1,onNxcYWAtgUcjuu7h53TOA,"['hair', 'barbers', 'othersalons']",11228
+False,Celeste's Beauty Salon,,1.0,1,gGb3ZyBfLFdMTZPBKq47XA,['hair'],11228
+False,Studio 13,,5.0,1,W4Y9NedjckijH11rmy-K7w,"['blowoutservices', 'menshair']",11228
+False,Big O Bundles,,1.0,1,V50peWTPHL8oiguAf9OGEg,['hair_extensions'],11228
+False,Marilyn Nails Salon & Spa,$$,3.0,2,5Jh5GAhx1nlGD-A-OLo3_A,"['spas', 'othersalons', 'waxing']",11228
+False,Natural Spa New York,$,1.5,2,ak5xBt1Nh0o9b0EKqn52IQ,['spas'],11228
+False,Salon Bella Donna,,1.0,1,VMoUXzzRirBJRf9vfhkOjA,['hair'],11228
+False,Modern Touch Unisex Salon,,2.0,1,ALkccs8F1f-k7oFnvXo15g,['hair'],11228
+False,A & B Beauty Salon,$$,1.0,1,pSMRRxZp_KRrT37lMZ2kzw,"['hairstylists', 'othersalons']",11228
+False,La Belle Salon,$$,5.0,1,b6ZcWbzfT0Ys3YnvtsZH1A,"['skincare', 'othersalons', 'hair']",11228
+False,New Unique Nails,,1.0,1,kBi7bIWcypKGULhiu9e-_A,['othersalons'],11228
+False,Scissorhands Unisex,,5.0,2,rze3U-FBVM00bVnSRLvaAA,['hair'],11228
+False,Super Hair & Nail Salon,,1.0,1,nVgB1IkKlCVUhvVphslnFQ,['othersalons'],11228
+False,Joe's Place Haircutters,,1.0,1,WvYSqh0qooPmO_4_7oPdCg,['barbers'],11228
+False,Top Notch Barber,$,5.0,1,isNcZQn5cvYlKx0h2G7SLw,['barbers'],11228
+False,Pinot's Palette - Dyker Heights,,4.0,13,YIcWh8lxUylRFYbtkI9D3g,"['paintandsip', 'artclasses', 'eventplanning']",11228
+False,Fox Auto Driving School,,3.5,10,p2JVJO7Squ0R38nfZO7QIQ,['driving_schools'],11228
+False,Bunny Hill Daycare & Learning Center,,5.0,5,zb_8gtu7Q9alN9GQjjXx8g,"['preschools', 'childcare']",11228
+False,The Purple Crayon,,5.0,3,JPYi8gZOFmNI-lEMKhEHAA,['preschools'],11228
+False,FasTracKids - Dyker Heights,,2.5,5,dw1sW3b3SO1lp_BuJAOrWg,"['tutoring', 'preschools', 'testprep']",11228
+False,Little Hands And Feet Day Care,,5.0,2,Q3kXWBeJZpSYZxeIIHETEQ,"['childcare', 'preschools']",11228
+False,St Ephrem's School,,5.0,1,v3weIYAln8i6kxlOjV4XZA,['education'],11228
+False,Regina Pacis School,,5.0,1,sYh71F1tnCIm5zA5mT1EaA,['highschools'],11228
+False,Bay Ridge Auto School,,4.5,2,RTIOLOX5ZVlNAGEKpo-5WQ,['driving_schools'],11228
+False,Delta Learning Center,,5.0,1,FZpldhgoPWI1eRaRG_Kgog,['educationservices'],11228
+False,All Good Gallery,,3.0,1,Ez-lQhBNUz3sXzQj3RW_Yg,['artschools'],11228
+False,World of Wonders Early Childcare Center,,4.0,1,jXs4eG5UOoR3XDnYvgKfBQ,"['childcare', 'preschools']",11228
+False,Brooklyn College At New Utrecht High School,,2.5,2,K5JoUgUiAV5Q6d_1wU0Kyw,['highschools'],11228
+False,City of NY,,2.0,1,LNmEIEYYGHOWPEcAR1puMw,"['elementaryschools', 'highschools']",11228
+False,Little Language Playhouse,,2.0,3,NmgHRepQMhQfpIrOSSYxIQ,['language_schools'],11228
+False,A Plus Learning Center,,1.0,1,SCUNWFZQv9pyT6mgrYgk6g,"['elementaryschools', 'highschools']",11228
+False,Leif Ericson Day School,,3.0,2,ofIiqWt5Ixq4X1j94QqBmQ,"['elementaryschools', 'highschools']",11228
+False,William Mckinley School,,5.0,1,b4CjewSN4FBDRKdHiyhOZA,['highschools'],11228
+False,Dyker Beach Golf Course,,4.0,92,M27FS1S4ez_EPkLsqzFicw,"['venues', 'golf', 'wedding_planning']",11228
+False,Jim Lee Vision,,5.0,42,cuyuTYiJ-P3qgyflSXo7mA,"['eventphotography', 'sessionphotography']",11228
+False,13th Avenue Florist,$$,3.5,23,vh9Lgfe61wNMtMr--6Xjmg,"['florists', 'floraldesigners', 'candlestores']",11228
+False,Gennaro's Catering Hall,,4.5,38,dRstpFppUhbDbnWqz7IH4g,"['catering', 'venues']",11228
+False,Pinot's Palette - Dyker Heights,,4.0,13,YIcWh8lxUylRFYbtkI9D3g,"['paintandsip', 'artclasses', 'eventplanning']",11228
+False,Tasty Choice Catering,,5.0,16,Vxt7rupUSBPHYEOQzQD_LA,['catering'],11228
+False,Romantique Double Diamond Limousines,,3.5,26,yjWJ4UHK6uIopZQQKRk5Pw,"['limos', 'partybusrentals']",11228
+False,Visual Image Video & Photography,,4.0,5,l43XWYNA4kpynfwwFN6f1w,"['videographers', 'photographers']",11228
+False,Sirico's Caterers,,3.5,16,UhP2mkQqSyYsUvKSb5ed1Q,"['catering', 'venues']",11228
+False,Jelo Paper & Decor,,5.0,7,v5GrKraBqS6TMDyus74cxQ,"['stationery', 'photoboothrentals', 'eventplanning']",11228
+False,Funtastic World,,5.0,5,B5Ld8tgkLAYQUvbtU-5NEg,"['venues', 'kids_activities']",11228
+False,Fantasia Music,,5.0,3,DWNwMy-WRHtvthEd5pgpJg,['musicians'],11228
+False,Dare Entertainment,,5.0,7,ds4jInT4E4ZMzzsEstiH4w,['djs'],11228
+False,Trio Production,,5.0,11,Nrk2jV0HvW02KICPDMdH3g,['djs'],11228
+False,Happy Moment,,5.0,2,FRdBAoc9d9JoOcJwC3q4aQ,['partysupplies'],11228
+False,Peachy Cao Photography,,5.0,4,0FuuRYCn939MjYxg-awGhw,['sessionphotography'],11228
+False,Hom's Photo,$,4.0,4,SNGcs5gHqknOl-ie6b7csA,"['photographystores', 'photographers', 'notaries']",11228
+False,B66 Club,$$,4.0,2,puSUKmN5Ep1M2TTdLg5RqA,"['danceclubs', 'venues']",11228
+False,Indian Wedding Photographer,,5.0,1,9YhHBrzCwT0idlWMg8Vdwg,"['photographers', 'videographers']",11228
+False,Gold Party Entertainment,,5.0,2,oN_TXsZuEMzBCMJIrmh5tw,"['djs', 'musicians']",11228
+False,Blossoms in Brooklyn,$$$$,2.5,4,_pqYXzpgmRU9H8lrIgMwpA,"['florists', 'floraldesigners']",11228
+False,Artistic 86 St Florist,$$$,1.5,3,FCqKHEFAzMEnX6dbzoYIog,"['florists', 'stationery']",11228
+False,Card Curio,$,2.0,1,HhTIIpYIg5nkGuhuSKblRQ,['stationery'],11228
+False,Simply Stated Invitations NYC,,3.0,2,b-g2CbhP2H_7NwPB0YbswQ,"['stationery', 'wedding_planning']",11228
+False,A & A Greetings,$$,2.0,1,AE7oIhAWSpLkT7FXR2fj7A,['stationery'],11228
+False,Angelic Studio's,,4.0,2,K5j6Wvv4g4f5fHfybxfscQ,['photographers'],11228
+False,C & L Fine Gifts,$$$$,3.0,2,WNMZwwJd0IZRNWdiNpPGLQ,"['giftshops', 'stationery', 'wedding_planning']",11228
+False,Chase Bank,,3.5,7,eQPtGkAEctSNhE71nAZYNQ,['banks'],11228
+False,Ameritax,,4.0,5,eSQEUeOPkgydTopWhlPeUg,"['accountants', 'bookkeepers', 'taxservices']",11228
+False,Allstate Insurance: Robert Gigli,,5.0,2,Yd9LHMHt7XGRyp5FJ0r7Yg,"['homeinsurance', 'autoinsurance', 'lifeinsurance']",11228
+False,Dime Community Bank,,3.5,5,UYjAnMafsnP3UJNZX2CK3A,['banks'],11228
+False,Atlantic Bank,,3.0,2,1JtdX4DBUqAQ-U2YgloPVw,['banks'],11228
+False,Chase Bank,,4.5,2,oYpXEX4ClelQ7P6UcyPsXQ,['banks'],11228
+False,BLR AGENCY,,5.0,1,ky9BW2xaxwcX9ubxNKcejw,"['taxservices', 'insurance']",11228
+False,TD Bank,,2.5,7,z2b5IjL_Ch4VglYOg95HMg,['banks'],11228
+False,H&R Block,,1.5,2,8o1S1BwD7fc_otHHbVXnUA,['taxservices'],11228
+False,HSBC Bank,,1.0,1,h6P2rAWL1x7SxNWbrz4B7g,['banks'],11228
+False,Sharon Crescitelli - State Farm Insurance Agent,,1.0,1,nckhjfUf2FQORq6FwHq62A,['insurance'],11228
+False,Michael Luchen - OKMerchant Payment Solutions,,5.0,1,naQJ3bzfctMsAUOHfpMitw,['financialservices'],11228
+False,Allstate Insurance Agent: Daniel Orrichio,,3.0,2,tY2V56v3tn9ANxurHh3s4Q,"['homeinsurance', 'autoinsurance', 'lifeinsurance']",11228
+False,Michael Spinelli Insurance Agency,,5.0,1,ARdjhqkge5JZXdVWq_4Xng,['insurance'],11228
+False,All In One Insurance Brokerage Corporation,,5.0,1,iaoyFTggOrRkHB_gBY26vg,['insurance'],11228
+False,Lioni Italian Heroes,$$,4.5,295,oqou7SVSTIx7No6AJKSizw,"['cheese', 'delis']",11228
+False,Tasty Pastry Shoppe,$$,4.5,114,QBok0oebbvIvFScQJKvlzA,['bakeries'],11228
+False,B & A Pork Store,$$,4.0,52,4xeYrkI4uZPv_5tD-rxIIA,"['meats', 'delis']",11228
+False,Pastosa Ravioli,$$,4.5,65,l6vYyf3c6Idf3hPFzjJULA,"['pastashops', 'delis']",11228
+False,Faicco's Pork Store,$$,5.0,64,QGJL2dXLUwXhwt3tIT683A,['meats'],11228
+False,Papa Pasquale Ravioli Co.,$$,4.5,39,ppUU-p6yH6IMa7d_UrYkaQ,"['italian', 'pastashops', 'sandwiches']",11228
+False,Romeo Brothers Meats & Foods,$$,4.5,43,dE_3D5TBYrLp5RRREKm1SA,['meats'],11228
+False,La Bella Marketplace,$$,3.5,61,emObY7rARwF-UXWMopinrA,"['grocery', 'gourmet']",11228
+False,Baby Olive,$,4.0,89,PupuaqKJrZLtgM36e9fdiA,"['juicebars', 'salad']",11228
+False,Galici An Ital-American Eatery,$$,4.5,68,luT0szOI2hv8LIBehOI8Vg,"['italian', 'pastashops', 'sandwiches']",11228
+False,Aunt Butchie's Desserts,$$,4.5,42,7pNaZ3EZDRAoUljgzn8t6Q,['bakeries'],11228
+False,Blend Salad & Juice Bar,$,4.0,39,nHkvcI4agHIuIo-0tm7grg,"['salad', 'juicebars']",11228
+False,Tea & Burger,$,3.5,126,veFiyZ9DSrajrC16akLTbw,"['burgers', 'bubbletea', 'salad']",11228
+False,Cannoli Plus,$,4.5,35,o6VUBG7TeYrWQDFTmdVIqg,"['desserts', 'bakeries']",11228
+False,Il Fornaretto Bakery,$,5.0,32,kRJKiqzCL19-1hnK0is3oQ,['bakeries'],11228
+False,Dyker Park Bagels,$,4.0,80,TCIUjVxXKausyWWmYqv4xA,"['bagels', 'breakfast_brunch', 'coffee']",11228
+False,Grandma's Bakery,$,4.0,40,X5Lq_ZO3VgCbL5xvJAYUVQ,['bakeries'],11228
+False,Mona Lisa Bakery,$$,3.0,43,x_Ww4tlEoNRvf7Lb-kgafA,"['bakeries', 'desserts', 'cupcakes']",11228
+False,Nicoletti Coffee Roasters,$$,4.5,19,2HfGxBjtBE2ksxWoHAfNFQ,['coffee'],11228
+False,Happy Garden Frozen Yogurt,$,4.5,14,QZE2wj1T3pHm2NEx64KDGQ,['icecream'],11228
+False,Liquors & Wine Outlet,$$,4.5,32,v74LsSfLmwnX9-mlMhMTsA,['beer_and_wine'],11228
+False,Annabelle's Pastaria,$$,4.0,57,wXYSjd-tYEEFErI6RIDEYw,"['italian', 'pastashops']",11228
+False,The Brothers Deli & Bagel,$,4.0,32,tNJObmiHqgVQJoZ2-ZOvmA,"['delis', 'bagels', 'sandwiches']",11228
+False,Frank & Sal's Prime Meats,$$,4.5,32,IbNSjFxA8CbXyqB806Zh_g,"['meats', 'grocery']",11228
+False,J Mart,$$,3.5,41,r-hFZpx5kOdHTrGaJHAsPw,['intlgrocery'],11228
+False,Bova's Meat Mkt,$$,4.5,8,u6zsV__xMjKVPGb9m9THnQ,['meats'],11228
+False,Uncle Louie G,$$,4.0,17,T3Fx8bbGfw4N1ClSGiX91w,['icecream'],11228
+False,Parkway Restaurant,$$,3.0,36,R-El2r-Z8RZD9HarFUIsrQ,"['diners', 'coffee', 'sandwiches']",11228
+False,Almonte's Food Dynasty,$$,3.5,38,ZLnwknAbnVGs82pnO1bbiA,"['grocery', 'delis', 'meats']",11228
+False,My Three Sons Coffee Shop,$,3.5,24,hM9ns1Eqd0QmzSpznw1vog,"['coffee', 'breakfast_brunch', 'tradamerican']",11228
+False,Paesano on 13th,$$,4.0,20,noi4EYAFaINdGBdDLYNPvQ,"['italian', 'bagels', 'coffee']",11228
+False,St Anthony's Bakery,$,4.0,21,QwtnerkNXmt-M1tsY5LNSw,['bakeries'],11228
+False,Bagelicious,$,3.5,15,rqLNXulmryyWxXj2X4rB_A,"['bagels', 'coffee', 'grocery']",11228
+False,Bean Post Pub,$$,3.0,63,Flo4zFlfmKms2VUXAbDz-Q,"['beer_and_wine', 'chicken_wings']",11228
+False,Park Bagels,$$,3.5,22,VdwsPucTABX4R0GIFOebeg,['bagels'],11228
+False,Isabellas Creations,$$$,4.0,29,XxT8PKh0SU_RHYb_IlFJvg,"['desserts', 'customcakes', 'cupcakes']",11228
+False,Mei Mei Bakery,$,3.5,20,7UQ4lakfD1lkpcaFd4esBQ,['bakeries'],11228
+False,Coffee RX,$,4.5,10,ZUN2kNZXiXmGteViaQ3LSg,['coffee'],11228
+False,Ravioli Fair,$$,4.0,14,w5ctuD85ag5AMl9hkLqTFA,['foodtrucks'],11228
+False,Lioni Latticini,$$,4.5,5,kZjlT7E5fkJuDLo-nGK_-g,['cheese'],11228
+False,Good View Bakery,$,2.5,31,fZa_uwbai0TyGedLP_WinQ,"['bakeries', 'coffee']",11228
+False,Bagels Plus,$$,3.0,29,-QWObXy7vRcu0NylKW4Gqw,"['bagels', 'bakeries']",11228
+False,Sugar Coated Bakery,,4.5,8,FvxVLlH0RbN3y_rSVKa4BA,['bakeries'],11228
+False,Dunkin' Donuts,$$,2.0,22,kMrwaUhDd39f-FIQv0zUKQ,"['donuts', 'coffee']",11228
+False,H&L Bakery,$,4.5,4,7KqVJDQO02aORFQoHnr3DQ,['bakeries'],11228
+False,Jimmy's Express Tobacco,$,5.0,3,rGk2ulTk4mK-QTxPoQrewA,['convenience'],11228
+False,Yum's Fruit & Vegetable Store,$,4.0,4,1heLdfsTIpMK6cgn0KuOGg,['markets'],11228
+False,Dunkin' Donuts,$,3.0,17,xKZf_KiWV6ojrEKLiy7Sdg,"['donuts', 'coffee']",11228
+False,Walgreens,$$,4.0,10,EKz-V-6fpqQzj3oxsmmDOA,"['drugstores', 'cosmetics', 'convenience']",11228
+False,Walgreens,$,3.0,5,envrFZvdj5bkA1zjS6WuIg,"['cosmetics', 'drugstores', 'grocery']",11228
+False,Rite Aid,$$,3.0,9,C1Mu2CYw3YgyQakm6cavtg,"['drugstores', 'convenience']",11228
+False,Burger King,$,2.0,49,4BrisBwrFgowhbTIeITKWw,"['hotdogs', 'coffee', 'burgers']",11228
+False,D & R Grocery,$,5.0,3,0p8uhFUslQ68HBM11MtfzA,"['grocery', 'delis']",11228
+False,Patty's Meat Mkt,$$,5.0,4,Z_lJC-u1LsCTwvA4ViGwVg,['meats'],11228
+False,Paradise Fruit & Vegetable,$$$,4.5,3,z2nPqY19w5MB34IvukDG5A,['markets'],11228
+False,Dunkin' Donuts,$,2.5,13,Vz6xrtQ5yhbFFyMw5LvQBQ,"['donuts', 'coffee']",11228
+False,7-Eleven,$,3.5,8,RTrkS6029is5fXjxA1UiwQ,['convenience'],11228
+False,Fresh Place Market,,5.0,1,zgcpHOcL0yD8g8r1dWaiyA,['grocery'],11228
+False,Malay Bakery,$,3.5,6,6mAnfnBqm-4tJlyjvh8uIg,['bakeries'],11228
+False,Ed & Rons Superior Market,,4.5,7,al49BtoMnvJcbsTFzvk2Pw,"['delis', 'grocery', 'sandwiches']",11228
+False,Bensonhurst Green Market,$$,4.0,5,rkfyRvK46fwBmt8b1-DgBw,['farmersmarket'],11228
+False,Key Food,$,2.5,15,3IrU4HcgWY5MufLP6NJrWw,['grocery'],11228
+False,East Coast Poke,$$,3.5,4,pyfIejcRwhpc1NzuJyd6FQ,['poke'],11228
+False,Superior Super Market,,5.0,1,6zEskiuTxHFsimYF41r0kA,['grocery'],11228
+False,Gold Star Bakery,$$,3.0,10,0_DQb6WfJnPZZpT9tzT4SA,['bakeries'],11228
+False,Rite Aid,$,2.0,16,DqSVcBxCOImnPRLq_ful2A,"['drugstores', 'convenience']",11228
+False,SouthEastBakery,$,4.5,4,PKowS4YjGOMBuiwORw49aA,['bakeries'],11228
+False,Baskin-Robbins,$,2.0,18,_sXfFDmV4i6xSqd1dIVgSQ,['icecream'],11228
+False,B & R Foods,$,4.0,2,MPA-F-TMUV5AWiSdKrTj8w,['grocery'],11228
+False,Edible Arrangements,$$$,2.5,10,jMYtkFxYvCToiMk8EYLUkg,['chocolate'],11228
+False,Lucky 77 Salumeria,$,4.0,1,h_p6kI4ToywX6v_49XnqTQ,['grocery'],11228
+False,M8 Liquor Shop,,5.0,2,_EHJizjliKTxHyTWsxbkZw,['beer_and_wine'],11228
+False,Murray's Wines & Liquors,,3.0,1,PhnnfWyLsHhLA1U5MpKOmQ,['beer_and_wine'],11228
+False,Premier Liquor and Wine,,5.0,1,1uNTvJRnWmaf7EOnSfNChQ,['beer_and_wine'],11228
+False,The Five Foot Chef,,5.0,4,L5ZoksauNyaimWJ28Md0JA,['bakeries'],11228
+False,Dong's Discount Wine and Liquor,$$,3.5,2,-Lj-vUVpR3iaIAmbxJKfFQ,['beer_and_wine'],11228
+False,Q & L bakery,$,4.0,3,qN64dK1ZSqxZOwJRtEB7ow,['bakeries'],11228
+False,NY Brooklyn Bread,,4.0,2,yrcj5w781etOdv84yRmaPA,['bakeries'],11228
+False,Brooklyn Breads,$,5.0,1,_Qa1dmffBgnN0-ud8t7xsw,['bakeries'],11228
+False,Reliable Italian Bakery,$$$,3.0,2,bFOmwHcs4LnLQTLzucMzKw,['bakeries'],11228
+False,McKinley Supermarket,$,4.0,1,HdTcnChrFPdkeMRlmUqnUQ,['grocery'],11228
+False,Wing Kee HK Cafe Inc,$,4.0,1,j4OWRZjIvf6wLQw_X-Uc7g,"['coffee', 'chinese']",11228
+False,Grace Mini Market Incorporated,$,4.0,1,ahm7Tz_NpmVh9ZbnJ1eVjw,['grocery'],11228
+False,Meal Ticket Food's,$$,4.0,2,j_feEY4q7xiJnIOEJQE6ow,['grocery'],11228
+False,Deli & Grill Plus,,3.0,2,CuTQAcA-DnREaGM-099Qrw,"['delis', 'convenience']",11228
+False,Dunkin' Donuts,$$$,2.5,3,hNmNuLCX6gY8oU_19ZWjfA,"['donuts', 'coffee']",11228
+False,Dyker Beach Wine & Spirits,$$,2.0,3,ka88bYNQOg0RuJHw-SLnYQ,['beer_and_wine'],11228
+False,Hk Live Poultry,,2.5,3,rMDMQWZuQBRJ65BffIw0Pg,['csa'],11228
+False,Lajkonik Polski Sklep,,4.0,1,YWCw5JAt-vgRT-BDy9sO3Q,['intlgrocery'],11228
+False,D'still Fine Wines & Liquors,$$$,2.5,3,QcFS5a5ABuAYymZnkhu2XQ,['beer_and_wine'],11228
+False,A & D Bakery,$,1.5,2,mbeXbqcxS6LnzKJxR4Gxhg,['bakeries'],11228
+False,C & D Golden Loaf Bakery Pastry,,5.0,1,cbft_w6eAeHuDQJpLhaUPw,['bakeries'],11228
+False,Poke Time,,3.0,1,V2p5ldw6trSdHhBrtVr5Bw,['poke'],11228
+False,La Chapincita,,3.0,1,ilUxmTC6ijw4PlAYkAzOpg,['grocery'],11228
+False,Royal Crown II Paneantico,,5.0,1,QbNNoSUjr0W39Cvs9rregg,['bakeries'],11228
+False,Tribuzio Meat Market,$$,5.0,2,cTWa2icqInDv5vjevOyLgA,['meats'],11228
+False,Skin Beauty Laser Center,$,4.5,17,hLa_7TvGRtmfDMV19Q2Cag,"['laser_hair_removal', 'skincare', 'medicalspa']",11228
+False,Livan Savino Opticians,$$$,5.0,18,z88mY3ucsaGr2CuVwyZhwg,"['opticians', 'optometrists']",11228
+False,Vincent Nunziata RN DC CDN,,5.0,22,8lE8LbhB0rsI-r35kDRVlg,['chiropractors'],11228
+False,Dyker Heights Advanced Foot & Dental Wellness,,3.0,6,xg7jWCN0_pLR1Y0lRnm0eA,"['podiatrists', 'cosmeticdentists', 'generaldentistry']",11228
+False,Fort Hamilton Dental,,5.0,4,_qLFhC8piaggK4mxOuAabw,['generaldentistry'],11228
+False,New York Specific Chiropractic,,5.0,6,AS1FCB009pIHzrtdK8P-cw,['chiropractors'],11228
+False,Dyker Heights Family Chiropractor,,5.0,5,5vrP1C36FD4ptvzV9YbX4Q,['chiropractors'],11228
+False,John Doctor J Deluca Md,,4.5,8,FM5cBL4twSyeIkhKozXJyQ,['physicians'],11228
+False,"Anna Cioczek, DO",,3.5,11,F6wVu8ZXYHpSfqLE3dFCpw,['obgyn'],11228
+False,Dr Mehta Dental,,4.5,8,7r6ZprWf2Ssl4xRr98kzUw,"['cosmeticdentists', 'oralsurgeons', 'generaldentistry']",11228
+False,Brooklyn Specific Chiropractic,,5.0,2,aM2oU0Burp7eMRaRkHAcQw,['chiropractors'],11228
+False,Defazio Obstetrics & Gynecology,,3.5,4,IApM_yNN-c2wYBVwyREvdQ,['obgyn'],11228
+False,Singer Andre J DDS,,4.0,5,cfLPweybO9dcbkCTJkoEpg,['generaldentistry'],11228
+False,"James T Sucich, PHD",,3.5,3,wsw4u5UWz6RMvZiZPRezrg,['psychologists'],11228
+False,"Luis Montalvo, DPM:",,4.5,6,Ucb7Fm0ZfU9U5HnSPB9sRQ,['podiatrists'],11228
+False,Raymond J Mollica DPM,,5.0,1,4JUQVIJZP2u_Jvy2zjk0sw,['podiatrists'],11228
+False,Andrew Trerotola,,5.0,2,pV4tGeXrB-SVStKqLC54Rw,['chiropractors'],11228
+False,Dyker Heights Foot and Ankle,,3.5,3,pl1UeTS0i7RagrafXnFcJA,['podiatrists'],11228
+False,"Conrad Cheung, DDS",,4.0,3,sa2cL6pde-q9g3qrQf-10A,['generaldentistry'],11228
+False,"John J. Digregorio, DDS, PC",,5.0,3,MZt002rcTpoVv2tX1ZGUNA,"['cosmeticdentists', 'oralsurgeons']",11228
+False,"Sciortino Patrick,MD",,5.0,1,noSmS1lUi3UTEcmTUuivmw,['opthamalogists'],11228
+False,Bravo Volunteer Ambulance Service,,5.0,1,dETMg6xptGwqWOpLQ54Mog,['urgent_care'],11228
+False,Donald Martinelli MD,,3.0,4,4-NM3_l9woeajDthJtZNxg,['physicians'],11228
+False,Racco Alex D O,,3.5,3,tt9lKjKG2GT5FyBElCRcWA,['physicians'],11228
+False,Lacqua Frank J MD,,5.0,1,KkY-kNJtkjscS80fkHw4NQ,['physicians'],11228
+False,Wolfersberger William H DMD,,4.0,4,i5zigiZ-7q65EY2jX_CmpA,['oralsurgeons'],11228
+False,"Joseph S Ficchi , DPM",,5.0,3,7HZrwo8IgcWBbIJly-wzeg,['podiatrists'],11228
+False,"Leonard Emma, MD - Stay Well Health Medical Care",,3.5,3,VsijZlr-hpBYwinKcMwX5g,['obgyn'],11228
+False,Bertelle Anthony MD,,2.0,3,_ESsZ1-86d1iMJ9P2_pEXg,['physicians'],11228
+False,Bay Ridge GI Doctors,,4.5,2,7vlFuSz2mZMCBpGvUqiiLQ,"['proctologist', 'diagnosticservices', 'gastroenterologist']",11228
+False,Purpura Lazzara Physicians MD,,2.5,3,qIKdtalEeU4UqaPjnjEnUQ,['internalmed'],11228
+False,Hongs Physical Therapy,,5.0,1,R1gvQnkYm5nsAr8iVtWGTA,"['physicaltherapy', 'acupuncture', 'massage_therapy']",11228
+False,Masefield & Cavallaro Physical Therapy,,3.5,3,SfnSkDNKzeIkDpae1bQXJw,"['physicaltherapy', 'acupuncture', 'massage_therapy']",11228
+False,Doctors On Call,,2.0,14,sjrkBcm8QaJUVMBxhq8KsA,['homehealthcare'],11228
+False,"Anthony Perrone DC,LMT",,4.5,2,qkX4LW2kUYPMhjYMe2s0LQ,['chiropractors'],11228
+False,Rosemary Ruggiero-Decarlo,,2.0,6,3WkPBa_NkkGbjy-4peHcAw,['obgyn'],11228
+False,Joel L Sokol D.M.D.,,5.0,1,1enb_5bnrb6M0Sg9-0gwEw,['generaldentistry'],11228
+False,Cooper Panariello Eye Institute,,2.5,3,U888g9GwO0YGrSSHDyzvvg,"['optometrists', 'opthamalogists', 'laserlasikeyes']",11228
+False,Akselrud Ilya & Michael,,2.5,5,SB0iyDqIZS6czHdK0LAl4g,['physicians'],11228
+False,Norwegian Christian Home & Health Center,,2.5,3,EO9QI-j-15Silef82qpTOA,"['assistedliving', 'retirement_homes', 'rehabilitation_center']",11228
+False,"Carmusciano Vincent, MD",,4.0,2,ME-ifRq2amS_qoZCJ5e8FA,['internalmed'],11228
+False,Ideal Optical Choice,$,2.0,10,2lBG_-FH44XJZbuw-LgMWQ,"['opticians', 'optometrists']",11228
+False,Wehbeh Hassan MD,,3.0,7,v7taK6V0FvxKqw3JCX9cfA,['physicians'],11228
+False,Aquatic Rehabilitation Institute,,2.5,2,WcbZeVp5ayIrcsrjb3TOWA,"['physicaltherapy', 'chiropractors', 'acupuncture']",11228
+False,Castano Rosalie Dr DDS,,3.0,2,_omQGAyvHsjsSUk039f6_A,['generaldentistry'],11228
+False,A&S Optical Boutique,,1.0,1,Y-J8BY4zsG506J_Wq1zdpA,['optometrists'],11228
+False,Helping Hands Therapy Center,,3.5,3,uXbutA4jOeVECm787Xg-0A,"['occupationaltherapy', 'rehabilitation_center']",11228
+False,"Vaccarino Robert A MD,FACC,FACP",,1.0,1,auAEYLY3xhXFOCkzauhZbA,['physicians'],11228
+False,Modern Diagnostic Medical Laboratories,,1.0,3,C8zPywLuOYTYR1MEfhqo9Q,['laboratorytesting'],11228
+False,"Richard A Romano, DMD",,3.5,3,FHfSLaKCcx5DqcFsbWWNOQ,['periodontists'],11228
+False,Hcs Home Care,,1.5,2,f_3454FlpdGO4u_rbtEn9g,"['homehealthcare', 'retirement_homes', 'rehabilitation_center']",11228
+False,Rovito Vincent MD,,1.0,1,tMXQTyvPRg8RVqjNHzFsNA,['physicians'],11228
+False,"Andrew L. Defazio, MD",,5.0,1,2zqazx01s5to17C0zho3zw,['obgyn'],11228
+False,Caruana Joseph A DO,,1.0,1,pcNF3mhXm4HjZGw8DQN27w,['physicians'],11228
+False,"Douros Stella,MD, PC",,2.0,1,ZKg1XOWx_BQYUD8jB4PwSw,['opthamalogists'],11228
+False,Yoga Nidra Studio,,5.0,2,Q0Qa-TfeseBJrdf6vqHrAg,"['yoga', 'reiki']",11228
+False,Anant Ashok Dr,,1.0,1,f8ngeeOOLpaxcpsstbAAxQ,['physicians'],11228
+False,Ridge Physical Therapy,,5.0,1,9X94dOWVZyVmlSXlEpl-kg,['physicaltherapy'],11228
+False,Grazi Richard V MD,,1.0,1,v1tq_qFSFpN6aRjqCewwzg,['physicians'],11228
+False,"Brooklyn Chiropractic Associates, PC",,3.5,2,FurqTk9CwxsHzPqvYK7WMA,['chiropractors'],11228
+False,Karban Irina,,5.0,1,tbhXr6gNnhlnkpQj0w9vWA,['physicians'],11228
+False,St. Hermina Physical Therapy,,5.0,1,Q5ShJj0XD2FRcf8QnGkXxg,"['physicaltherapy', 'chiropractors', 'massage_therapy']",11228
+False,Guadagnino Victor J MD,,1.0,2,AVDVXd4VlhZ_EC3ZHdI2Ww,['cardiology'],11228
+False,Fazio Roseann MD,,1.0,1,K5rj05XZ_rMHvyg1lB1XoQ,['physicians'],11228
+False,Dyker Heights Dialysis Center,,5.0,1,1cYYyiUiNs2ezi1hyoQ_Fw,['dialysisclinics'],11228
+False,Gamil Kostandy Physician PC,,5.0,1,PoOAGHp52bYwDvwIi7ua7Q,['physicians'],11228
+False,Chaudhry Nadeem A MD,,1.0,1,VaWTD15h-a6lgRNHHfBuAQ,['physicians'],11228
+False,Castellano Joseph Chiropractor,,5.0,1,nlrB1Mf3XcFhxykdWGmITQ,['chiropractors'],11228
+False,Abhary Sayedeh F MD,,1.0,1,OJEEy7H6RfPvkA9TGjmM6g,['physicians'],11228
+False,Basti Jeffrey MD,,5.0,1,HVqYQONosIq4upPiFmBe5w,['physicians'],11228
+False,"Leonid Vorobyev, New York",,3.0,2,GHxr2_0Bo03emqP4j2SZiw,"['c_and_mh', 'psychiatrists', 'hypnosis']",11228
+False,"Anoop Singh - United Pediatrics, PLLC",,5.0,2,1xkc0BYuEtpOhW7FDG1s0g,['pediatricians'],11228
+False,"Congiusta Dominick, DDS",,3.0,2,By8j1Em2Juopr4H-FCMMGA,"['generaldentistry', 'cosmeticdentists']",11228
+False,J.L. Carpet & Upholstery,$$,5.0,181,Qycb67VcN05dXbuUcMk_3A,"['carpet_cleaning', 'homeandgarden', 'carpeting']",11228
+False,Yu Handyman Services,,5.0,99,goN00XQWf70TJPKNXdNMlw,['handyman'],11228
+False,Primary Plumbing & Heating,,5.0,26,Rj6uRroFAzGU_KY7Q1czig,"['plumbing', 'hvac']",11228
+False,Classic Tile & Marble,$$,5.0,43,2g7UEOdo6cWYJfV6XFJZxQ,"['kitchenandbath', 'buildingsupplies']",11228
+False,"Janine Acquafredda - House-n-Key, Realty",,5.0,8,9Iod_FESOeDmsrT_dmP7uA,['realestateagents'],11228
+False,Weichert Realtors - The Franzese Group,,5.0,20,CiS1cU_J_kgk_XuqJRLC1Q,['realestatesvcs'],11228
+False,Mondial Tiles,$$,5.0,19,Tj9Knot-L0J2KzE57QuknQ,"['buildingsupplies', 'kitchenandbath']",11228
+False,Ice Age Mechanical,,5.0,14,85bv-HSQRfyDw17AlxdikQ,['hvac'],11228
+False,Eco Clean Industries,,5.0,8,wxc7vHke9Em-dP1LK1CwmA,"['painters', 'windowwashing', 'pressurewashers']",11228
+False,Budget Blinds of North and Central Brooklyn,,4.5,21,tkhhyudVWjSlgbRD2RE_1A,"['blinds', 'shutters']",11228
+False,Diamond Maids,,5.0,9,cEdR_QOu9DzKWPw06a9i3A,"['homecleaning', 'officecleaning', 'home_organization']",11228
+False,Brooklyn Lock & Security,,5.0,28,9rrTUgTizpSVaxMZ8mWcrA,['locksmiths'],11228
+False,Sparkles Home Improvement & Landscaping,,4.5,11,psvp3cWjGHzHgSBrj7OFkw,['landscaping'],11228
+False,Fixit Brooklyn,,5.0,6,gI33Sv-DM--Zbfltu4ZTVA,['handyman'],11228
+False,Team Clean NYC,,4.0,28,nw7AKtzLWQ-Sm9jeP9ix-w,['homecleaning'],11228
+False,Four Seasons Realty Company,,3.0,2,vpqPGo7WgZI5474TevUnWQ,['realestatesvcs'],11228
+False,Advanced Power Washing,,5.0,4,mOY_FxdKPHyQ5fgLwU9vJA,['pressurewashers'],11228
+False,Verrazano Brokerage,,4.5,5,OqQvf5YbKgN47NbppkKHfg,['realestatesvcs'],11228
+False,Gingerbread Man Cleaning,,5.0,3,_9RPWZE4l0dZpYTzjmTNFQ,"['officecleaning', 'homecleaning']",11228
+False,NY Cabinet Factory,$$,4.5,3,17XLYNhfSHXG-l4WUoU3nQ,"['cabinetry', 'kitchenandbath']",11228
+False,Ben Bay Realty Co,,2.5,12,weU74MRoEUQes7ZaKqryLQ,['realestatesvcs'],11228
+False,Ageless Chimney,,4.5,44,rFfhS79Iztp7Ew0q8ca0oQ,"['chimneysweeps', 'masonry_concrete', 'fireplace']",11228
+False,JGC Metropolitan Group,,5.0,1,NMvU7JSSSSYPu07KJ5_y1A,['mortgagebrokers'],11228
+False,Dyker Heights - Rapid Realty,,2.0,4,0tz56CEwuvtlTakNHY9A6g,"['realestateagents', 'realestatesvcs']",11228
+False,Afederal Home & Building Inspections,,5.0,1,vvpMpGaJZScgkT1QFUmRNQ,['home_inspectors'],11228
+False,Werber Plumbing,,3.5,8,WyNfHi_n85k1gNM2XlIHhg,['plumbing'],11228
+False,Supreme Security Plus,,3.5,4,7I1pGcgXjLYt47wma4xf1g,['locksmiths'],11228
+False,RTI Trucking,,5.0,1,S-Y2MUVM4wa2PPKk0aCRHQ,"['movers', 'shipping_centers']",11228
+False,J M C Contracting,,3.0,1,DTBfOEAOPa1ghNRpDrnOwQ,['contractors'],11228
+False,Jalen Management,,1.5,20,Jhfz5J_FHpPANUDqBSwiCA,['propertymgmt'],11228
+False,A Star Painters,,5.0,4,IaIB3CbOU_ssZi3ffPAbcA,"['painters', 'interiordesign']",11228
+False,Rapid Realty NYC,,5.0,1,yrRhFvMqxi1DLGziYML-LQ,['realestatesvcs'],11228
+False,Green Solutions NYC,,5.0,2,vwaKeGMawXZGirzMdHzilg,['contractors'],11228
+False,Fort Funding Corp,,5.0,3,CATx8zS3Q8IJWpBXsXsVAA,['mortgagebrokers'],11228
+False,Cozy Corner Realty,,3.0,2,nsbwNqnE-W-7xQrlR6KXlA,['realestatesvcs'],11228
+False,Howard's Upholstery,,4.5,3,h73ycuXpAlYIzOYjrVT8Jg,"['reupholstery', 'blinds']",11228
+False,Ny Real Estate Today,,4.0,1,0ciuYFGUmYrhTryMIQBK6Q,['propertymgmt'],11228
+False,William Wenzel Roofing,,5.0,1,dH0OwOUX8UySJsBbym4Kyg,['roofing'],11228
+False,N & F Frasca Contracting,,3.0,5,EhPN-GAoPnlVO6oQf1mskg,['contractors'],11228
+False,Affordable Window Repair,,5.0,5,1ujnzyu-bVwA_5YGx9ZscQ,['windowsinstallation'],11228
+False,ZPM Management,,1.0,3,9FPAK0qRSATAITJdePsHNw,['propertymgmt'],11228
+False,Advanced Hardwood Flooring Brooklyn,,2.5,4,k-PFGxcpX8T0ffDl1WyeQw,['flooring'],11228
+False,Doors Kitchens & More,$$$,4.0,1,wh0gXc3cLljiJ-904Nj_zQ,"['kitchenandbath', 'doorsales']",11228
+False,ABR Plumbing & Heating Contractors,,2.5,6,beonpCBKiFvh_VCDytclng,"['plumbing', 'hvac', 'waterheaterinstallrepair']",11228
+False,M & D Carpentry and Woodworking,,3.5,3,HTOCDRxSNn2uFEz8yUSOqw,['contractors'],11228
+False,Authorized Heating,,2.5,3,GpCOtfhRJi6IbcRF7QFBgg,"['hvac', 'waterheaterinstallrepair']",11228
+False,Bove Real Estate,,2.5,5,KxRZCpg7phnrePcJUjuW2g,['realestatesvcs'],11228
+False,Express24,,4.5,2,RXR8b6npkFTDTZxlBv4xGQ,['movers'],11228
+False,H M F L Management,,1.0,2,5rqyl1X0dZbFVXpBgu4_ag,['contractors'],11228
+False,All American Plumber & Heating,,1.0,1,FceWWnW1pqvxHZ1rqe589A,"['plumbing', 'hvac']",11228
+False,Chick Musacchio Wallpaper Hanger,,2.5,3,8qa-BtAZHeJ0YWP3V3WnAA,['wallpapering'],11228
+False,Shades of Elegance,,5.0,1,MpHft0yPoMscAU1rz69eOQ,['blinds'],11228
+False,Exit Realty Top Properties,,5.0,1,0edn_A_SeSYFWD_2HS9sDA,"['realestatesvcs', 'realestateagents']",11228
+False,1800-Mr Rubbish Franchising,,1.0,1,R1TCTOU8NSwrqRUr0Qo_KA,['movers'],11228
+False,Capani Memet,,1.5,5,AsHHZHfbnNVUDAl-_iIshg,['propertymgmt'],11228
+False,Brooklyn Tile Collection,,3.0,2,UMzZQrLO_bhfQuMSMevh7w,"['flooring', 'buildingsupplies', 'tiling']",11228
+False,Napco Realty,,1.0,1,5WBNzIzYXYo9o97jfdu1PA,['propertymgmt'],11228
+False,High Quality Construction,,1.0,2,kdyUFz3q5wYJFV7HfCA6tg,"['architects', 'structuralengineers']",11228
+False,Mortage Services,,1.0,3,_bsox6uJJpGLTEAz7Te32g,['mortgagebrokers'],11228
+False,Scarponi and Son,,3.0,2,RevCPqcaOVkRlyPH7IBTuA,['plumbing'],11228
+False,Roman Ray Roofing,,1.0,1,cK2oP_P0Aew5nt8h728neQ,['roofing'],11228
+False,Dyker Real Estate,,1.0,2,plAPBH6noLLbGkRXj8tj8g,"['realestatesvcs', 'realestateagents', 'apartments']",11228
+False,Leo's Construction,,5.0,1,vvrLHEupkoaTUshQ1LEqPg,['contractors'],11228
+False,Maxtrax Handy Services,,5.0,2,o1fUTY48dF3PA1DcbELqrA,"['tvmounting', 'handyman']",11228
+False,Olympos Glass Corporation,,1.0,1,PuG0hSk7wlSfHwdTYRsS0w,['glassandmirrors'],11228
+False,Mega Electrical Contracting,,1.0,1,305akHMXTA_Dy69X_9RhEg,['electricians'],11228
+False,Bk Start 2 Finish Restoration,,1.0,1,diW2MKobpXQRiduF5GcmNQ,['contractors'],11228
+False,NY Glass Table Tops,,5.0,1,FDDLJXFySPoEihO1vE_ZYQ,"['glassandmirrors', 'countertopinstall']",11228
+False,De Santo Landscaping and Gardening,,5.0,2,fakx7PzkoBE0dRSCzgLocw,['landscaping'],11228
+False,Skimcoat Painting,,5.0,1,qiQIl9RsbA1-x8fIsVF02w,"['painters', 'drywall']",11228
+False,1-800 Mr. Rubbish Brooklyn,,5.0,1,nQO-Gy4tkLGFD3YAvLYyjw,['homeservices'],11228
+False,D & D Management Services,,3.0,2,qDnwxet4UbrriG_pMs52gQ,['propertymgmt'],11228
+False,Howard J Reynolds Plumbing & Heating,,1.0,1,_6cPAL-FjO32yeALVpjgrA,['contractors'],11228
+False,D & D Plumbing & Heating,,5.0,1,-jhPdjTByOetp-t_WWNWnA,"['plumbing', 'hvac']",11228
+False,Diamond Era Construction,,5.0,1,V9VVpd74G8nyysIfhr3Q3A,['contractors'],11228
+False,Greater Windows & Doors,,1.0,1,Buf6AQyVmOs2_UF2hMhZAA,"['windowsinstallation', 'doorsales']",11228
+False,7th Ave Sewer and Drain Cleaning,,1.0,1,tXCkDGnB1Rlj09P2dxxHkQ,['homecleaning'],11228
+False,Global Moving & Delivery Service,,1.0,1,6kweaGStLuDB28oD5nAMrw,['movers'],11228
+False,Amorosi Landscaping & Nursery H I,,1.0,1,Sclo33ZI--I9zKWu44cpgw,['landscaping'],11228
+False,Best Brooklyn Heating and AC Service,,5.0,1,ilgRBjotZU3I15zuLEr1dA,['hvac'],11228
+False,GG & K Consulting Corp,,1.0,1,tzDglo_lLnwIYfIUoP_ftw,"['contractors', 'officecleaning', 'damagerestoration']",11228
+False,National Vertical Blind Factory,,5.0,3,NmZyvmMXGv1YXz-gaAXZvQ,['blinds'],11228
+False,Affordable Cleaning Service Brooklyn,,5.0,1,hnb1mB4jgwJU8_e3Zl3byg,"['homecleaning', 'officecleaning', 'carpet_cleaning']",11228
+False,Roger De Electric,,5.0,1,b3ZC_KVL4aKI-tAeSDCBzg,['electricians'],11228
+False,Jalen Real Estate,,3.5,3,jG9OHj2pCxOXQu3PpicIMw,['realestateagents'],11228
+False,Vito Ingravallo,,1.0,2,cG33_6DiuuElWDp3Gebvlg,['electricians'],11228
+False,S. Towers,,1.0,1,1H7FQkFZF6M5BaYVRxglww,"['roofing', 'contractors']",11228
+False,Roggenkamp John Roofing & Sheet Metal,,5.0,1,i1x_lKtz-I3VdAvffPy_LQ,['roofing'],11228
+False,Loretta Nastasi Rivera - Keller Williams Realty Empire,,5.0,3,GZtvcDV-XrBy6k9oHUHSVg,['realestateagents'],11228
+False,The Little Wine Bus,,2.5,49,eCsV5etZlfxhrwTxO7WyfQ,['winetours'],11228
+False,Romantique Double Diamond Limousines,,3.5,26,yjWJ4UHK6uIopZQQKRk5Pw,"['limos', 'partybusrentals']",11228
+False,New York 88 Car Service & Limo,,3.0,43,e2CGboa_84hX0jPwX_xloA,"['limos', 'taxis', 'airport_shuttles']",11228
+False,77 Express Car Service,,5.0,11,xVSBcZk8ZvMQ3NHN0xn-pw,['taxis'],11228
+False,MTA - New Utrecht Avenue - 62nd Street Station,,2.5,16,U-MbWEChmq55JaautSHRFg,['metrostations'],11228
+False,Future Limo Vip,,5.0,1,mSZXf0mPwbEgPtO5_052zQ,['limos'],11228
+False,Jo-Lyn Travel Agency,,3.0,2,EPSP5wxh_rUywIMUsKCgEQ,['travelagents'],11228
+False,Abatar Car Service,,2.0,22,-k6WzIQdza9W5qgUaN7TbQ,"['taxis', 'airport_shuttles', 'limos']",11228
+False,Strictly Car Service,,1.5,29,rPqmz_O8wBPoM4ABuYa_ZQ,['taxis'],11228
+False,Chico Express,,2.0,21,VDBUqRj9P0jxFyjO2riUtA,"['taxis', 'airport_shuttles']",11228
+False,Express Car Service,,4.0,1,IPN21HSCV2EAMxDmVtj52g,"['taxis', 'towncarservice']",11228
+False,MTA - 79th Street Subway Station - D,,3.0,1,vgm-T8tnw3QC8csckEz1DA,"['publictransport', 'metrostations']",11228
+False,Double Diamond Limousine,,5.0,1,jWB5e2v1aytQwTBc4jIp1Q,['limos'],11228
+False,Eagle Car & Limo,,1.0,3,RoPqBN96xO-oDah6YNXNqg,['limos'],11228
+False,Just Go Away! Travel,,5.0,1,lrqNL4l76SPONthh0erJUQ,['travelservices'],11228
+False,Dyker Heights Christmas Lights,,4.5,202,O-TEP2tSe8wbmBxoAxpyWQ,['localflavor'],11228
+False,Bay Ridge Brooklyn,,4.5,3,1z6PsYNd9BAuAR8aLkX57A,['localflavor'],11228
+False,Windsor Terrace,,4.0,7,EDfMji1T5DenoahyXw5Ckg,['localflavor'],11228
+False,Brooklyn Crush,,3.5,5,H7cjg02clU0DlqO2qPQrXg,['localflavor'],11228
+False,Atlantic Avenue Wedding Extravaganza,,3.0,1,bPVXdnja9RHJXkHXQYphbg,['localflavor'],11228
+False,J.L. Carpet & Upholstery,$$,5.0,181,Qycb67VcN05dXbuUcMk_3A,"['carpet_cleaning', 'homeandgarden', 'carpeting']",11228
+False,Tenda Tech,$$,4.5,61,n0VGi2CMuD13STAD1hn1Kg,"['electronicsrepair', 'mobilephonerepair', 'cellphoneaccessories']",11228
+False,Precision Appliance Services,$$,5.0,103,qAcEtQuUsffp0JcH-b1MQw,"['homeappliancerepair', 'appliances']",11228
+False,Accurate Appliance Repair,,4.5,39,MnAQdeQ2iEEoev1Wn2qSpQ,['homeappliancerepair'],11228
+False,Late Appliance Repair,,5.0,81,Bw3mc-demTVYjfhtJTifBg,['homeappliancerepair'],11228
+False,Express Line Wireless,$$,4.5,11,E8wkky2R-umxZxur_tUjdA,"['mobilephones', 'shipping_centers', 'electronics']",11228
+False,Central Pest Control LLC,,4.5,7,ruQSbRJI8F_DGSL1xCHhLg,['pest_control'],11228
+False,Zheng Laundromat,$$,4.5,5,NgLyL2pPeERZ7U1hkoI0hA,['laundromat'],11228
+False,A To Z Appliance Parts And Supplies,,4.0,22,vDzknH-g4gH_sQXJidWznw,['homeappliancerepair'],11228
+False,Len's Appliance,,3.0,37,mkvWzpJNHew7aNLRTsK9XQ,['homeappliancerepair'],11228
+False,Bunny Hill Daycare & Learning Center,,5.0,5,zb_8gtu7Q9alN9GQjjXx8g,"['preschools', 'childcare']",11228
+False,Andrew Torregrossa & Sons Inc,,5.0,2,6HT3wOBLE_cJAo9Bh-9w3Q,['funeralservices'],11228
+False,LCW Phone and Screen Repair,,5.0,3,cOZDbldivLogaRO16WGr1w,['mobilephonerepair'],11228
+False,Express Laundromat,$$$,4.5,10,icGNkoF_lxNe1ioZuoIWqA,['laundromat'],11228
+False,A & S's JBW Laundromat,$,3.5,12,Zz5uItzyzA-i0pkLjHgQgQ,['laundromat'],11228
+False,13th Ave,,3.0,4,p3H63kf010C2nV2PfuoKoQ,"['screen_printing_tshirt_printing', 'copyshops', 'signmaking']",11228
+False,Clean 88 Super Wash,$$,3.0,13,sza2o3kQDQ_ZniMXYx96xQ,['laundryservices'],11228
+False,Military Tapes Inc,,5.0,6,bQq_-nNy9CABKkzJMRJLDQ,"['screen_printing_tshirt_printing', 'graphicdesign', 'copyshops']",11228
+False,DECO Pest Control,,5.0,3,ykqxO4nu42oXFbtCzwWKkQ,['pest_control'],11228
+False,Dyker Heights Laundry,,3.0,2,-_7M0t-AFFMrrAqe9ZmQMA,['laundryservices'],11228
+False,Little Hands And Feet Day Care,,5.0,2,Q3kXWBeJZpSYZxeIIHETEQ,"['childcare', 'preschools']",11228
+False,7005 Laundromat Incorporated,$,4.0,4,9GoyYegrVTB7tAE6PXQzXg,['laundromat'],11228
+False,Procense Wireless,$$,5.0,3,sjnOx15Fl4gjtnvqjRIWHA,"['mobilephonerepair', 'mobilephones']",11228
+False,USA Tees,,3.0,6,leDs_KGpFEd_zozgc4ZgOA,['screen_printing_tshirt_printing'],11228
+False,U-Haul Moving & Storage of Bensonhurst,,2.5,18,Nu9WFDw_VwQhJEmIFi509A,"['selfstorage', 'truck_rental', 'trailerrental']",11228
+False,JC Cleaners,,5.0,1,wY8iohgdy215gRHcv-46pQ,"['laundryservices', 'sewingalterations']",11228
+False,Dyker Heights Post Office,,3.5,6,L3R5A9ZeeJCgZoBozobXBA,"['postoffices', 'shipping_centers']",11228
+False,Nice Laundromat & Dry Clean,,3.0,4,okm1m4RV80mWydHBLgnmtQ,"['laundromat', 'dryclean']",11228
+False,Patrick's Guitar Repair,,5.0,4,MGk5TAyCVrfXtXruE8JBcw,['musicinstrumentservices'],11228
+False,Sweet Laundromat & Dry Clean,$,4.5,2,wBOBBP3cwibEMlr6zGJEVg,"['laundromat', 'dryclean']",11228
+False,Bay Ridge Ave Child Care,,5.0,1,4ZDG8jZKF5FzOuB2_B-0_w,['childcare'],11228
+False,Serv-U Cleaners,,4.0,1,Q_EfUaVQxIG9Sy662GEqzA,['laundryservices'],11228
+False,Family Express Laundromat,,5.0,1,V-9XrOtTZiZGKQUR-D4O0g,"['laundromat', 'dryclean']",11228
+False,Ercole's Creative Fashions,$$$,2.5,5,_8tkt0e4ZtjeeFn0EFf2Xg,"['womenscloth', 'sewingalterations']",11228
+False,Bright Star Dry Cleaners,$,5.0,1,sMai6rgFdaZZajH2rukKoA,['dryclean'],11228
+False,Ritsa's Dry Cleaning & Alterations,$$,2.0,3,uT5js4BxtflLWP5qjbIM4Q,"['dryclean', 'sewingalterations']",11228
+False,Hom's Photo,$,4.0,4,SNGcs5gHqknOl-ie6b7csA,"['photographystores', 'photographers', 'notaries']",11228
+False,RTI Trucking,,5.0,1,S-Y2MUVM4wa2PPKk0aCRHQ,"['movers', 'shipping_centers']",11228
+False,Jimmy's Range & Appliances,,1.5,20,wmiRux9VWGdtsiqWXYq_mA,['homeappliancerepair'],11228
+False,US Post Office,,2.5,3,BTcq9ANqIVT_iNFaK5_mAg,"['postoffices', 'shipping_centers']",11228
+False,S&S Super Laundry,$,3.0,2,dMLcUXHRKnyloKXMmC5x5w,['laundromat'],11228
+False,Afederal Exterminating,,1.5,11,v9LrJyp_5QeX5-G5B-RwmA,['pest_control'],11228
+False,Howard's Upholstery,,4.5,3,h73ycuXpAlYIzOYjrVT8Jg,"['reupholstery', 'blinds']",11228
+False,A 2 Z Express,,2.5,3,-d_OS8VrU59an2LpCstsug,['shipping_centers'],11228
+False,Venus Laundromat & Dry Cleaning,,1.5,7,y6Z2NTpjpr1ig94alnUBpQ,['dryclean'],11228
+False,Color Signs,,5.0,1,dkwYi4fVvSJ_76FANlROzw,"['signmaking', 'screen_printing_tshirt_printing', 'vehiclewraps']",11228
+False,Top Digital Appliances,,1.5,21,AzF9ldUK9OQNNrYAxRIYVg,['homeappliancerepair'],11228
+False,New Utrecht Laundromat,$$$$,3.0,2,XWus2gnMv802fRb3CXGjoA,['laundromat'],11228
+False,World of Wonders Early Childcare Center,,4.0,1,jXs4eG5UOoR3XDnYvgKfBQ,"['childcare', 'preschools']",11228
+False,Hi Tech Super Wash Center,,4.0,1,j5XHby44yANrFMPBNR-Vlg,"['carwash', 'laundryservices']",11228
+False,Prestige Printing,,2.5,5,fSWKTsgqdRWBYgqGIEaDvg,['copyshops'],11228
+False,Bk Super Clean,,2.0,3,loxjHiQAvGvfKRRmec_xCw,['laundryservices'],11228
+False,Mike's Shoe Repair,,3.5,3,LoAPbQnds9Z1qbbKtMF_Dg,['shoerepair'],11228
+False,All City Cleaning Service,,4.0,4,2SZBwCLaDeCZYPiZ75tj5A,"['officecleaning', 'carpet_cleaning']",11228
+False,Lucky Cleaners & Laundry,,1.0,3,A7oUI9skRO9yEGGm69235Q,['laundryservices'],11228
+False,Sagar Fashion,,4.0,1,j4Db7fqWDRpkWcBxDM3KUA,['itservices'],11228
+False,Tonto Pest Control,,1.5,2,dx7Qizo3oo6f3aiuYEiNJQ,['pest_control'],11228
+False,13thAve Signs and Shirts,,1.0,2,fnwEFHYeUE47k3VT8oSAvQ,"['signmaking', 'web_design', 'screen_printing_tshirt_printing']",11228
+False,Super Wash Center,,3.0,1,P-yrOg2qIXBL4wcHFYeOeA,['laundryservices'],11228
+False,Liberty Pest Control,,1.5,7,Y9PP1haDvXgATvAIir3XDQ,['pest_control'],11228
+False,NYC Shirt,,5.0,1,aMWeJgxy0DHkfC8sNR6QZA,"['custommerchandise', 'screen_printing_tshirt_printing']",11228
+False,Century One,,4.0,1,F11pjGXClqJQrLQWpUuzpQ,['laundryservices'],11228
+False,Monsterwash,$$,2.0,5,5FVajXRBxtF3LDE83TUARA,['laundryservices'],11228
+False,Aievoli Ralph & Son Funeral Home,,3.0,6,r8vG46n5XJrYpmWNnQke7A,['funeralservices'],11228
+False,Coin N Laundry,$$,1.0,1,SmoKRCjLtx8HQvCNzX4j7Q,['laundromat'],11228
+False,Crystal Cleaners & Tailors,$,3.0,2,M9CHWqy7Q4E0lbR3a2keKQ,"['sewingalterations', 'laundryservices']",11228
+False,Maxtrax Handy Services,,5.0,2,o1fUTY48dF3PA1DcbELqrA,"['tvmounting', 'handyman']",11228
+False,Rainbow Seven Colors Sales & Service,,1.0,2,mTequUrxOzgK7LVAV4__eg,['airductcleaning'],11228
+False,Scarpaci Funeral Home Inc,,5.0,1,0QzjUychs-x5u9a-8-bESg,['funeralservices'],11228
+False,L&I Skippy,,5.0,1,px7zXuv1HA2RiPaoFByl5A,['reupholstery'],11228
+False,Mike's Mobile Notary,,5.0,1,wXLdn2rRUn7kxX3Ck1zp0g,['notaries'],11228
+False,Reaching Out Community Services,,5.0,1,-v32nYrgjc36o-4rtRtbXA,['nonprofit'],11228
+False,Alexis French Cleaners,$$$,1.0,1,b4HSwH2WbVVkUVhAInE2sw,['laundryservices'],11228
+False,Affordable Cleaning Service Brooklyn,,5.0,1,hnb1mB4jgwJU8_e3Zl3byg,"['homecleaning', 'officecleaning', 'carpet_cleaning']",11228
+False,The UPS Store,,4.5,2,qDV9qoMQA6ZztEc9FJ63cA,"['shipping_centers', 'copyshops', 'mailboxcenters']",11228
+False,Music Box School of Music,,5.0,1,KvASnt-RZEXUTiE2tYS1Nw,"['musicalinstrumentsandteachers', 'vocalcoach', 'summer_camps']",11228
+False,Clarillo Pest Management,,5.0,1,SVIRHxKGt3OODM7nwBdaeA,['pest_control'],11228
+False,Liquid Dreams Design,,4.5,16,f_kgjk4q2ujDikRVL4-U1Q,"['printmedia', 'copyshops']",11228
+False,Pravda Media,,5.0,6,2Hmgz2rJLLQaEgG19VhJPw,"['web_design', 'printmedia', 'advertising']",11228
+False,Sepharoic Press,,5.0,1,C0XSvxiiCnenW00nLcJpgQ,['printmedia'],11228
+False,Lucky Newstand And Lotto,,4.0,1,yQVUVRrMzz85X8bcqyyA7A,['printmedia'],11228
+False,World Journal,,2.5,2,gxJ7Ocx-e_z4NDzkta3Sgw,['printmedia'],11228
+False,Home Reporter & Sunset News,,1.0,1,Qfd-V0cFjKDrX-t0PvCQ1g,['printmedia'],11228
+False,Brooklyn Graphic Newspaper,,5.0,2,dU8HwxN5iWVx-bMAdXm4uQ,['printmedia'],11228
+False,Kartina Tv Usa,,1.0,1,Y1n0K87CrJP5xc7HAvCHMQ,['televisionstations'],11228
+False,Blue Agave Mexican Restaurant & Bar,$$,4.0,90,uwUzZf2IQFVb5puJuNd9rA,"['mexican', 'bars']",11228
+False,Sababa Hookah Lounge,$$,4.5,12,8dYr70FGDtR5XFEdaxcPwQ,"['lounges', 'hookah_bars']",11228
+False,Indigo Murphy's,$$,4.5,9,1jWYg-iLBqJSypEJvsxTGw,"['sportsbars', 'pubs']",11228
+False,Knights of Columbus,$$$$,3.0,6,DHfa_wiPkF_nt-DELw81DQ,['musicvenues'],11228
+False,B66 Club,$$,4.0,2,puSUKmN5Ep1M2TTdLg5RqA,"['danceclubs', 'venues']",11228
+False,Tryst Lounge & Bar,,3.0,2,FQDTiaS-gfMXruLuZAvT2w,['lounges'],11228
+False,The Purple Rose,$,2.5,3,b-_d-xktz4URc0KF7Uvgfw,['bars'],11228
+False,Pampered Paws,,4.5,56,gHP62VzTGyGSoQ6lhJ94Rw,"['pet_sitting', 'groomer', 'petstore']",11228
+False,The Diamond Collar,,4.0,32,_gGKcVrQd3dKpV36rDOOmQ,"['petstore', 'groomer']",11228
+False,Animal Clinic of Bay Ridge,,4.0,46,Bqcm02CAm14XS_w6a4VpVA,['vet'],11228
+False,Dog Training School NY,,4.5,33,wjpqajZZAMWeXj9VBaN61w,['pet_training'],11228
+False,Brooklyn Veterinary Group,,4.0,41,z_bctq20kcaY8sV6nJ899A,"['vet', 'petservices']",11228
+False,St. Francis Animal Hospital,,3.5,17,GRpsLDEOoE6hKdoD9Fdgtw,"['vet', 'groomer', 'pet_sitting']",11228
+False,Paws R' Us,,4.5,17,YWiVbmMIXMBneJSWSl1Nhw,['groomer'],11228
+False,Whiskers And Paws Pet Care,,5.0,11,Ve1js9kb4UNlxIyG2UQXgw,['pet_sitting'],11228
+False,Viva La Pooch Pet Salon,,5.0,12,kBWQ35fOxheCZQ0X9OjD0w,['groomer'],11228
+False,Pop Corals,,4.0,16,T2gcQaQDPlnE7VWlobhg7Q,['petstore'],11228
+False,Animal Pantry,,4.5,10,i-A0A9j_dyooWN6k5e2DwA,['petstore'],11228
+False,Q Cute Doggie House Incorporated,,3.5,26,d_wvY8kJBle6_1cX5fHZMA,"['groomer', 'petstore']",11228
+False,Puppy Boutique,,2.0,89,hda580yEMbh2owQCmJnimA,['petstore'],11228
+False,Dog Behaviorist,,5.0,2,KeVssUSpCJLLbCzBXW0S-A,['pet_training'],11228
+False,La Bella Pooch Dog Training and Grooming,,4.0,1,wq2d17Hnnl1wr4bXWN_pXA,"['groomer', 'pet_training']",11228
+False,Dyker Dog Salon,,3.0,4,BCwU9wOrNkS3WrJi7L4r1Q,['groomer'],11228
+False,Doctor Pat's Pet House Call Practice,,1.0,2,T4nMDHzA0morDecLR0tq1Q,['vet'],11228
+False,The Fuzzy Butts Pet Bakery & Boutique,,5.0,1,1taUvEGxX1f_77hM_s5Vmw,"['petstore', 'petservices']",11228
+False,Tracy's Yorkies,,1.0,1,EDtczQfVnvUIvnrMRbjNdA,['petstore'],11228
+False,Monaco & Monaco,,4.0,4,YP9hPAX7angqPZOuEvx5yA,"['personal_injury', 'criminaldefense', 'realestatelawyers']",11228
+False,Diamond Maids,,5.0,9,cEdR_QOu9DzKWPw06a9i3A,"['homecleaning', 'officecleaning', 'home_organization']",11228
+False,Brooklyn Signs,,4.0,13,sVIXWj-YIrIBhZ2IDHy9Bw,['signmaking'],11228
+False,"Mazzarisi J Leonard, Jr",,5.0,4,HRtnp40JjwjhnJx9DOssoQ,['realestatelawyers'],11228
+False,Ameritax,,4.0,5,eSQEUeOPkgydTopWhlPeUg,"['accountants', 'bookkeepers', 'taxservices']",11228
+False,13th Ave,,3.0,4,p3H63kf010C2nV2PfuoKoQ,"['screen_printing_tshirt_printing', 'copyshops', 'signmaking']",11228
+False,Military Tapes Inc,,5.0,6,bQq_-nNy9CABKkzJMRJLDQ,"['screen_printing_tshirt_printing', 'graphicdesign', 'copyshops']",11228
+False,Miranda M & Associates,,5.0,1,8UBFBfY7HQKd4sYxXQSUpA,['accountants'],11228
+False,Gingerbread Man Cleaning,,5.0,3,_9RPWZE4l0dZpYTzjmTNFQ,"['officecleaning', 'homecleaning']",11228
+False,Ilya Kleynerman Law Offices,,5.0,1,7Rk-0jDYP-Utlr1APWXk4g,['personal_injury'],11228
+False,Color Signs,,5.0,1,dkwYi4fVvSJ_76FANlROzw,"['signmaking', 'screen_printing_tshirt_printing', 'vehiclewraps']",11228
+False,Girasole Richard J CPA,,2.0,4,8gEHNQz7DmHeYnt-Z1WDaw,['accountants'],11228
+False,All City Cleaning Service,,4.0,4,2SZBwCLaDeCZYPiZ75tj5A,"['officecleaning', 'carpet_cleaning']",11228
+False,13thAve Signs and Shirts,,1.0,2,fnwEFHYeUE47k3VT8oSAvQ,"['signmaking', 'web_design', 'screen_printing_tshirt_printing']",11228
+False,High Quality Construction,,1.0,2,kdyUFz3q5wYJFV7HfCA6tg,"['architects', 'structuralengineers']",11228
+False,Ileana Rivera City Marshall,,3.5,3,OUeK5uVOSuSyksRu3kBzmw,['tenantlaw'],11228
+False,Byyana Life Coaching,,5.0,1,pQPN_fVi6PcBEo2j9mfYyw,['lifecoach'],11228
+False,Nazrisho & Associates,,3.0,2,5Xh8fh4IQLtiof9eYE0rYw,"['immigrationlawyers', 'realestatelawyers', 'personal_injury']",11228
+False,GG & K Consulting Corp,,1.0,1,tzDglo_lLnwIYfIUoP_ftw,"['contractors', 'officecleaning', 'damagerestoration']",11228
+False,Affordable Cleaning Service Brooklyn,,5.0,1,hnb1mB4jgwJU8_e3Zl3byg,"['homecleaning', 'officecleaning', 'carpet_cleaning']",11228
+False,Staff Blue,,1.0,1,296kT84PeDWyXd0mxKC3EA,['employmentagencies'],11228
+False,Bensonhurst JCC Jewish Community Center,,4.0,9,8LA7TXC5B1ATW1ryW1IAyQ,"['fitness', 'communitycenters', 'childcare']",11228
+False,Brooklyn Public Library - Dyker Library,,4.0,5,5EYMi_TqnQtpZQfKEfhdEA,['libraries'],11228
+False,Brooklyn Public Library - New Utrecht Library,,3.5,10,eq91EfW0JFuWgQFpoF9y5w,['libraries'],11228
+False,US Post Office,,2.0,44,aUJhZ7WTBEesxNLCfTYQmQ,"['postoffices', 'shipping_centers']",11228
+False,US Post Office,,3.0,10,yk2CAAOWr9mAKb-L_4n5sw,"['postoffices', 'shipping_centers']",11228
+False,Dyker Heights Post Office,,3.5,6,L3R5A9ZeeJCgZoBozobXBA,"['postoffices', 'shipping_centers']",11228
+False,Bay Ridge Library - Brooklyn Public Library,,3.0,14,DwPjNGfXph5uGzvfex2Sjg,['libraries'],11228
+False,Brooklyn Public Library - McKinley Park Library,,2.0,18,H-lJ5KTSipQNbUK7jwkHUw,['libraries'],11228
+False,US Post Office,,1.5,69,hcXPDBqll1hQl2lL1ijkWg,"['postoffices', 'shipping_centers']",11228
+False,Brooklyn Public Library - Mapleton Library,,3.5,3,wLw2x1tXBprvQ-3O9IZAxA,['libraries'],11228
+False,US Post Office,,1.0,65,IYSB20mUezfvWzsvsAWzDQ,"['postoffices', 'shipping_centers']",11228
+False,US Post Office,,2.5,3,BTcq9ANqIVT_iNFaK5_mAg,"['postoffices', 'shipping_centers']",11228
+False,Brooklyn Public Library - Fort Hamilton Library,,3.0,7,zgdbp52kwrtuh6tCUcG6tQ,['libraries'],11228
+False,Brooklyn Public Library - Highlawn Library,,3.0,4,sNmvypKFEgL28Ye4UqaVHA,['libraries'],11228
+False,Fort Hamilton,,3.5,5,3wUHqP9tAkQCTQ9CagE2mA,['publicservicesgovt'],11228
+False,Social Security,,3.0,4,GM_icpMglnkIZXOOW9jXQA,['publicservicesgovt'],11228
+False,US Post Office,,1.5,18,9KUhrypUeZe1IXdD7Chwfg,"['postoffices', 'shipping_centers']",11228
+False,Deluxe Passport Express,,5.0,2,dA3ltKDDdxrf82qyFNet6w,['publicservicesgovt'],11228
+False,DMV Service Centers,,5.0,4,h_wh2WnTJEevZ5EBfsbBnQ,['departmentsofmotorvehicles'],11228
+False,Highlawn Library,,2.5,5,TE80eI9852A5oZgcw3HmVA,['libraries'],11228
+False,NYPD 62nd Precinct,,3.0,3,cRwS0HM7GXnEDZIBvDCDAg,['policedepartments'],11228
+False,Fort Hamilton Recreation Center,,3.0,1,xSuREsSPmKIeT4daV049EA,['communitycenters'],11228
+False,66th Precinct,,1.5,8,vMOkSm--ooXKQ4ryaSlddw,['policedepartments'],11228
+False,"Janine Acquafredda - House-n-Key, Realty",,5.0,8,9Iod_FESOeDmsrT_dmP7uA,['realestateagents'],11228
+False,Weichert Realtors - The Franzese Group,,5.0,20,CiS1cU_J_kgk_XuqJRLC1Q,['realestatesvcs'],11228
+False,Four Seasons Realty Company,,3.0,2,vpqPGo7WgZI5474TevUnWQ,['realestatesvcs'],11228
+False,Verrazano Brokerage,,4.5,5,OqQvf5YbKgN47NbppkKHfg,['realestatesvcs'],11228
+False,Ben Bay Realty Co,,2.5,12,weU74MRoEUQes7ZaKqryLQ,['realestatesvcs'],11228
+False,JGC Metropolitan Group,,5.0,1,NMvU7JSSSSYPu07KJ5_y1A,['mortgagebrokers'],11228
+False,Dyker Heights - Rapid Realty,,2.0,4,0tz56CEwuvtlTakNHY9A6g,"['realestateagents', 'realestatesvcs']",11228
+False,Jalen Management,,1.5,20,Jhfz5J_FHpPANUDqBSwiCA,['propertymgmt'],11228
+False,Rapid Realty NYC,,5.0,1,yrRhFvMqxi1DLGziYML-LQ,['realestatesvcs'],11228
+False,Fort Funding Corp,,5.0,3,CATx8zS3Q8IJWpBXsXsVAA,['mortgagebrokers'],11228
+False,Cozy Corner Realty,,3.0,2,nsbwNqnE-W-7xQrlR6KXlA,['realestatesvcs'],11228
+False,Ny Real Estate Today,,4.0,1,0ciuYFGUmYrhTryMIQBK6Q,['propertymgmt'],11228
+False,ZPM Management,,1.0,3,9FPAK0qRSATAITJdePsHNw,['propertymgmt'],11228
+False,Bove Real Estate,,2.5,5,KxRZCpg7phnrePcJUjuW2g,['realestatesvcs'],11228
+False,Exit Realty Top Properties,,5.0,1,0edn_A_SeSYFWD_2HS9sDA,"['realestatesvcs', 'realestateagents']",11228
+False,Capani Memet,,1.5,5,AsHHZHfbnNVUDAl-_iIshg,['propertymgmt'],11228
+False,Napco Realty,,1.0,1,5WBNzIzYXYo9o97jfdu1PA,['propertymgmt'],11228
+False,Mortage Services,,1.0,3,_bsox6uJJpGLTEAz7Te32g,['mortgagebrokers'],11228
+False,Dyker Real Estate,,1.0,2,plAPBH6noLLbGkRXj8tj8g,"['realestatesvcs', 'realestateagents', 'apartments']",11228
+False,D & D Management Services,,3.0,2,qDnwxet4UbrriG_pMs52gQ,['propertymgmt'],11228
+False,Jalen Real Estate,,3.5,3,jG9OHj2pCxOXQu3PpicIMw,['realestateagents'],11228
+False,Loretta Nastasi Rivera - Keller Williams Realty Empire,,5.0,3,GZtvcDV-XrBy6k9oHUHSVg,['realestateagents'],11228
+False,St Bernadette's Church,,4.5,5,8HlxlbjyIYGVvzWX0yImkw,['churches'],11228
+False,St Ephrem's Church,,5.0,3,v8eoObgOg6XLRbCHr6Ru9g,['churches'],11228
+False,St Philip's Episcopal Church,,5.0,3,ZtCwX1GGIPGvp_0dLWbdJA,['churches'],11228
+False,Lefferts Park Baptist Church,,5.0,2,mSSDG715udsMDYnUoSal6w,['religiousorgs'],11228
+False,Our Lady of Guadalupe Religious Education Office,,5.0,1,b7q-yRlrY_dM52yQxCQEVw,['religiousorgs'],11228
+False,The Basilica of Regina Pacis,,4.0,1,37GGcjTb5ANN-tka-VRZAg,['churches'],11228
+False,St Frances Cabrini,,4.0,1,AU6GYQE7kpLSCJ9ahHfv4Q,['religiousorgs'],11228
+False,Lioni Italian Heroes,$$,4.5,295,oqou7SVSTIx7No6AJKSizw,"['cheese', 'delis']",11228
+False,Panino Rustico,$$,4.5,363,FwMyv3CVIxbI6ngodw7s3w,"['italian', 'sandwiches', 'creperies']",11228
+False,Tony's Pizzeria,$,4.5,67,UuKwNlHgrvrTycfq5umREw,['pizza'],11228
+False,Krispy Pizza - Brooklyn,$,4.0,200,kn_cpoilWk2s7_8wmJDdSg,['pizza'],11228
+False,Meze,$$,4.0,241,JIWCAWQnRVevwhbyADcLgg,"['greek', 'mediterranean', 'seafood']",11228
+False,B & A Pork Store,$$,4.0,52,4xeYrkI4uZPv_5tD-rxIIA,"['meats', 'delis']",11228
+False,Taquitos Mexico,$,4.0,160,cQWUPxESnMx69dshABS_rg,['mexican'],11228
+False,Pastosa Ravioli,$$,4.5,65,l6vYyf3c6Idf3hPFzjJULA,"['pastashops', 'delis']",11228
+False,BurgerFi,$$,4.0,203,wYgp-defqwJPhjC6Y_WKWg,"['hotdog', 'tradamerican', 'burgers']",11228
+False,Papa Pasquale Ravioli Co.,$$,4.5,39,ppUU-p6yH6IMa7d_UrYkaQ,"['italian', 'pastashops', 'sandwiches']",11228
+False,Baby Olive,$,4.0,89,PupuaqKJrZLtgM36e9fdiA,"['juicebars', 'salad']",11228
+False,Galici An Ital-American Eatery,$$,4.5,68,luT0szOI2hv8LIBehOI8Vg,"['italian', 'pastashops', 'sandwiches']",11228
+False,Blend Salad & Juice Bar,$,4.0,39,nHkvcI4agHIuIo-0tm7grg,"['salad', 'juicebars']",11228
+False,Il Colosseo,$$,4.0,163,RiN-EOiQLXlJszhe6HJdZA,"['italian', 'pizza']",11228
+False,Chef Andrea,$$,4.0,61,CseCPJgmN-DPKZNJk_9gTA,['italian'],11228
+False,Tea & Burger,$,3.5,126,veFiyZ9DSrajrC16akLTbw,"['burgers', 'bubbletea', 'salad']",11228
+False,Fujiyama Japanese Restaurant,$,3.5,56,frqlGMVgi2oyJCK7SNq1iQ,"['japanese', 'sushi']",11228
+False,Dyker Park Bagels,$,4.0,80,TCIUjVxXKausyWWmYqv4xA,"['bagels', 'breakfast_brunch', 'coffee']",11228
+False,Gus' American Grill,$,4.5,53,QNYqjEyw9xEYRzzQ0OLCSA,"['tradamerican', 'breakfast_brunch', 'diners']",11228
+False,Blue Agave Mexican Restaurant & Bar,$$,4.0,90,uwUzZf2IQFVb5puJuNd9rA,"['mexican', 'bars']",11228
+False,Outback Steakhouse,$$,2.5,351,ppik9e8_tCpAgRUV85npxQ,['steak'],11228
+False,Mikes Diner Of Brooklyn,$,4.5,24,n6jlAxpMcCqkZDRGEuyFGQ,['diners'],11228
+False,Tommaso Restaurant,$$$,3.5,81,Pb2HqSO0SP8HymbZM099hg,['italian'],11228
+False,18 Hipot,$$,3.5,107,xP717Q952O4BdPThiS3Maw,"['hotpot', 'chinese']",11228
+False,Georges Souvlaki of Astoria & More,$,4.0,49,5IcmZKVF0qZtjAGV_iGhKQ,"['greek', 'mediterranean']",11228
+False,Annabelle's Pastaria,$$,4.0,57,wXYSjd-tYEEFErI6RIDEYw,"['italian', 'pastashops']",11228
+False,The Brothers Deli & Bagel,$,4.0,32,tNJObmiHqgVQJoZ2-ZOvmA,"['delis', 'bagels', 'sandwiches']",11228
+False,New Corner Restaurant,$$,3.5,104,MfOl9uzuQj8Wl2g8NRYl0w,"['italian', 'seafood', 'tradamerican']",11228
+False,La Sorrentina Ristorante,$$,3.5,60,XxZOE4Cq6ZBWGxZ4AVDNng,['italian'],11228
+False,La Villa Pizzeria,$$,4.0,51,e9lb1oADGZqqce04Hk_-tg,['pizza'],11228
+False,New Forest Cafe,$,3.5,37,sb4AmNQbSwoMgs0eYBbEXQ,['chinese'],11228
+False,Jimmy's Place,$$,3.0,49,fGXqTkpbbNN8pmf0_LAJ-Q,['diners'],11228
+False,Maria Pizzeria,$,3.5,44,nLoNFh4HBwneiepkBDpyLg,['pizza'],11228
+False,Mario's Pizza,$,4.0,31,M6Mb4kEmv0FF3uM9Z0ONCA,['pizza'],11228
+False,Fu Lai Kitchen,$,4.0,24,VdNb9hmg9Fh_tbdS3qHVsw,['chinese'],11228
+False,Parkway Restaurant,$$,3.0,36,R-El2r-Z8RZD9HarFUIsrQ,"['diners', 'coffee', 'sandwiches']",11228
+False,Almonte's Food Dynasty,$$,3.5,38,ZLnwknAbnVGs82pnO1bbiA,"['grocery', 'delis', 'meats']",11228
+False,My Three Sons Coffee Shop,$,3.5,24,hM9ns1Eqd0QmzSpznw1vog,"['coffee', 'breakfast_brunch', 'tradamerican']",11228
+False,Mias Pizza Shoppe,$$,4.0,32,QaKCzEE7A8q6HMp2IfkAWg,"['pizza', 'italian']",11228
+False,Paesano on 13th,$$,4.0,20,noi4EYAFaINdGBdDLYNPvQ,"['italian', 'bagels', 'coffee']",11228
+False,Sabor Andino,$$,4.0,31,6Bp2kHo6bY9wzFDQrHIA6Q,['spanish'],11228
+False,La Sorrentina Pizzeria,$$,3.0,63,bnIVnNo5GNJctlJ1oBvwXw,"['pizza', 'italian']",11228
+False,Taste of China,$,3.0,13,8nyhPWqjsVWb8SnSQYa2JQ,['chinese'],11228
+False,Bean Post Pub,$$,3.0,63,Flo4zFlfmKms2VUXAbDz-Q,"['beer_and_wine', 'chicken_wings']",11228
+False,Taro,$$,2.5,42,7EN0whg4naKEBbRT-PRipA,"['asianfusion', 'chinese']",11228
+False,Garden Tortilla & Chinese Exp,$,3.5,15,PjyabBQn9QlHlEpealvi2w,['chinese'],11228
+False,Villa Fiorita Restaurant,$$,4.5,11,H1DhKd8ImdCBXgOHbzUhqQ,['restaurants'],11228
+False,The Aurora Pizza Caffe,$,4.0,13,L4n0IcvG7r8K6mxZlRgb9w,"['cafes', 'italian', 'pizza']",11228
+False,Nathan's Famous,$,3.0,45,kO3tCJUjV0qJ1quVvBy2Eg,"['hotdogs', 'hotdog', 'sandwiches']",11228
+False,Papa John's Pizza,$$,3.0,31,xdt1QJMXFsZ0AjhmLpqydQ,['pizza'],11228
+False,M2 Cafe,$$$,4.5,12,XYdIb4Y9fCXNiHY3S1WAYw,['chinese'],11228
+False,Brooklyn's Pizza Joint,$,3.5,23,FVtrP81HHREmxy-ISGUTug,['pizza'],11228
+False,Double Ben Cafe,$,4.0,10,NpIYZAo55GDnIxwkkh6Q7g,"['cantonese', 'breakfast_brunch']",11228
+False,Domino's Pizza,$$,1.5,84,F8u8RZHxxOtyBQObNqeHFg,"['pizza', 'chicken_wings', 'sandwiches']",11228
+False,Mezcals,$$,2.5,41,pqz_ib5EIXlRUiNVgKRl4A,['mexican'],11228
+False,China Royal,$,4.0,15,ifF_11thSAez-EK9K3ezmg,['chinese'],11228
+False,Mang Tang Hung,$$,3.0,21,9pMa0AdU1yvs8IiUNsDlhA,['chinese'],11228
+False,Dragon Garden,$,3.5,23,YhRpHM2Pu8aYfuLFz4mLVw,"['chinese', 'tex-mex']",11228
+False,Mister Phil's Pizza,$,3.5,18,4blgc4bVdCyv0JkWPZB6Sg,['pizza'],11228
+False,Mezcal's Mexican Restaurant,$$,2.5,23,g9xSX-Tk7ePSdmSjt7pM8A,['mexican'],11228
+False,El Pollo 1,$$,3.0,12,WRPrp-C8uYcAqma3Iq04Rg,['peruvian'],11228
+False,King Garden,$,4.0,8,d96mz4LOIiYLuYIyjbGAhg,['chinese'],11228
+False,Double Delight Chinese Restaurant,$,3.5,10,T25Z2dO7-hp89dDNgnMJQw,['chinese'],11228
+False,Puerta Del Sol,$,3.0,14,yWn9rxHxMPGjJ-EFy76TXg,"['mexican', 'salvadoran']",11228
+False,Szechuan Delight,$,3.0,15,ClVM5z3w56dRmdO3cEGXHw,"['szechuan', 'cantonese']",11228
+False,Burger King,$,2.0,49,4BrisBwrFgowhbTIeITKWw,"['hotdogs', 'coffee', 'burgers']",11228
+False,D & R Grocery,$,5.0,3,0p8uhFUslQ68HBM11MtfzA,"['grocery', 'delis']",11228
+False,New Double Dragon Restaurant,$,3.0,5,jrFhvRqFsrObiG8br83nPA,['chinese'],11228
+False,Ed & Rons Superior Market,,4.5,7,al49BtoMnvJcbsTFzvk2Pw,"['delis', 'grocery', 'sandwiches']",11228
+False,China King Restaurant,$,2.5,10,1K5MAzLczs_VxBrlFmiYhA,"['chinese', 'seafood']",11228
+False,Subway,$,1.5,6,SE7iVxHgqTcKbaRw8MBJWw,"['sandwiches', 'hotdogs']",11228
+False,Orchid Dynasty,$$,3.0,6,gYykmJNWpuERZL-dan-5Kg,['chinese'],11228
+False,Gobo,,4.0,1,xeBb3GvZN3vEQ3FsVfDfCQ,['vegan'],11228
+False,Tuzi Cafe,,4.0,2,hyQUlB8zLgBZKgmyn71Rag,['cafes'],11228
+False,Mei Shiza,,3.5,2,zlWJL3lO7Ar1Mt8lyTbocg,"['dimsum', 'sushi']",11228
+False,Simply Life Bakery & Cafe,,4.0,1,qVVBIO2w2HfEGS3SA27RUg,['cantonese'],11228
+False,Wins Cafe,,4.0,1,cZs8eseULGsSDm6XJb9u2w,['restaurants'],11228
+False,Wing Kee HK Cafe Inc,$,4.0,1,j4OWRZjIvf6wLQw_X-Uc7g,"['coffee', 'chinese']",11228
+False,los caudillos,,3.0,1,m4fIGxdclEXqB2LelVttWA,['mexican'],11228
+False,Deli & Grill Plus,,3.0,2,CuTQAcA-DnREaGM-099Qrw,"['delis', 'convenience']",11228
+False,Meet U Noodle House,$,2.5,2,OVQeTij1zue5VpjPIKwslw,['noodles'],11228
+False,Sunshine Deli & Grocery,,4.0,1,Bx3hK33wmVSJ1jp1G0o--g,"['delis', 'sandwiches']",11228
+False,Heights Food Mart,$,3.0,1,puxgSrbZZ9VZrObR3WBXIQ,"['delis', 'sandwiches']",11228
+False,The Aurora Pizza Cafe,,3.5,2,QhSTIllLa75LuykIuRXSmQ,['pizza'],11228
+False,J & A Pizza,,1.5,2,ckkGEMy1lLuu_nxQejPsOw,['pizza'],11228
+False,A & I Deli & Grocery,$,5.0,1,BJXqQNx9xY6_t2TP4dXjtg,['delis'],11228
+False,Kungfu Steamer by TDK Kitchen,,4.5,2,2roGBLPFp4X0sgmWuFEEBQ,"['chinese', 'asianfusion']",11228
+False,J.L. Carpet & Upholstery,$$,5.0,181,Qycb67VcN05dXbuUcMk_3A,"['carpet_cleaning', 'homeandgarden', 'carpeting']",11228
+False,Boulevard Books,$$,4.5,33,hHIxIUvklm0iopr7DEv4og,['bookstores'],11228
+False,Brooklyn Baby World,$$,5.0,35,zbDm0OOiyaH34XW1RhZSCA,"['furniture', 'baby_gear']",11228
+False,Classic Tile & Marble,$$,5.0,43,2g7UEOdo6cWYJfV6XFJZxQ,"['kitchenandbath', 'buildingsupplies']",11228
+False,Tenda Tech,$$,4.5,61,n0VGi2CMuD13STAD1hn1Kg,"['electronicsrepair', 'mobilephonerepair', 'cellphoneaccessories']",11228
+False,Phil's Tuxedo's,$$,5.0,38,mh3zAilykJ-6lhQvufHtGw,"['menscloth', 'bridal']",11228
+False,13th Avenue Florist,$$,3.5,23,vh9Lgfe61wNMtMr--6Xjmg,"['florists', 'floraldesigners', 'candlestores']",11228
+False,Precision Appliance Services,$$,5.0,103,qAcEtQuUsffp0JcH-b1MQw,"['homeappliancerepair', 'appliances']",11228
+False,Livan Savino Opticians,$$$,5.0,18,z88mY3ucsaGr2CuVwyZhwg,"['opticians', 'optometrists']",11228
+False,Jenny's Flower,$$,4.0,23,bVMh5PTBFikNV_0a534Tuw,['florists'],11228
+False,Express Line Wireless,$$,4.5,11,E8wkky2R-umxZxur_tUjdA,"['mobilephones', 'shipping_centers', 'electronics']",11228
+False,Acting Out!,$$,5.0,19,CSfvyj-QFVfkQe7g-3XwUg,"['theater', 'musicalinstrumentsandteachers']",11228
+False,Mondial Tiles,$$,5.0,19,Tj9Knot-L0J2KzE57QuknQ,"['buildingsupplies', 'kitchenandbath']",11228
+False,LADY LAIR by AVM,$$$,5.0,7,_27KjBxhXNi7aMIdHN4xhA,"['hair', 'othersalons', 'cosmetics']",11228
+False,Beyond Trends,$$$,4.5,6,l-W_4NkUytvmTBUmWHmmWA,"['womenscloth', 'accessories']",11228
+False,DG Rockers Guitar and Music School,$$,5.0,8,EsFCZ3zi_LhIFf1rjfUrJg,['musicalinstrumentsandteachers'],11228
+False,Dyker Heights Pharmacy,$$,4.0,6,J1XHk_frunvtbF-XEnvxBQ,['drugstores'],11228
+False,Jelo Paper & Decor,,5.0,7,v5GrKraBqS6TMDyus74cxQ,"['stationery', 'photoboothrentals', 'eventplanning']",11228
+False,E and J Boutique,$,4.0,13,xknayD3pxwhNzZ6FZntKlQ,"['vinyl_records', 'videogamestores', 'toys']",11228
+False,Parkway Flower Shop,$$,4.0,12,BnohtLuJBIgQj35bjBmUjw,['florists'],11228
+False,Outflation Discount,$$,4.0,6,hhqmiMF769FaPruwwkFl_Q,['deptstores'],11228
+False,DF Brothers Sports Center,$$$,3.5,11,qJQdSUpvAZ-_KW6H44v7uA,['sportgoods'],11228
+False,Walgreens,$$,4.0,10,EKz-V-6fpqQzj3oxsmmDOA,"['drugstores', 'cosmetics', 'convenience']",11228
+False,One-Three Sports,$$,5.0,2,GuKzvr9TqhvOAHcDi7V02g,"['sportswear', 'uniforms', 'custommerchandise']",11228
+False,Walgreens,$,3.0,5,envrFZvdj5bkA1zjS6WuIg,"['cosmetics', 'drugstores', 'grocery']",11228
+False,Rite Aid,$$,3.0,9,C1Mu2CYw3YgyQakm6cavtg,"['drugstores', 'convenience']",11228
+False,Procense Wireless,$$,5.0,3,sjnOx15Fl4gjtnvqjRIWHA,"['mobilephonerepair', 'mobilephones']",11228
+False,M & M Hardware,$,4.5,3,x5cgj6ohNZIZe2EfaidBUQ,"['hardware', 'paintstores']",11228
+False,NY Cabinet Factory,$$,4.5,3,17XLYNhfSHXG-l4WUoU3nQ,"['cabinetry', 'kitchenandbath']",11228
+False,Rite Aid,$,2.0,16,DqSVcBxCOImnPRLq_ful2A,"['drugstores', 'convenience']",11228
+False,T-Mobile,$$$,3.0,2,H6-wuJ4GGOEYBPdofEsKJQ,['mobilephones'],11228
+False,Tian Song Musical Arts,$$$,5.0,1,6_tIcKeQ8Ru8p-dOVkwrSg,['musicalinstrumentsandteachers'],11228
+False,Evgeni Ninov Piano Studio,,5.0,4,z9oA9wmddI78MUlheAwc8w,"['musicalinstrumentsandteachers', 'theater']",11228
+False,Ercole's Creative Fashions,$$$,2.5,5,_8tkt0e4ZtjeeFn0EFf2Xg,"['womenscloth', 'sewingalterations']",11228
+False,C G A L Jewelers,$$$$,4.5,2,WRpcIde53UJo8LIq5EWQcg,['jewelry'],11228
+False,Hom's Photo,$,4.0,4,SNGcs5gHqknOl-ie6b7csA,"['photographystores', 'photographers', 'notaries']",11228
+False,Regina Gift Shop,$$,5.0,2,LeeDPHN_D-_PMdbCg5549g,['giftshops'],11228
+False,Alleon Pharmacy,$,3.5,3,TAtcMEh16Lj7jAKGaroljg,['drugstores'],11228
+False,Qin Lumber & Hardware Supply,$$,5.0,2,89YVJ9bCLELy9sMGJ1bh_w,['hardware'],11228
+False,Pollina Pharmacy,$$,4.5,3,KmkzD7haZP6-utpvR4Ubyw,['drugstores'],11228
+False,Maurro & Sons Plumbing & Heating Supply,,5.0,1,2M_Nnv6d_wP-N3164gS5Ow,"['hardware', 'kitchenandbath']",11228
+False,Zous Machine and Led Inc.,$$,5.0,2,uAv8Qxbx-FCnrMRSIjPMkA,['electronics'],11228
+False,Green Beauty Center,$$,3.5,3,Tmwj6JR3-5GWO0OyiLgKRA,['cosmetics'],11228
+False,Doors Kitchens & More,$$$,4.0,1,wh0gXc3cLljiJ-904Nj_zQ,"['kitchenandbath', 'doorsales']",11228
+False,Elite Home Design,$$,4.0,5,eBdSjg1XQUrcsOlgAhz75Q,['kitchenandbath'],11228
+False,Ideal Optical Choice,$,2.0,10,2lBG_-FH44XJZbuw-LgMWQ,"['opticians', 'optometrists']",11228
+False,New Dimension,$$,4.5,6,7l7RpsEQHqlaUN5JeLk_Ew,"['trophyshops', 'custommerchandise', 'watches']",11228
+False,Pure Health Pharmacy,$$,4.0,3,HbUsK8N4Qdgb0fYp4G-eEw,['drugstores'],11228
+False,SOLE 13,$$$,1.0,1,TqfXPyJzZVZufgLenaDHPg,"['menscloth', 'personal_shopping']",11228
+False,Blossoms in Brooklyn,$$$$,2.5,4,_pqYXzpgmRU9H8lrIgMwpA,"['florists', 'floraldesigners']",11228
+False,OK 99 & Up Store,,3.0,1,bV43EVGFQpQCIUTgAvJWGQ,['discountstore'],11228
+False,Artistic 86 St Florist,$$$,1.5,3,FCqKHEFAzMEnX6dbzoYIog,"['florists', 'stationery']",11228
+False,NYC Shirt,,5.0,1,aMWeJgxy0DHkfC8sNR6QZA,"['custommerchandise', 'screen_printing_tshirt_printing']",11228
+False,Card Curio,$,2.0,1,HhTIIpYIg5nkGuhuSKblRQ,['stationery'],11228
+False,Lior T Maimon Jewelry & Estate Buyers of America,,1.0,1,7O8y0tF2wYMhLmcllRPCaw,['jewelry'],11228
+False,Phoenix Appliances,,3.0,2,0TopBxZ9Zb-i2t3A88s5wA,"['kitchenandbath', 'appliances']",11228
+False,Simply Stated Invitations NYC,,1.0,1,qqHf_npcujwMhdYAfNiyDA,['shopping'],11228
+False,Simply Stated Invitations NYC,,3.0,2,b-g2CbhP2H_7NwPB0YbswQ,"['stationery', 'wedding_planning']",11228
+False,A & A Greetings,$$,2.0,1,AE7oIhAWSpLkT7FXR2fj7A,['stationery'],11228
+False,A Work of Art,,5.0,1,7mwFoUUy5LV4G5plusWSXA,['galleries'],11228
+False,Era Design,,1.0,1,4-e7vTzFu2BI9PVJUerDFg,['jewelry'],11228
+False,Johnny Cuobacii,,5.0,1,R74BvP3WMgXnGQpZfYNtoQ,['bridal'],11228
+False,C & L Fine Gifts,$$$$,3.0,2,WNMZwwJd0IZRNWdiNpPGLQ,"['giftshops', 'stationery', 'wedding_planning']",11228
+False,Music Box School of Music,,5.0,1,KvASnt-RZEXUTiE2tYS1Nw,"['musicalinstrumentsandteachers', 'vocalcoach', 'summer_camps']",11228
