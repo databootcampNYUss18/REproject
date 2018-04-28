@@ -1,0 +1,306 @@
+is_closed,name,price,rating,review_count,id,alias_list,ZIP_code
+False,Baisley Park,,4.0,12,KOuPJ-goMOQhwU31otedAg,['parks'],11436
+False,Kyokushin Karate - Saikyo Dojo,,5.0,1,i7bVDS9iwqVM4Kd78VhIGA,['karate'],11436
+False,9/11 Tribute Museum,,4.5,163,F0EUMg7UwxLCQ0GFpX0dyg,"['museums', 'walkingtours', 'nonprofit']",11436
+False,The Artful Bachelorette,,5.0,74,wViL44th02eQxqHx2kFCOA,"['eventplanning', 'artclasses', 'paintandsip']",11436
+False,Aum Shanti Bookshop & Crystal Gallery,$$,5.0,47,tli8xfkgW_9IAEh_Lt24PA,"['psychic_astrology', 'spiritual_shop']",11436
+False,Big Apple Circus,,4.0,105,HbmMjukJRYHnLW3MbYpHBg,['theater'],11436
+False,Ripley's Believe It or Not! Time Square,,3.5,220,QrFslJ21V5msantuVrqeeQ,"['museums', 'tours']",11436
+False,Nuurvana Clairvoyant Healing,,5.0,27,FzLLN5u0fEOKwBf6WrcWXw,"['acupuncture', 'psychic_astrology', 'reiki']",11436
+False,Life Elevated,,5.0,20,VO7QRk8o1UNyC2DkCInhuQ,"['lifecoach', 'psychic_astrology', 'c_and_mh']",11436
+False,"Truffles: Jazz, Murder, & Dinner Theater",$$$$,4.5,40,agz8qfhZTWIHVvD6ltE78A,"['comedyclubs', 'dinnertheater', 'theater']",11436
+False,Astrobabe: Laura Gilmore Astrology,,5.0,14,sBtBdXEnPS-ow0K0-2En8w,"['astrologers', 'psychics']",11436
+False,Tova Kove,,4.5,35,bXDmWlVz814jbiIIFTvgPw,['psychic_astrology'],11436
+False,Gemma Deller,,4.5,21,9fs-v14tis_wgsxo-FLH_Q,['psychic_astrology'],11436
+False,Thomas John - Celebrity Psychic Medium,,3.5,66,zIJfMBflYLFIxsUsgjpZ8A,['psychicmediums'],11436
+False,Psychic Readings By Nicole,,5.0,15,6MJ7HR7Z1jeNNn5rOWYcxw,"['reiki', 'lifecoach', 'psychics']",11436
+False,Amunar Palmistry & Counseling,,5.0,11,Doaam6gGqckmnwIwb7Ci-w,"['psychic_astrology', 'lifecoach']",11436
+False,Readings by Maria,,4.0,15,IJnt2gcBvHauiPcENrMhtQ,['psychic_astrology'],11436
+False,Tarot Card Reader Angela Lucy,,4.0,48,L3VLHpAPlTdS_hosGkmsNQ,['psychic_astrology'],11436
+False,Readings by Cin,,5.0,7,5Rsqiw7WpTIXdsFFBp3bRw,['psychic_astrology'],11436
+False,Spirit Radical,,5.0,12,ejipsQDGc92LJVe_cGuBdg,"['reiki', 'animalholistic', 'psychics']",11436
+False,Broadway Fastlane,,5.0,9,lWJjXZHTmaAHOcDZUMeLEw,"['ticketsales', 'walkingtours']",11436
+False,The New York Medium,,5.0,4,G814Cbd4gHglnHxxAjH_cQ,"['psychicmediums', 'specialtyschools']",11436
+False,Aria Psychic & Chakra,,5.0,4,yYjM2r6ZJpXOJhVwfJFPdQ,"['psychic_astrology', 'reiki', 'lifecoach']",11436
+False,Evolved Healing,,5.0,3,PPV3AmRNS21FOgi6kcGDXQ,"['reiki', 'psychics']",11436
+False,Ariel Music and Events,,5.0,9,xFiW9mqoV2tukUNImSzCJA,"['theater', 'wedding_planning', 'djs']",11436
+False,Kesaine,,5.0,5,9820iVdpn7z9DNrXB3dkxQ,"['reiki', 'psychic_astrology']",11436
+False,Fleeting Connections,,5.0,7,4obEYlst0KU0UE-XFd-Z-g,"['reiki', 'lifecoach', 'astrologers']",11436
+False,Chess Max Academy,,5.0,7,e0uKupf-d555kzUULcoOgA,"['privatetutors', 'specialtyschools', 'social_clubs']",11436
+False,Gypsy Witch Readings,,5.0,7,ggV99H-xXnpOiB-lO5oWyQ,['psychics'],11436
+False,Emcon Pharmacy,$$,4.0,11,dcJO0htyfIvV7ZssgFPzQw,"['drugstores', 'notaries', 'ticketsales']",11436
+False,Spiritual Medium Rose,,5.0,4,8uVxpvV4xktA3IAPBIMvdg,['psychicmediums'],11436
+False,The Love Guru,,5.0,5,sAbxB7jbefHXSbBek0r5Ug,"['matchmakers', 'lifecoach', 'psychicmediums']",11436
+False,Manhattan Psychic Readings,,5.0,5,ZYpjwVxJ4NgI77wLm29gFA,['psychic_astrology'],11436
+False,Clarity Reiki,,5.0,4,nprEwRH8-Qky4i7B98WfdQ,"['reiki', 'psychics']",11436
+False,The NYC Mariachi,,5.0,3,zRRiKfTMO2UQ-luc3Hwl7g,"['theater', 'musicalinstrumentsandteachers', 'musicians']",11436
+False,Tarot by Dante,,5.0,6,VzFlqSKUbQ3E8yrnB5x7qQ,['psychic_astrology'],11436
+False,Yeyeo Botanica,$$$,5.0,9,dr2jKjAqdlrN1On5fzYb-g,"['psychic_astrology', 'spiritual_shop']",11436
+False,Tribeca Energy Studio,,4.0,7,0N3Ka8kpxzsiW6vz8swTCg,['psychics'],11436
+False,East Indian Music Academy,$$,3.5,3,8Fj1ZqGX4mK7Fgy7UUuRXg,['musicvenues'],11436
+False,Love Supplies Botanica,$$,5.0,1,YRE9OWwmbqhd_mW-St0gCA,"['spiritual_shop', 'psychic_astrology']",11436
+False,Geo's Art Expression,,5.0,2,T5I6__iZd_uUsrE7jTZICQ,"['galleries', 'sessionphotography', 'framing']",11436
+False,Sylva Sylvarum,,5.0,3,qGmD92CoNc-79LJ_pS3zRQ,"['psychic_astrology', 'reiki']",11436
+False,Melissa Nieves-Spiritual Solutions,,5.0,3,aY6UZ5e4owZg9c1AeJqEDQ,['psychicmediums'],11436
+False,Live In The Solution,,5.0,6,PhfAA6hzvXFWXu6bbb0CQg,"['reiki', 'hypnosis', 'psychic_astrology']",11436
+False,Bodywork by Mateo,,5.0,9,4ZuApVq9bOovnP1wxzl2tQ,"['reiki', 'psychic_astrology', 'massage']",11436
+False,Rum Runners Jazz,,5.0,7,aYGhfcrgmecL-LAgEB-2eA,"['theater', 'musicians']",11436
+False,Achieving Balance Counseling & Holistic Center,,4.5,3,GgCcfrzVocYRpq-DqTRW1A,"['c_and_mh', 'psychicmediums']",11436
+False,Chris Coppola Intuitive Wellness,,5.0,3,zfOx3Q4NC6INuTV2BdLM9A,"['c_and_mh', 'lifecoach', 'psychics']",11436
+False,Midtown Gifted Psychic,,4.5,3,6eqGE7Jh2lelLnUq9Iux2g,['psychicmediums'],11436
+False,Old York Cellars,$$,4.0,84,L8fIHKUi6ujViXYp98bEQg,"['wineries', 'winetours']",11436
+False,Mama Donna Henes Urban Shaman,,3.5,3,FkJjUNh3d_ey0o5NbgTBfQ,"['psychic_astrology', 'spiritual_shop']",11436
+False,Colors Of Wellness,,5.0,1,UOLZhCN3A1sQdSNVeKvJ0w,"['yoga', 'psychic_astrology', 'pilates']",11436
+False,ThePositiveMedium,,5.0,1,-G1BlxNKuy9pR_HzNJnjig,"['psychicmediums', 'lifecoach']",11436
+False,Weekend Dating,,4.5,2,yPJjAwrRvy3NxPhhpsyp-g,"['matchmakers', 'social_clubs']",11436
+False,Psychic Reader & Advisor Lisa,,5.0,2,2ImdEr7pfVfwvtp-7gKsqw,"['psychics', 'lifecoach']",11436
+False,Street Beat Brass Band,,5.0,1,PWdsS44wWOuLCIwookYIGQ,"['theater', 'musicians']",11436
+False,Lasvit,,5.0,2,VODqgXn_fpgNJTCi2n_6lw,"['galleries', 'lighting', 'interiordesign']",11436
+False,Astrology at the Quest by Bart Lidofsky,,5.0,1,1xMCS5l5TjEmoYezqbQJxw,['astrologers'],11436
+False,Psychic Readings By Tiffany,,5.0,1,BMhkFzAFkD1F5_4EmfnCcw,"['psychic_astrology', 'lifecoach']",11436
+False,Naive Music Works,,5.0,1,zD9BX6w0fJX2kJc5NAxPDA,"['musicians', 'theater']",11436
+False,Deer Spirit Reiki,,5.0,1,ZpEESpGMFtKkRvlLRMFOrg,"['reiki', 'psychic_astrology']",11436
+False,Psychic Gallery,,5.0,2,cR4VW_UoMIAR2i1MCnEO2w,['psychic_astrology'],11436
+False,The New York Songwriter's Circle,,5.0,2,D4Re0gY6JkVyQFjU1W8QGQ,"['theater', 'vocalcoach']",11436
+False,Midtown Psychic,,4.0,5,f0ZWgobImGL8EGAfNvqGEA,['psychics'],11436
+False,Diana Brownstone,,5.0,3,P4Ee2KQMTmDwFrgQ8ol_-A,['psychic_astrology'],11436
+False,Psychic Readings By London,,5.0,1,M6K-pO-R8R06JAz-ZWHuzg,['psychics'],11436
+False,Off the Hook Entertainment,,5.0,2,LiGBL2q9SIaqSEg8YEU7CA,"['musicians', 'theater']",11436
+False,Reiki with Darren,,5.0,5,JhSByBTYY1rGstRy76YmLA,"['reiki', 'lifecoach', 'psychicmediums']",11436
+False,Saanwee Performing Arts,,5.0,2,EKd90poA232Ta-ien2qyRg,"['theater', 'language_schools', 'privatetutors']",11436
+False,Madison Psychic Reader & Advisor,,3.5,2,_vB7-15ySXiQ8gEUvZE90A,['psychics'],11436
+False,Luminous Sounds,,5.0,7,jYz8bKLL0JZyuAKggoiVqQ,"['musicians', 'theater']",11436
+False,Dance Floor,,1.0,2,t7dbYJZ35ONMC2vLRZ_MkA,['theater'],11436
+False,Lynn Van Praagh-Gratton,,5.0,4,vItgVCVQUwE0YDj3JJJndw,"['psychicmediums', 'spiritual_shop', 'printmedia']",11436
+False,SoniaOTarot,,5.0,6,yYKctFgd16y_Bpv5RBYcdA,"['psychic_astrology', 'reiki']",11436
+False,Psychic Boutique of Northvale,,5.0,2,U7pRx7NaBKGAfC_LbdklYg,['psychicmediums'],11436
+False,Shivanand Astrologer,,5.0,1,qx2cDfS1tia7VoDJYK9mUA,['astrologers'],11436
+False,Mizliz Events,,5.0,1,zSsjSw8o8rsLq7jV36l6Cw,"['eventservices', 'theater']",11436
+False,Mariachi Sol Mixteco,,4.5,4,fhn1Fkx9hk2Nx0mOhKtKsQ,"['theater', 'musicians']",11436
+False,"Scientific Hand Analysis, Life Coaching by Irina",,5.0,5,_GbUzIK4azG5-0q2B8avLA,"['lifecoach', 'careercounseling', 'psychic_astrology']",11436
+False,Sound Healing and REIKI with Derrick Little,,5.0,3,vG3WFti0Cv4PMLoBhPrqog,"['reiki', 'psychic_astrology']",11436
+False,Psychic Spiritual Consultants,,5.0,1,nEeHqqNcwpmQ9GdRivJNJw,['psychics'],11436
+False,Psychic Readings by Diane,,1.0,2,D-7XYMO3ZOeKKfmbJspDxA,['psychics'],11436
+False,Psychic Readings By Ashley,,5.0,2,JuVv5i9nF2K6bkYUP_xPgA,"['psychic_astrology', 'spiritual_shop', 'lifecoach']",11436
+False,Psychic Readings by Nina,,5.0,1,lDNNP3TdUunAzzmn4KoicA,['psychics'],11436
+False,Psychic & Spiritual Readings,,5.0,1,6-iC_YTfZ0Ak3iULRQU-uA,['psychics'],11436
+False,Astrology Healing Spa,,5.0,1,r-mLQVkD3dANQVOAHEXEqQ,['psychic_astrology'],11436
+False,Black Gotham Experience,,5.0,1,pk_t3pyj8Z0ftOny4yukuw,"['walkingtours', 'galleries', 'culturalcenter']",11436
+False,Psychic Readings by Olivia,,5.0,1,S_Kpgt7KKhmhNQiL92MVGQ,"['psychic_astrology', 'lifecoach']",11436
+False,Psychic Readings By Sally,,5.0,1,o7SNpGagvPuNUHOqTMGsPA,['psychics'],11436
+False,Alternative Reiki,,5.0,4,R9epE0SLcpbwOEpHDBlEJA,"['reiki', 'hypnosis', 'psychicmediums']",11436
+False,Tania Astrologer / Astróloga,,5.0,1,v5RwLgipG5r8C5PTdObafA,['astrologers'],11436
+False,Divine Energy Healing®,,3.5,3,_Qt6X0Gf9d3C3BTfehrc4Q,"['psychic_astrology', 'reiki', 'lifecoach']",11436
+False,Psychic Energy,,5.0,1,amNCC5Fnm74AVdCJ-CTV8Q,['psychic_astrology'],11436
+False,1iDecor,,5.0,1,2ZiE6yL2mVrnHyn8UHiIGA,"['interiordesign', 'commissionedartists', 'galleries']",11436
+False,Martin's Psychic Shop,,2.5,7,cTLUFeQRsNwCBbagbKGJGg,"['psychics', 'lifecoach']",11436
+False,Quantum Healer,,5.0,1,1By1q5TBTV5u9AZYAKuGyw,"['reiki', 'alternativemedicine', 'psychic_astrology']",11436
+False,Psychic On Broadway,,5.0,1,7lUGjDyclRxYwB9aJ4tVYA,['psychics'],11436
+False,Blaire Reinhard Band,,5.0,1,yRjrJAsDF6SXo5or1f392Q,"['theater', 'musicians']",11436
+False,Theatre X Entertainment,,5.0,1,_Kj2EE27YoGsvVbfGGJWFQ,"['theater', 'sessionphotography']",11436
+False,Philadelphia Psychic Center,,3.0,11,MTU8sJBwOtaDreDIEOeung,['psychics'],11436
+False,Psychic Readings By Jacqueline,,5.0,1,BVFW4JSNhFEdcN8RAPbu9A,"['astrologers', 'psychics']",11436
+False,Psychic of River Vale,,4.0,2,oqBLyBFYe1Pnxm_neLza4Q,['psychics'],11436
+False,Intuitive Healing with Kimberly,,5.0,2,L1QXBchHoza6rEjqx-87RA,"['reiki', 'psychicmediums']",11436
+False,Psychic & Love Specialist Nicole,,5.0,2,qTjPQIy9AtE1bu4hQDdcuQ,['psychics'],11436
+False,Rev Angela Heil,,5.0,4,NX184KMoG1sQJumxzXlJ7w,"['psychic_astrology', 'officiants', 'reiki']",11436
+False,Psychic Visions by Ruby,,5.0,1,nso_v6B6TUlHe81b-keVjw,['psychics'],11436
+False,Violet Flame Rose,,5.0,15,KAroX5yjZpZ75KhIfS15nQ,"['psychic_astrology', 'reiki', 'lifecoach']",11436
+False,Tire Express,,5.0,1,-AD2PcCw7YQScmrC0ZubFQ,['tires'],11436
+False,Jusncaseauto,,3.0,2,amL0pwldsoA_-aZLIq3moQ,"['autorepair', 'transmissionrepair', 'autosecurity']",11436
+False,Airport Gulf,,1.0,1,Wh-qgi0e0Vw2cA3xoKCv5A,['servicestations'],11436
+False,Van Wyck tire service,,1.0,2,SQI8IKf39IPhxUcdG0IdFw,['tires'],11436
+False,Gorgeous Nail,$,3.0,6,nMZYrvsIoAUJaTJ0ze5yPQ,['othersalons'],11436
+False,K O B Barber Shop,,5.0,1,Q3hCIRkedYV3xOkd0Ou5zA,['barbers'],11436
+False,Ace Nails Salon,,3.0,1,VM_kizlOuI_O2RHUo4N5Nw,['othersalons'],11436
+False,Sahara Shops,,5.0,2,XPIJUSEY9-5XP2geBHr1jg,"['womenscloth', 'cosmetics', 'menscloth']",11436
+False,Superfine Tiffins,$$,5.0,43,wPDNt1enVbzu01s0sVAvsw,"['indpak', 'fooddeliveryservices', 'catering']",11436
+False,Hampton Inn NY-JFK,$$,3.0,72,UQD85Z7Hiq_1Q3Jl7Jx-HQ,['hotels'],11436
+False,Courtyard by Marriott New York JFK Airport,$$,3.5,44,9Fa99PCpCKOuzS2ymzwDMQ,"['hotels', 'venues']",11436
+False,Hilton New York JFK Airport Hotel,$$,3.0,104,IJBZF-OTsUO-AVjjI1Yk4A,['hotels'],11436
+False,Crowne Plaza JFK Airport,$$$,2.5,65,M185D5EhmQwjeQ4TVdX7jQ,"['venues', 'hotels']",11436
+False,Radisson Hotel JFK Airport,$$,2.0,67,Lw0wbbLkbrmhDDz7OujKvg,['hotels'],11436
+False,Citibank,,1.5,4,9G-yljtslyfaXk52AxckBw,['banks'],11436
+False,Diverse Coverage Brokerage,,5.0,1,T1_rhs0XeL2x_hU9uYEndA,['insurance'],11436
+False,Superfine Tiffins,$$,5.0,43,wPDNt1enVbzu01s0sVAvsw,"['indpak', 'fooddeliveryservices', 'catering']",11436
+False,Compass Coffee,,5.0,1,OT9nlLOTbDOmFqrEqz_SfA,"['cafes', 'coffee', 'internetcafe']",11436
+False,Dunkin' Donuts,$,2.0,8,s0S1VE0Zhj8KO5-2I8JNhA,"['donuts', 'coffee']",11436
+False,Junior's Food Outlets,$,3.0,3,NcZda76D_DEn_9tlYtFNuQ,['grocery'],11436
+False,Starbucks,$,2.0,1,8oA9RflB-yEazO9jViDWyA,['coffee'],11436
+False,TLC Dental Center,,4.0,4,uTRzwFds-VbLlR6-ur-BLQ,['generaldentistry'],11436
+False,Metro Urgent Medical Care of Queens,,3.5,12,fx4MVUn7Aadst7imM_fkuA,['urgent_care'],11436
+False,Advanced Medical and Dental,,1.0,1,W98-yMzfq8B_cYp0nammpw,"['cosmeticdentists', 'generaldentistry']",11436
+False,Park Health Center,,1.0,3,P00IbsdVKN23chQuBjMXug,['medcenters'],11436
+False,Cosmos Fence & Railing,,2.5,7,9_okw8Zz42ygHuFpu5CQvg,"['fencesgates', 'decksrailing']",11436
+False,bobking construction,,5.0,1,f2hTmKAEgw9ZQ6PIdNUUUA,['contractors'],11436
+False,Heatspan,,1.5,17,_2BDlmGEQ4YiVc0vKHswpg,"['hvac', 'chimneysweeps']",11436
+False,C & H Construction,,1.0,1,H13QS1inzq87mp1EyLdhhg,['contractors'],11436
+False,Max Moving Services,,5.0,1,xGHPGwwSa_xvobPJWPrOsQ,['movers'],11436
+False,Phillips Electrical,,2.0,1,0YiSmEA60ehZr6E7YXtDAA,['electricians'],11436
+False,Turf King,,1.0,1,avlgv5E2vSpHdB9mBctMkA,['landscaping'],11436
+False,Hampton Inn NY-JFK,$$,3.0,72,UQD85Z7Hiq_1Q3Jl7Jx-HQ,['hotels'],11436
+False,Courtyard by Marriott New York JFK Airport,$$,3.5,44,9Fa99PCpCKOuzS2ymzwDMQ,"['hotels', 'venues']",11436
+False,Hilton New York JFK Airport Hotel,$$,3.0,104,IJBZF-OTsUO-AVjjI1Yk4A,['hotels'],11436
+False,Crowne Plaza JFK Airport,$$$,2.5,65,M185D5EhmQwjeQ4TVdX7jQ,"['venues', 'hotels']",11436
+False,Radisson Hotel JFK Airport,$$,2.0,67,Lw0wbbLkbrmhDDz7OujKvg,['hotels'],11436
+False,Action Car Rental,,4.0,7,Fs-_wtsJr0ipKnBkPZXokw,['carrental'],11436
+False,Hertz Rent A Car,,1.0,3,olCmCdrRl9NXVQoQYYUrbQ,['carrental'],11436
+False,Jackson Heights,,5.0,4,Ya63J_24iY71ldJJTiI0tw,['localflavor'],11436
+False,Grand Central Parkway,,4.0,4,I9z_p6udFH0iKSZgCMEiTQ,['localflavor'],11436
+False,Elmhurst Green Market,$$,4.5,3,jZzbV6SRt9FXdCoziNv5xw,"['farmersmarket', 'localflavor']",11436
+False,Belt Parkway,,3.5,2,ntaQ5MmKEaV6Y7vmXXFdBQ,['localflavor'],11436
+False,Boggsville Boatel and Boat-In Theater,,2.0,1,XUaJVzCMSGXXKmNHorBIuw,['localflavor'],11436
+False,Metro PCS,,1.0,2,trLaKK8OtpPkJN2nC_-sEQ,['massmedia'],11436
+False,Lynn Van Praagh-Gratton,,5.0,4,vItgVCVQUwE0YDj3JJJndw,"['psychicmediums', 'spiritual_shop', 'printmedia']",11436
+False,Expressway Music,$$,5.0,62,AseGALfqpAmv7t_IEpzkIQ,"['djs', 'karaoke', 'musicians']",11436
+False,144 Restaurant and Lounge,$$,3.0,51,5q-Q-jDanar1qPbm_KBVqQ,"['newamerican', 'lounges']",11436
+False,Blind Barber,$$,3.5,387,hRQ4Jwqr4ixUMokpPoob-w,"['barbers', 'cocktailbars']",11436
+False,Latens Place,$$,3.5,47,yLrcXiXgRdtWXLjt1n-U_A,"['caribbean', 'lounges', 'seafood']",11436
+False,"Truffles: Jazz, Murder, & Dinner Theater",$$$$,4.5,40,agz8qfhZTWIHVvD6ltE78A,"['comedyclubs', 'dinnertheater', 'theater']",11436
+False,Flamingo Restaurant & Mantra Lounge,$$,2.5,34,rKsCMH949UhfnqLpAIM6JA,"['caribbean', 'tradamerican', 'lounges']",11436
+False,Shisha Cafe & Hookah Lounge,$$,2.5,17,ZirjSKKF381tV7VJpAGfeA,"['hookah_bars', 'lounges', 'wine_bars']",11436
+False,Underground,$$,3.0,11,6aebr2J_NjAfaOqSmfwx-A,"['lounges', 'asianfusion']",11436
+False,Aer Lingus Gold Circle Lounge,$$,4.0,5,tDTIWVOZdVdxAMKy-QbU1w,['airportlounges'],11436
+False,JAL Sakura Lounge,$$$$,3.0,7,wklf0ZoT2d_T1FPSdqVyLQ,['airportlounges'],11436
+False,XS NYC,$$,3.0,13,w74DoMr1RjswkkItMB-oVA,"['hookah_bars', 'lounges', 'cafes']",11436
+False,Rosemary's,$$,3.5,4,YmhYmk6C2KqJc6JzqHBp4Q,"['bars', 'tradamerican']",11436
+False,East Indian Music Academy,$$,3.5,3,8Fj1ZqGX4mK7Fgy7UUuRXg,['musicvenues'],11436
+False,TicTavern Barlounge,$,3.0,3,eYCgf5RfmsiTBRY3JHMD-g,['lounges'],11436
+False,Wild Orchid Bar And Lounge,$$,3.0,2,syRqnPokDt81D-YKj8YRrg,['lounges'],11436
+False,Insomnia Bar & Lounge,$,2.5,3,Ma8XdGL2Npx0KijSZNPltw,"['beer_and_wine', 'lounges']",11436
+False,Doha Nightclub and Lounge,,2.0,8,IrWorZpTXZsyYr60EkFZoQ,"['lounges', 'danceclubs', 'djs']",11436
+False,LA CHIVA LOCA PARTY BUS,,2.5,5,U5r3los2t3mKwOKPyO78vQ,"['nightlife', 'partybusrentals']",11436
+False,The Food Hut & Bar,$$,4.0,5,fUzmfJoh8uklk1cxpsaJxQ,"['caribbean', 'cocktailbars']",11436
+False,Kahwaty Joe DJ Entertainers,$$,5.0,4,_jG4hcvfu-1ZJFIdTWqqtA,"['djs', 'karaoke']",11436
+False,Brooklyn Cattitude,,5.0,69,rzUshpm-vUTJCoQ7CeV-tg,"['pet_sitting', 'dogwalkers']",11436
+False,The Cat Practice,,4.5,101,kXgQfqSc5D2TYv-DEDpqbA,"['vet', 'petboarding']",11436
+False,Brooklyn Paws,,5.0,58,W4g0OJTac1nWIEb3zNJ4Cw,"['dogwalkers', 'pet_sitting']",11436
+False,Park Slope Pups,,5.0,40,zK2GgANRDc0Gdb_tiDw-dA,"['dogwalkers', 'pet_sitting']",11436
+False,Frank's Perfect Paws,,4.5,74,aBRQAq_MInWGBUQ4-6x1bQ,['groomer'],11436
+False,Pawfect Day,,4.5,53,qSQhpFlWa3stY6O7apKEAA,"['pet_sitting', 'dogwalkers']",11436
+False,Pampered Puppies Grooming,,4.0,34,8SV9_Eok0f4rvFMJWL_cfA,"['groomer', 'petboarding']",11436
+False,At Home Veterinary,,5.0,39,XyramtUQEKg8A7_stFhzoA,"['vet', 'pethospice']",11436
+False,Veterinary Care Group Forest Hills,,5.0,18,t9u6HIezmwb1R_odYg7YMA,"['vet', 'petservices']",11436
+False,RK Dog and Cat grooming,,4.5,9,ZcX-oTANRy49jIJubCW6CQ,"['pet_sitting', 'groomer', 'pet_training']",11436
+False,Photofactory29,,5.0,25,d7xpks3ZN-3B0VnXBzVuYA,"['eventphotography', 'sessionphotography', 'petphotography']",11436
+False,Happy Tails Holistic Pet Grooming,,4.0,55,KgY3QejdWEXu0A7rYpXgIA,['groomer'],11436
+False,Groomit for Pets,,5.0,26,YNWV-BwCvKkYnpSbgXWAQg,['groomer'],11436
+False,Garden City Park Animal Hospital,,4.5,21,_6Dqup7RzkfZQyznbXJg8w,"['vet', 'petboarding']",11436
+False,The Cat Doctor,,5.0,15,LIxPA0hnIfICb4cfGg9ShA,"['vet', 'groomer', 'petboarding']",11436
+False,Bone A Boutique pet spa,,4.5,27,GoEx_K_rsZok-NntPysqTQ,"['groomer', 'dogwalkers']",11436
+False,Trail Tails LLC,,5.0,19,NOwRDOYfQCzFsZ4EsNyNag,"['dogwalkers', 'pet_sitting', 'pet_training']",11436
+False,NYC Pooch,,5.0,20,-XXaj5SoVNo57TteuC9GXQ,"['dogwalkers', 'pet_sitting', 'pet_training']",11436
+False,Paws Country Club,,4.5,21,RHThSL_PLssbDlpYHZMFKw,"['pet_sitting', 'groomer', 'dogwalkers']",11436
+False,A Cut Above Grooming Salon,,4.0,58,MbMCHHeStEaB3QQ11gYszQ,['groomer'],11436
+False,My Best Buddies,,5.0,13,2odvzr7MWIPh7guZ6onIfA,"['pet_sitting', 'pettransport', 'dogwalkers']",11436
+False,Barking Budds,,5.0,11,YOREFliTJaDaw5syUNKwRg,"['dogwalkers', 'pet_sitting', 'groomer']",11436
+False,University Animal Hospital,,3.0,47,tT2f5QJfeOMmK1clDWtMaQ,"['vet', 'pet_sitting', 'groomer']",11436
+False,Central Park Pet Spa,,4.5,13,j2X1EqmCK-4LN1sfHbhKFA,['groomer'],11436
+False,Dream Come True K9,,4.5,19,-zd5F6K-rXLNCrbOE8958w,"['pet_training', 'dogwalkers', 'pet_sitting']",11436
+False,Matt's In Home Pet Styling,,5.0,17,I7e0YC8MpG72hfuOT1QvfQ,['groomer'],11436
+False,Archer Fish Aquariums,,4.5,16,7Q4DxPylDvb5gBGhUH27dA,"['aquariums', 'aquariumservices', 'localfishstores']",11436
+False,D is for Doggy,,5.0,11,bKfKiEPK9iT1kkOk69dwrg,"['groomer', 'dogwalkers', 'petboarding']",11436
+False,Wagz and Whiskers,,5.0,9,EaHkzA1qfdslX9UTJLEurg,"['pet_sitting', 'groomer']",11436
+False,Sassy Styles Mobile Pet Spa,,4.5,20,iExPUZ0k81Zj8FC2UTyVpw,['groomer'],11436
+False,Merrick Blvd Animal Hospital,,4.0,8,AlUJrl8zn1r0Q676Qb8n9A,"['vet', 'pet_sitting']",11436
+False,BeastyFeast,,4.5,14,MXFq9nJrCzepFRZTg-6MnA,"['groomer', 'petstore', 'pet_training']",11436
+False,Pack In Harmony,,5.0,7,h2MUW9qcuA4hrh1Lv41hxQ,"['dogwalkers', 'pet_training', 'pet_sitting']",11436
+False,Spirit Radical,,5.0,12,ejipsQDGc92LJVe_cGuBdg,"['reiki', 'animalholistic', 'psychics']",11436
+False,Urban Vets Animal Hospital,,3.5,38,HPwrqJRjLHLbZ3nA_Ko4GQ,"['vet', 'petboarding']",11436
+False,Ozone Park Animal Clinic,,4.5,5,9VW1B2VfALVuj5aJa33jyQ,['vet'],11436
+False,Family Dog Walker,,5.0,10,04nHQO7Jf1UCeUl2nsZfxQ,"['dogwalkers', 'groomer', 'pet_training']",11436
+False,The Language Of Dogs,,5.0,7,GChHzkL4aOE8X_Ti632dOA,"['pet_training', 'dogwalkers', 'pet_sitting']",11436
+False,Pass The Pup,,5.0,7,5JXrHYx2g4T3tiE8Yjt2iQ,['dogwalkers'],11436
+False,Groomit,,4.5,10,7xjb-Rg4pOlImr3-YYljTg,['groomer'],11436
+False,InstaVet Home Veterinary Care,,4.0,13,O8lMfeCEP6ZSfIsrKGfG_g,"['vet', 'petservices']",11436
+False,Wags and Purrs,,5.0,4,E0PJhN_-nrhRsQtb3cND9A,"['dogwalkers', 'pet_sitting']",11436
+False,Honey Pooch,,4.5,12,vwf03vDOxBWOux68aFd6oQ,['groomer'],11436
+False,Spot Canine Club - Upper West Side,,3.5,22,fWmnTWbbHVhT6jIJbG6JLQ,"['groomer', 'pet_sitting', 'dogwalkers']",11436
+False,Spot Canine Club - Midtown West,,3.0,20,W9FTYNTHOmHtjZZKpCwhKQ,"['pet_training', 'groomer', 'dogwalkers']",11436
+False,United Petsafe,,5.0,1,RiXFhfYHr_xK3lzQhMIozw,['petservices'],11436
+False,Brooklyn Pup,,5.0,4,hAZ5sh6GbsWqm1R4PpATsA,['pet_training'],11436
+False,Rufflife Country Boarding,,5.0,15,lEkEQVbqMer90g2dDkcCfw,"['pet_sitting', 'dogwalkers']",11436
+False,Riverdale Animal Hospital,,3.0,11,kJPo9NJt9vxxq5P3Kdl4MA,"['vet', 'pet_sitting', 'emergencypethospital']",11436
+False,Jaime Cody Photography,,5.0,2,EtO7IG9mlKvCJvTuN9RPOA,"['sessionphotography', 'eventphotography', 'petphotography']",11436
+False,Amores Perros NYC,,5.0,3,OxALeWU3AC1YHzg9hN8PfQ,"['dogwalkers', 'petboarding']",11436
+False,Vetport Animal Hospital,,2.5,3,3dMj4TF4LljAkNw_Ydlw2g,"['vet', 'pet_sitting']",11436
+False,Variety Pet Meds,,3.0,2,aA9WTXErNXuFcTAfGC1gKw,['petstore'],11436
+False,Skootee's In Charge,,3.5,3,jcvOMg1Q0Soi1J19CVnfIQ,"['pet_sitting', 'dogwalkers']",11436
+False,BHaggerty Photography,,5.0,2,bZgHrEI8mvvlU8g3jxsn6Q,"['eventphotography', 'sessionphotography', 'petphotography']",11436
+False,Errands 4 Hire,,5.0,7,2ZuCVwBgUozbZN1KyBHhUQ,"['personalassistants', 'home_organization', 'dogwalkers']",11436
+False,Pet Central,,3.0,5,uBoaVbgLCPTwa2ab5890JA,"['petservices', 'petstore']",11436
+False,4paws4clawsnyc,,5.0,3,cWCpTASR0vhaKyldHvXU2Q,"['dogwalkers', 'pet_sitting']",11436
+False,Pet Photography New York,,5.0,1,rEBT7gIUpeC9wfbqQPHqeQ,['petphotography'],11436
+False,NYC Pawcademy,,5.0,3,3QuDn484IPaudpLWADYt6w,"['pet_training', 'dogwalkers', 'petboarding']",11436
+False,Hilarious Hound Pet Photography,,5.0,1,TiRkFtuJSpy-BwWKojaZ2g,['petphotography'],11436
+False,Faithful Companion Pet Cremation Services,,4.5,10,nlbKw7cfifF9-32Qbjk2kg,['petcremation'],11436
+False,Golden Paws NYC,,5.0,1,OoN436N8tgSduATxa04bHw,"['dogwalkers', 'pet_sitting']",11436
+False,Animalbehaviorist,,5.0,1,GGB_ier02sntVDnIeZRUTQ,['pet_training'],11436
+False,Cemil's Dog Walking & Sitting,,5.0,1,Q6M62tf7P4LNJoum9hoIIA,"['dogwalkers', 'pet_sitting']",11436
+False,Canine Rehab of New York,,5.0,3,QXPni5eHPJ-vB0ZSM8mqtQ,"['petservices', 'vet']",11436
+False,Cuddles N' Kisses Pet Care,,5.0,4,6YL3G1DRLgS3URd3WiVLzA,"['dogwalkers', 'pet_sitting', 'pet_training']",11436
+False,Walk and Fetch,,5.0,3,PkHgw6xcwUW5ygwoIwxLOg,"['dogwalkers', 'pet_sitting']",11436
+False,Chris Wong Photography,,5.0,4,lKJyA_g34Bhk8Xa5kg9Odg,"['petphotography', 'sessionphotography']",11436
+False,Kyle Lemaire Photography,,5.0,2,stNHLGe_6xn3VtL7nqn8zA,"['sessionphotography', 'petphotography']",11436
+False,Faraz Essani Photography,,5.0,3,Azrt0zfYQ1232XoGILbIVQ,"['sessionphotography', 'eventphotography', 'petphotography']",11436
+False,Fido's Fences,,3.5,7,8L7VGK6gjxe2gi17VkDYsw,['petservices'],11436
+False,Choobon Dogs Training,,5.0,1,PUaZZfqyYwNwF2dSvDu0Zw,['pet_training'],11436
+False,WalkSpot,,5.0,1,GvqITMthGm53g8K03JmhVw,['dogwalkers'],11436
+False,Gordon Best Photography,,5.0,3,m4KpTh1fnoFLPpwSK5Q-JA,"['sessionphotography', 'eventphotography', 'petphotography']",11436
+False,Pawpack Photography,,5.0,2,PX71FQ606ZEPsl8APRR0mg,"['petphotography', 'sessionphotography']",11436
+False,WagNTails Dog Club,,5.0,4,VnHRcd1eoIEf4PlLLlfgYw,"['dogwalkers', 'groomer', 'pet_sitting']",11436
+False,Eminent Dog,,3.5,3,A9_l6dJ3uRbuiDml6ryMlw,"['pet_training', 'dogwalkers', 'pet_sitting']",11436
+False,New Freedom Dog Training,,5.0,1,Gq_K7g1mPN5HbVj0FzWBaQ,['pet_training'],11436
+False,Woofs and Wags,,5.0,1,0OQD_H6WPSTyPPVOBeAIgw,"['dogwalkers', 'pet_sitting']",11436
+False,Lower East Beast,,5.0,1,Tpvxv-21PsG--_ZGaX-ENA,"['dogwalkers', 'pet_sitting']",11436
+False,Mari-Anna-Photography,,5.0,2,B2VCPdHWIRhnldTmVkcI2g,"['sessionphotography', 'boudoirphotography', 'petphotography']",11436
+False,Genius K9,,5.0,2,jDLLKGQ28Wf4qebBKyS2Rg,"['dogwalkers', 'pet_training', 'petboarding']",11436
+False,Daisy Rey Photography,,5.0,3,lFhVJV7OZfcU1P1HHRf7dg,"['petphotography', 'sessionphotography', 'eventphotography']",11436
+False,All Things Pups,,5.0,2,ryNMOfYX4Q2OlZFLPsG8Jg,['pet_training'],11436
+False,A1 Pet Grooming,,5.0,1,6ivVYGOWfNt0dxqmioSDOQ,['groomer'],11436
+False,PupologyNYC,,5.0,1,3AlyckGZR9DZGj1O9HSTdA,['dogwalkers'],11436
+False,Pamper Ur Poochie Boarding Parlor,,5.0,1,-wwRf85cr6YQVGHALn_-ww,"['pet_sitting', 'pet_training']",11436
+False,Mandie Marie Photography,,5.0,1,OUmPjhqOzalFKNgtoeRevA,"['sessionphotography', 'eventphotography', 'petphotography']",11436
+False,House Of The Woofers,,5.0,2,1ztRqzHp2W27Kgw6Nj4x9A,"['dogwalkers', 'pet_sitting', 'housesitters']",11436
+False,Golden Paws Spa & Grooming,,5.0,1,RIWalr14_GEZjXw96EVHiw,['groomer'],11436
+False,K9 Advanced Training,,5.0,1,shc1PHJEODDQWceoHOpf0w,['pet_training'],11436
+False,Worldcare Pet Transport,,1.5,4,x-riDx6yytqOJdHwa5aH2Q,['pettransport'],11436
+False,Paige Rigoglioso Photography,,5.0,6,iy3_xNonFcFVwTVgjrL0IA,"['sessionphotography', 'eventphotography', 'petphotography']",11436
+False,Long Island Pet & Home Sitters,,4.0,4,QapSCH8oL190k8zsnUH44w,"['pet_sitting', 'housesitters', 'dogwalkers']",11436
+False,Christina Zen Studio,,5.0,1,Fv7uiWyThHRL7W9NxAcCKA,"['petphotography', 'eventphotography', 'sessionphotography']",11436
+False,Almost Home Kennels,,3.5,2,AjpSvLLg9TefAnu3_YCGOA,"['pet_sitting', 'pettransport', 'dogwalkers']",11436
+False,Pet Nanny Angie,,5.0,11,_y3YrXrGs5187st1xRe9Rw,['pet_sitting'],11436
+False,Artispot Design Studio,,5.0,1,vVXo2nxFjqcmLcLSR3j8yA,"['web_design', 'graphicdesign']",11436
+False,Department of Motor Vehicles - Springfield Gardens,,3.5,25,umqr9OuL8LyY22ckNtzcng,['departmentsofmotorvehicles'],11436
+False,US Post Office,,1.5,25,hveAl_v-Vj9hbfNyvgZlZQ,"['postoffices', 'shipping_centers']",11436
+False,Van Wyck Expressway,,3.0,6,2MNA6AMSYjs_SFv34E6maA,['landmarks'],11436
+False,TSA Checkpoint Terminal 1,,3.0,6,-bZFAIFn40J1QglJ98IWVA,['publicservicesgovt'],11436
+False,TSA Checkpoint Terminal 8,,2.5,6,72KUfIJtkOoInM0OLulGCQ,['publicservicesgovt'],11436
+False,Indo-Caribbean Alliance,,5.0,1,EEGrdrGo_kelTZtA31Ikwg,"['communitycenters', 'nonprofit']",11436
+False,TSA Checkpoint Terminal 4 A,,2.0,9,nAd1njPoosD6aM845Qjigg,['publicservicesgovt'],11436
+False,US Post Office,,2.0,5,IgmfV5ydHe4CNRrpq9bHFw,"['postoffices', 'shipping_centers']",11436
+False,TSA Checkpoint Terminal 7,,1.5,13,mFte_FW_U-lr-xprlPqQJA,['publicservicesgovt'],11436
+False,South Ozone Park Branch Queens Library,,2.0,3,-J_IebgS8r2LmdSWpFHQJg,['libraries'],11436
+False,Rochdale Village Branch Queens Library,,3.0,1,hiUI1hD-HZEOGipHsz1ZbQ,['libraries'],11436
+False,TSA Checkpoint Terminal 5,,1.0,5,VzMubq7Q7rysXTban2GC-g,['publicservicesgovt'],11436
+False,TSA Checkpoint Terminal 4 B,,1.0,1,kdgEPCVG6GsgolUJOttHYQ,['publicservicesgovt'],11436
+False,HopeNYC,,5.0,3,YubKzdD7rVx8opRGBCSyzA,['churches'],11436
+False,South Ozone Park Seventh Day Adventist Church,,3.0,1,M4FmRgfgsCBKMdVlJS6v7A,['churches'],11436
+False,Superfine Tiffins,$$,5.0,43,wPDNt1enVbzu01s0sVAvsw,"['indpak', 'fooddeliveryservices', 'catering']",11436
+False,RCL Enterprises,$$,3.0,76,pJH3J-nlIKy29mYnIdBFUw,"['southern', 'soulfood', 'seafood']",11436
+False,144 Restaurant and Lounge,$$,3.0,51,5q-Q-jDanar1qPbm_KBVqQ,"['newamerican', 'lounges']",11436
+False,Panda Chinese Restaurant,$$,3.5,24,wIywXRHinK5FqvOx8Xq87w,['chinese'],11436
+False,Caribbean Style Cuisine,$,3.0,13,S1WhNDZopHOIqeOdAoPJtA,['caribbean'],11436
+False,Dee & L's Pizza Plus,$$,3.5,10,z5CgYMZeFmJYeWV3CyVhmA,['pizza'],11436
+False,New Hunan Wok,$,3.0,21,JMQkWXZw8I20MlfGPD76tw,['chinese'],11436
+False,RCL Enterprises - Rockaway Fish house,$,3.0,11,Pam3Os9NDQ3J8Z0zlLJvog,['soulfood'],11436
+False,Popeyes Louisiana Kitchen,$,2.5,11,q7eQs6kIp8VpWcuyD8OGVw,"['chicken_wings', 'hotdogs']",11436
+False,Yummy Taco,$,2.5,16,UnEBg_m-0-muoQRA-mSUBQ,['mexican'],11436
+False,Crown Fried Chicken,,2.0,14,YE3Drwb8OqMkysdW6MqOKg,"['hotdogs', 'chicken_wings']",11436
+False,Compass Coffee,,5.0,1,OT9nlLOTbDOmFqrEqz_SfA,"['cafes', 'coffee', 'internetcafe']",11436
+False,Great Wall Restaurant,,3.5,3,qoR4PPbraoFAnNQwMoXnNw,['chinese'],11436
+False,Golden Krust Caribbean Bakery & Grill,$$,2.0,8,K4u6ZtzL5x0JFKluoQDu9g,['caribbean'],11436
+False,Great Dragon,$,2.5,4,yRqxFpGHgiOBDeWc_DqDFA,['chinese'],11436
+False,Papa John's Pizza,$$,1.5,12,GkCNdZnErunYsmMzREvO6Q,['pizza'],11436
+False,Evers Pharmacy,$$,3.0,6,legwylpFc6SMEvZCGZAOkA,['drugstores'],11436
+False,Sahara Shops,,5.0,2,XPIJUSEY9-5XP2geBHr1jg,"['womenscloth', 'cosmetics', 'menscloth']",11436
